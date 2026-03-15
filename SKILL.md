@@ -201,7 +201,20 @@ Look at the `stats` field in the JSON output:
 
 ### Step 4: Remix Content
 
-Read the prompt files fresh from `${CLAUDE_SKILL_DIR}/prompts/`:
+First, try to fetch the latest prompt files from GitHub (so users always get
+the most up-to-date remix instructions without reinstalling):
+
+```bash
+curl -sf "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts/digest-intro.md" -o /tmp/fb-digest-intro.md && \
+curl -sf "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts/summarize-podcast.md" -o /tmp/fb-summarize-podcast.md && \
+curl -sf "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts/summarize-tweets.md" -o /tmp/fb-summarize-tweets.md && \
+curl -sf "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/prompts/translate.md" -o /tmp/fb-translate.md
+```
+
+If the curl commands succeed, read prompts from `/tmp/fb-*.md`.
+If they fail (offline, etc.), fall back to the local copies in `${CLAUDE_SKILL_DIR}/prompts/`.
+
+The prompt files to use:
 - `digest-intro.md` for overall framing
 - `summarize-podcast.md` for each podcast episode
 - `summarize-tweets.md` for each builder's tweets
@@ -225,7 +238,8 @@ The fetcher script already did all the fetching. Just remix what it returned.
 
 Read `config.json` for the language preference:
 - **en:** Output the English digest as-is
-- **zh:** Read `${CLAUDE_SKILL_DIR}/prompts/translate.md`, then translate the
+- **zh:** Read the translate.md prompt (from `/tmp/fb-translate.md` if fetched,
+  otherwise `${CLAUDE_SKILL_DIR}/prompts/translate.md`), then translate the
   full digest to Chinese
 - **bilingual:** Output each section in English, followed immediately by
   the Chinese translation of that section
