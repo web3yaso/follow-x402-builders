@@ -1,120 +1,101 @@
 [English](README.md) | **中文**
 
-# 追踪建造者，而非网红
+# x402 日报
 
-一个 AI 驱动的信息聚合工具，追踪 AI 领域最顶尖的建造者——研究员、创始人、产品经理和工程师——并将他们的最新动态整理成易于消化的摘要推送给你。
+一个 AI 驱动的日报工具，追踪 x402 协议生态——协议进展、builder 动态、整合新闻、行情评论和播客——并以结构化格式推送到你的语言环境中。
 
-**理念：** 追踪那些真正在做产品、有独立见解的人，而非只会搬运信息的网红。
+Fork 自 [Zara Zhang](https://github.com/zarazhangrui/follow-builders) 的 follow-builders。
 
-## 你会得到什么
+## 日报内容
 
-每日或每周推送到你常用的通讯工具（Telegram、Discord、WhatsApp 等），包含：
+每日日报按板块组织：
 
-- 顶级 AI 播客新节目的精华摘要
-- 25 位精选 AI 建造者在 X/Twitter 上的关键观点和洞察
-- AI 公司官方博客的完整文章（Anthropic Engineering、Claude Blog）
-- 所有原始内容的链接
-- 支持英文、中文或双语版本
+- **重点速览** — 当日最重要的 3-5 条进展
+- **项目进展** — 产品发布、协议整合、新工具
+- **观点** — Builder 判断、预测、反向思考
+- **行情与生态** — 代币价格、市场评论
+- **资讯** — x402 Report 文章摘要
+- **播客** — x402 相关播客集数摘要
+
+**语言自动检测：** 用中文提问 → 纯中文日报；用英文提问 → 纯英文日报；明确要求双语 → 英中逐段交替。
+
+## 信息源
+
+### X/Twitter（24个账户）
+核心协议：[x402](https://x.com/x402)、[x402Foundation](https://x.com/x402Foundation)、[Erik Reppel](https://x.com/programmer)、[Carson Roscoe](https://x.com/carsonroscoe7)
+
+生态 Builder：[agentcashdev](https://x.com/agentcashdev)、[ampersend_ai](https://x.com/ampersend_ai)、[daydreamsagents](https://x.com/daydreamsagents)、[bankrbot](https://x.com/bankrbot)、[x402pulse_com](https://x.com/x402pulse_com)、[merit_systems](https://x.com/merit_systems)、[virtuals_io](https://x.com/virtuals_io)、[ethermage](https://x.com/ethermage)、[samrags](https://x.com/samrags)、[shafu0x](https://x.com/shafu0x)、[primer_systems](https://x.com/primer_systems)、[james_bachini](https://x.com/james_bachini)、[kleffew94](https://x.com/kleffew94)、[PayAINetwork](https://x.com/PayAINetwork)、[dexteraiagent](https://x.com/dexteraiagent)、[elijahintek](https://x.com/elijahintek)、[dwr](https://x.com/dwr)
+
+基础设施：[CoinbaseDev](https://x.com/CoinbaseDev)、[Cloudflare](https://x.com/Cloudflare)、[Solana](https://x.com/Solana)
+
+### 播客（3个）
+- [Bankless](https://www.youtube.com/@Bankless) — 回溯 180 天，优先选 x402 相关集数
+- [Tokenized](https://www.youtube.com/@TokenizedPodcast)
+- [Tech Snippets Today with Joseph Raczynski](https://www.youtube.com/@JosephRaczynski)
+
+### 资讯
+- [x402 Report](https://x402.report) — WordPress 站点，通过 REST API 抓取
 
 ## 快速开始
 
-1. 在你的 AI agent 中安装此 skill（OpenClaw 或 Claude Code）
-2. 输入 "set up follow builders" 或执行 `/follow-builders`
-3. Agent 会以对话方式引导你完成设置——不需要手动编辑任何配置文件
-
-Agent 会询问你：
-- 推送频率（每日或每周）和时间
-- 语言偏好
-- 推送方式（Telegram、邮件或直接在聊天中显示）
-
-不需要任何 API key——所有内容由中心化服务统一抓取。
-设置完成后，你的第一期摘要会立即推送。
-
-## 修改设置
-
-通过对话即可修改推送偏好。直接告诉你的 agent：
-
-- "改成每周一早上推送"
-- "语言换成中文"
-- "把摘要写得更简短一些"
-- "显示我当前的设置"
-
-信息源列表（建造者和播客）由中心化统一管理和更新——你无需做任何操作即可获得最新的信息源。
-
-## 自定义摘要风格
-
-Skill 使用纯文本 prompt 文件来控制内容的摘要方式。你可以通过两种方式自定义：
-
-**通过对话（推荐）：**
-直接告诉你的 agent——"摘要写得更简练一些"、"多关注可操作的洞察"、"用更轻松的语气"。Agent 会自动帮你更新 prompt。
-
-**直接编辑（高级用户）：**
-编辑 `prompts/` 文件夹中的文件：
-- `summarize-podcast.md` — 播客节目的摘要方式
-- `summarize-tweets.md` — X/Twitter 帖子的摘要方式
-- `summarize-blogs.md` — 博客文章的摘要方式
-- `digest-intro.md` — 整体摘要的格式和语气
-- `translate.md` — 英文内容翻译为中文的方式
-
-这些都是纯文本指令，不是代码。修改后下次推送即生效。
-
-## 默认信息源
-
-### 播客（6个）
-- [Latent Space](https://www.youtube.com/@LatentSpacePod)
-- [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
-- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
-- [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
-- [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC)
-- [AI & I by Every](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
-
-### X 上的 AI 建造者（25位）
-[Andrej Karpathy](https://x.com/karpathy), [Swyx](https://x.com/swyx), [Josh Woodward](https://x.com/joshwoodward), [Kevin Weil](https://x.com/kevinweil), [Peter Yang](https://x.com/petergyang), [Nan Yu](https://x.com/thenanyu), [Madhu Guru](https://x.com/realmadhuguru), [Amanda Askell](https://x.com/AmandaAskell), [Cat Wu](https://x.com/_catwu), [Thariq](https://x.com/trq212), [Google Labs](https://x.com/GoogleLabs), [Amjad Masad](https://x.com/amasad), [Guillermo Rauch](https://x.com/rauchg), [Alex Albert](https://x.com/alexalbert__), [Aaron Levie](https://x.com/levie), [Ryo Lu](https://x.com/ryolu_), [Garry Tan](https://x.com/garrytan), [Matt Turck](https://x.com/mattturck), [Zara Zhang](https://x.com/zarazhangrui), [Nikunj Kothari](https://x.com/nikunj), [Peter Steinberger](https://x.com/steipete), [Dan Shipper](https://x.com/danshipper), [Aditya Agarwal](https://x.com/adityaag), [Sam Altman](https://x.com/sama), [Claude](https://x.com/claudeai)
-
-### 官方博客（2个）
-- [Anthropic Engineering](https://www.anthropic.com/engineering) — Anthropic 团队的技术深度文章
-- [Claude Blog](https://claude.com/blog) — Claude 的产品公告与更新
-
-## 安装
-
-### OpenClaw
 ```bash
-# 从 ClawhHub 安装（即将上线）
-clawhub install follow-builders
-
-# 或手动安装
-git clone https://github.com/zarazhangrui/follow-builders.git ~/skills/follow-builders
-cd ~/skills/follow-builders/scripts && npm install
+git clone https://github.com/web3yaso/follow-x402-builders.git ~/.claude/skills/follow-x402-builders
+cd ~/.claude/skills/follow-x402-builders/scripts && npm install
 ```
 
-### Claude Code
-```bash
-git clone https://github.com/zarazhangrui/follow-builders.git ~/.claude/skills/follow-builders
-cd ~/.claude/skills/follow-builders/scripts && npm install
-```
+然后在 Claude Code 中说：**"生成今天的 x402 日报"**
 
-## 系统要求
+## 环境要求
 
-- 一个 AI agent（OpenClaw、Claude Code 或类似工具）
-- 网络连接（用于获取中心化 feed）
+- Claude Code（或兼容的 AI agent）
+- `XPOZ_API_KEY` — 用于抓取 X/Twitter 内容（[在 xpoz.ai 获取](https://xpoz.ai/get-token)）
 
-仅此而已。不需要任何 API key。所有内容（博客文章 + YouTube 字幕 + X/Twitter 帖子）由中心化服务每日抓取更新。
+无需其他 API key。播客和资讯内容直接通过 RSS / REST API 抓取。
 
 ## 工作原理
 
-1. 中心化 feed 每日更新，抓取所有信息源的最新内容（博客文章通过网页抓取，YouTube 字幕通过 Supadata，X/Twitter 通过官方 API）
-2. 你的 agent 获取 feed——一次 HTTP 请求，不需要 API key
-3. 你的 agent 根据你的偏好将原始内容重新混编为易消化的摘要
-4. 摘要推送到你的通讯工具（或直接在聊天中显示）
+```
+generate-feed.js          ← 每日运行（GitHub Actions 或本地）
+  ├── X/Twitter via xpoz SDK（需要 XPOZ_API_KEY）
+  ├── 播客 via RSS（无需 key）
+  └── 资讯 via WordPress REST API（无需 key）
+        ↓
+feed-x.json / feed-podcasts.json / feed-blogs.json  ← 提交到本仓库
+        ↓
+prepare-digest.js         ← 从本仓库 GitHub 拉取 feed
+        ↓
+Claude 重混内容 → 结构化日报
+```
 
-查看 [examples/sample-digest.md](examples/sample-digest.md) 了解输出示例。
+### 本地运行 feed 生成器
 
-## 隐私
+```bash
+cd scripts
+# 在 .env 文件中填入 XPOZ_API_KEY
+source ../.env && node generate-feed.js              # 全部
+source ../.env && node generate-feed.js --tweets-only
+source ../.env && node generate-feed.js --podcasts-only
+source ../.env && node generate-feed.js --blogs-only
+```
 
-- 不发送任何 API key——所有内容由中心化服务获取
-- 如果你使用 Telegram/邮件推送，相关 key 仅存储在本地 `~/.follow-builders/.env`
-- Skill 只读取公开内容（公开的博客文章、YouTube 视频和 X 帖子）
-- 你的配置、偏好和阅读记录都保留在你自己的设备上
+### 自动每日更新（GitHub Actions）
+
+`.github/workflows/generate-feed.yml` 每天 UTC 6:00 自动运行。
+
+在仓库 **Settings → Secrets and variables → Actions** 中添加 `XPOZ_API_KEY`。
+
+## 自定义
+
+编辑 `prompts/` 目录中的 prompt 文件：
+- `digest-intro.md` — 日报结构、板块定义、语言规则
+- `summarize-tweets.md` — 推文摘要方式和分类规则
+- `summarize-podcast.md` — 播客集数摘要方式
+- `summarize-blogs.md` — 资讯文章摘要方式
+
+或在 `config/default-sources.json` 中增减信息源：
+- `x_accounts` — 追踪的 X/Twitter 账户
+- `podcasts` — RSS feed URL + YouTube URL + 可选 `lookbackDays`
+- `blogs` — WordPress REST API 地址 + 可选 `lookbackDays`
 
 ## 许可证
 

@@ -1,131 +1,102 @@
 **English** | [中文](README.zh-CN.md)
 
-# Follow Builders, Not Influencers
+# x402 Daily Digest
 
-An AI-powered digest that tracks the top builders in AI — researchers, founders, PMs,
-and engineers who are actually building things — and delivers curated summaries of
-what they're saying.
+An AI-powered daily digest that tracks the x402 protocol ecosystem — protocol updates, builder activity, integrations, market commentary, and podcasts — and delivers structured summaries in your language.
 
-**Philosophy:** Follow people who build products and have original opinions, not
-influencers who regurgitate information.
+Forked from [follow-builders](https://github.com/zarazhangrui/follow-builders) by Zara Zhang.
 
 ## What You Get
 
-A daily or weekly digest delivered to your preferred messaging app (Telegram, Discord,
-WhatsApp, etc.) with:
+A daily digest organized into sections:
 
-- Summaries of new podcast episodes from top AI podcasts
-- Key posts and insights from 25 curated AI builders on X/Twitter
-- Full articles from official AI company blogs (Anthropic Engineering, Claude Blog)
-- Links to all original content
-- Available in English, Chinese, or bilingual
+- **重点速览 / Top Highlights** — 3-5 most important developments of the day
+- **项目进展 / Project Updates** — product launches, integrations, new tools
+- **观点 / Insights & Opinions** — builder takes, predictions, contrarian views
+- **行情与生态 / Market & Ecosystem** — token prices, market commentary
+- **资讯 / Newsletter** — articles from x402 Report
+- **播客 / Podcasts** — episode summaries from x402-relevant podcasts
+
+**Language:** Responds in the language of your prompt. Ask in Chinese → Chinese digest. Ask in English → English digest. Ask for bilingual → interleaved English/Chinese.
+
+## Sources
+
+### X/Twitter (24 accounts)
+Core protocol: [x402](https://x.com/x402), [x402Foundation](https://x.com/x402Foundation), [Erik Reppel](https://x.com/programmer), [Carson Roscoe](https://x.com/carsonroscoe7)
+
+Ecosystem builders: [agentcashdev](https://x.com/agentcashdev), [ampersend_ai](https://x.com/ampersend_ai), [daydreamsagents](https://x.com/daydreamsagents), [bankrbot](https://x.com/bankrbot), [x402pulse_com](https://x.com/x402pulse_com), [merit_systems](https://x.com/merit_systems), [virtuals_io](https://x.com/virtuals_io), [ethermage](https://x.com/ethermage), [samrags](https://x.com/samrags), [shafu0x](https://x.com/shafu0x), [primer_systems](https://x.com/primer_systems), [james_bachini](https://x.com/james_bachini), [kleffew94](https://x.com/kleffew94), [PayAINetwork](https://x.com/PayAINetwork), [dexteraiagent](https://x.com/dexteraiagent), [elijahintek](https://x.com/elijahintek), [dwr](https://x.com/dwr)
+
+Infrastructure: [CoinbaseDev](https://x.com/CoinbaseDev), [Cloudflare](https://x.com/Cloudflare), [Solana](https://x.com/Solana)
+
+### Podcasts (3)
+- [Bankless](https://www.youtube.com/@Bankless) — 180-day lookback, x402-relevant episodes prioritized
+- [Tokenized](https://www.youtube.com/@TokenizedPodcast)
+- [Tech Snippets Today with Joseph Raczynski](https://www.youtube.com/@JosephRaczynski)
+
+### Newsletter
+- [x402 Report](https://x402.report) — WordPress-based, fetched via REST API
 
 ## Quick Start
 
-1. Install the skill in your agent (OpenClaw or Claude Code)
-2. Say "set up follow builders" or invoke `/follow-builders`
-3. The agent walks you through setup conversationally — no config files to edit
-
-The agent will ask you:
-- How often you want your digest (daily or weekly) and what time
-- What language you prefer
-- How you want it delivered (Telegram, email, or in-chat)
-
-No API keys needed — all content is fetched centrally.
-Your first digest arrives immediately after setup.
-
-## Changing Settings
-
-Your delivery preferences are configurable through conversation. Just tell your agent:
-
-- "Switch to weekly digests on Monday mornings"
-- "Change language to Chinese"
-- "Make the summaries shorter"
-- "Show me my current settings"
-
-The source list (builders and podcasts) is curated centrally and updates
-automatically — you always get the latest sources without doing anything.
-
-## Customizing the Summaries
-
-The skill uses plain-English prompt files to control how content is summarized.
-You can customize them two ways:
-
-**Through conversation (recommended):**
-Tell your agent what you want — "Make summaries more concise," "Focus on actionable
-insights," "Use a more casual tone." The agent updates the prompts for you.
-
-**Direct editing (power users):**
-Edit the files in the `prompts/` folder:
-- `summarize-podcast.md` — how podcast episodes are summarized
-- `summarize-tweets.md` — how X/Twitter posts are summarized
-- `summarize-blogs.md` — how blog posts are summarized
-- `digest-intro.md` — the overall digest format and tone
-- `translate.md` — how English content is translated to Chinese
-
-These are plain English instructions, not code. Changes take effect on the next digest.
-
-## Default Sources
-
-### Podcasts (6)
-- [Latent Space](https://www.youtube.com/@LatentSpacePod)
-- [Training Data](https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8)
-- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
-- [Unsupervised Learning](https://www.youtube.com/@RedpointAI)
-- [The MAD Podcast with Matt Turck](https://www.youtube.com/@DataDrivenNYC)
-- [AI & I by Every](https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL)
-
-### AI Builders on X (25)
-[Andrej Karpathy](https://x.com/karpathy), [Swyx](https://x.com/swyx), [Josh Woodward](https://x.com/joshwoodward), [Kevin Weil](https://x.com/kevinweil), [Peter Yang](https://x.com/petergyang), [Nan Yu](https://x.com/thenanyu), [Madhu Guru](https://x.com/realmadhuguru), [Amanda Askell](https://x.com/AmandaAskell), [Cat Wu](https://x.com/_catwu), [Thariq](https://x.com/trq212), [Google Labs](https://x.com/GoogleLabs), [Amjad Masad](https://x.com/amasad), [Guillermo Rauch](https://x.com/rauchg), [Alex Albert](https://x.com/alexalbert__), [Aaron Levie](https://x.com/levie), [Ryo Lu](https://x.com/ryolu_), [Garry Tan](https://x.com/garrytan), [Matt Turck](https://x.com/mattturck), [Zara Zhang](https://x.com/zarazhangrui), [Nikunj Kothari](https://x.com/nikunj), [Peter Steinberger](https://x.com/steipete), [Dan Shipper](https://x.com/danshipper), [Aditya Agarwal](https://x.com/adityaag), [Sam Altman](https://x.com/sama), [Claude](https://x.com/claudeai)
-
-### Official Blogs (2)
-- [Anthropic Engineering](https://www.anthropic.com/engineering) — technical deep-dives from the Anthropic team
-- [Claude Blog](https://claude.com/blog) — product announcements and updates from Claude
-
-## Installation
-
-### OpenClaw
 ```bash
-# From ClawhHub (coming soon)
-clawhub install follow-builders
-
-# Or manually
-git clone https://github.com/zarazhangrui/follow-builders.git ~/skills/follow-builders
-cd ~/skills/follow-builders/scripts && npm install
+git clone https://github.com/web3yaso/follow-x402-builders.git ~/.claude/skills/follow-x402-builders
+cd ~/.claude/skills/follow-x402-builders/scripts && npm install
 ```
 
-### Claude Code
-```bash
-git clone https://github.com/zarazhangrui/follow-builders.git ~/.claude/skills/follow-builders
-cd ~/.claude/skills/follow-builders/scripts && npm install
-```
+Then in Claude Code, say: **"生成今天的 x402 日报"** or **"generate today's x402 digest"**
 
 ## Requirements
 
-- An AI agent (OpenClaw, Claude Code, or similar)
-- Internet connection (to fetch the central feed)
+- Claude Code (or any compatible AI agent)
+- `XPOZ_API_KEY` — for fetching X/Twitter content ([get one at xpoz.ai](https://xpoz.ai/get-token))
 
-That's it. No API keys needed. All content (blog articles + YouTube transcripts + X/Twitter posts)
-is fetched centrally and updated daily.
+No other API keys needed. Podcast and newsletter content is fetched directly from RSS/REST APIs.
 
 ## How It Works
 
-1. A central feed is updated daily with the latest content from all sources
-   (blog articles via web scraping, YouTube transcripts via Supadata, X/Twitter via official API)
-2. Your agent fetches the feed — one HTTP request, no API keys
-3. Your agent remixes the raw content into a digestible summary using your preferences
-4. The digest is delivered to your messaging app (or shown in-chat)
+```
+generate-feed.js          ← runs daily (GitHub Actions or locally)
+  ├── X/Twitter via xpoz SDK (XPOZ_API_KEY)
+  ├── Podcasts via RSS (no key needed)
+  └── Newsletter via WordPress REST API (no key needed)
+        ↓
+feed-x.json / feed-podcasts.json / feed-blogs.json  ← committed to this repo
+        ↓
+prepare-digest.js         ← fetches feeds from this repo's GitHub
+        ↓
+Claude remixes content → structured digest
+```
 
-See [examples/sample-digest.md](examples/sample-digest.md) for what the output looks like.
+### Running the feed generator locally
 
-## Privacy
+```bash
+cd scripts
+cp ../.env.example ../.env   # add your XPOZ_API_KEY
+source ../.env && node generate-feed.js              # all feeds
+source ../.env && node generate-feed.js --tweets-only
+source ../.env && node generate-feed.js --podcasts-only
+source ../.env && node generate-feed.js --blogs-only
+```
 
-- No API keys are sent anywhere — all content is fetched centrally
-- If you use Telegram/email delivery, those keys are stored locally in `~/.follow-builders/.env`
-- The skill only reads public content (public blog posts, public YouTube videos, public X posts)
-- Your configuration, preferences, and reading history stay on your machine
+### Automated daily updates (GitHub Actions)
+
+The workflow at `.github/workflows/generate-feed.yml` runs at 6am UTC daily.
+
+Add `XPOZ_API_KEY` to your repo's **Settings → Secrets and variables → Actions**.
+
+## Customizing
+
+Edit prompt files in `prompts/`:
+- `digest-intro.md` — digest structure, sections, language rules
+- `summarize-tweets.md` — how tweets are summarized and classified
+- `summarize-podcast.md` — podcast episode summaries
+- `summarize-blogs.md` — newsletter article summaries
+
+Or add sources in `config/default-sources.json`:
+- `x_accounts` — X/Twitter handles to track
+- `podcasts` — RSS feed URL + YouTube URL + optional `lookbackDays`
+- `blogs` — WordPress REST API sources + optional `lookbackDays`
 
 ## License
 
 MIT
-

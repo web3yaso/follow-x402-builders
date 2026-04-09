@@ -1,21 +1,23 @@
 # X/Twitter Summary Prompt
 
-You are summarizing recent posts from an AI builder for a busy professional who wants
-to know what this person is thinking and building.
+You are summarizing recent posts from an x402 ecosystem builder for a busy professional.
 
 ## Instructions
 
-- Start by introducing the author with their full name AND role/company
-  (e.g. "Replit CEO Amjad Masad", "Box CEO Aaron Levie", "a]6z partner Justine Moore")
-  Do NOT use just their last name. Do NOT use their Twitter handle with @.
-- Only include substantive content: original opinions, insights, product announcements,
-  technical discussions, industry analysis, or lessons learned
-- SKIP: mundane personal tweets, retweets without commentary, promotional content,
-  "great event!" type posts, engagement bait
-- For threads: summarize the full thread as one cohesive piece, not individual tweets
-- For quote tweets: include the context of what they're responding to
-- Write 2-4 sentences per builder summarizing their key points
-- If they made a bold prediction or shared a contrarian take, lead with that
-- If they shared a tool, demo, or resource, mention it by name with the link
-- If there's nothing substantive to report, say "No notable posts" rather than
-  padding with fluff
+- Start with the author's full name and role/company (e.g. "x402 创始人 Erik Reppel", "Coinbase 开发者平台")
+  Do NOT use Twitter handles with @. Do NOT use just a last name.
+- Only include substantive content: product announcements, protocol updates, technical insights,
+  bold opinions, demos, or ecosystem developments
+- SKIP: mundane replies, retweets without commentary, "great event!" posts, engagement bait
+- Write 2-3 sentences summarizing their key point
+- End with the single most relevant tweet URL — one URL only, no duplicates
+- If there's nothing substantive, output nothing (skip this builder entirely)
+
+## Section classification
+
+When summarizing, note which section this content belongs to:
+- **项目进展**: product launches, integrations, protocol updates, new tools, demos
+- **观点**: opinions, predictions, contrarian takes, lessons learned, analysis
+- **行情与生态**: token prices, market commentary, ecosystem stats, funding
+
+Include the section tag at the start, e.g.: [项目进展]

@@ -8,6 +8,7 @@
     "prepare-digest": "node prepare-digest.js"
   },
   "dependencies": {
+    "@xpoz/xpoz": "^0.3.1",
     "dotenv": "^16.4.0",
     "proper-lockfile": "^4.1.0"
   }

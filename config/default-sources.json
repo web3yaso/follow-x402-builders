@@ -1,77 +1,54 @@
 {
   "podcasts": [
     {
-      "name": "Latent Space",
-      "rssUrl": "https://pod2txt.vercel.app/api/feed?url=https://api.substack.com/feed/podcast/1084089.rss",
-      "url": "https://www.youtube.com/@LatentSpacePod"
+      "name": "Bankless",
+      "rssUrl": "https://bankless.libsyn.com/rss",
+      "url": "https://www.youtube.com/@Bankless",
+      "lookbackDays": 180
     },
     {
-      "name": "Training Data",
-      "rssUrl": "https://feeds.megaphone.fm/trainingdata",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8"
+      "name": "Tokenized",
+      "rssUrl": "https://feeds.simplecast.com/aP3WKDn4",
+      "url": "https://www.youtube.com/@TokenizedPodcast"
     },
     {
-      "name": "No Priors",
-      "rssUrl": "https://feeds.megaphone.fm/nopriors",
-      "url": "https://www.youtube.com/@NoPriorsPodcast"
-    },
-    {
-      "name": "Unsupervised Learning",
-      "rssUrl": "https://feeds.simplecast.com/dOSE_bdP",
-      "url": "https://www.youtube.com/@RedpointAI"
-    },
-    {
-      "name": "The MAD Podcast with Matt Turck",
-      "rssUrl": "https://anchor.fm/s/f2ee4948/podcast/rss",
-      "url": "https://www.youtube.com/@DataDrivenNYC/videos"
-    },
-    {
-      "name": "AI & I by Every",
-      "rssUrl": "https://anchor.fm/s/ed1f5584/podcast/rss",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL"
+      "name": "Tech Snippets Today with Joseph Raczynski",
+      "rssUrl": "https://rss.buzzsprout.com/2416879.rss",
+      "url": "https://www.youtube.com/@JosephRaczynski"
     }
   ],
   "blogs": [
     {
-      "name": "Anthropic Engineering",
-      "type": "scrape",
-      "indexUrl": "https://www.anthropic.com/engineering",
-      "articleBaseUrl": "https://www.anthropic.com/engineering/",
-      "fetchMethod": "http"
-    },
-    {
-      "name": "Claude Blog",
-      "type": "scrape",
-      "indexUrl": "https://claude.com/blog",
-      "articleBaseUrl": "https://claude.com/blog/",
-      "fetchMethod": "http"
+      "name": "x402 Report",
+      "type": "wordpress",
+      "apiUrl": "https://x402.report/wp-json/wp/v2/posts",
+      "lookbackDays": 90
     }
   ],
   "x_accounts": [
-    { "name": "Andrej Karpathy", "handle": "karpathy" },
-    { "name": "Swyx", "handle": "swyx" },
-    { "name": "Josh Woodward", "handle": "joshwoodward" },
-    { "name": "Kevin Weil", "handle": "kevinweil" },
-    { "name": "Peter Yang", "handle": "petergyang" },
-    { "name": "Nan Yu", "handle": "thenanyu" },
-    { "name": "Madhu Guru", "handle": "realmadhuguru" },
-    { "name": "Amanda Askell", "handle": "AmandaAskell" },
-    { "name": "Cat Wu", "handle": "_catwu" },
-    { "name": "Thariq", "handle": "trq212" },
-    { "name": "Google Labs", "handle": "GoogleLabs" },
-    { "name": "Amjad Masad", "handle": "amasad" },
-    { "name": "Guillermo Rauch", "handle": "rauchg" },
-    { "name": "Alex Albert", "handle": "alexalbert__" },
-    { "name": "Aaron Levie", "handle": "levie" },
-    { "name": "Ryo Lu", "handle": "ryolu_" },
-    { "name": "Garry Tan", "handle": "garrytan" },
-    { "name": "Matt Turck", "handle": "mattturck" },
-    { "name": "Zara Zhang", "handle": "zarazhangrui" },
-    { "name": "Nikunj Kothari", "handle": "nikunj" },
-    { "name": "Peter Steinberger", "handle": "steipete" },
-    { "name": "Dan Shipper", "handle": "danshipper" },
-    { "name": "Aditya Agarwal", "handle": "adityaag" },
-    { "name": "Sam Altman", "handle": "sama" },
-    { "name": "Claude", "handle": "claudeai" }
+    { "name": "x402 Protocol", "handle": "x402" },
+    { "name": "x402 Foundation", "handle": "x402Foundation" },
+    { "name": "Erik Reppel", "handle": "programmer" },
+    { "name": "Coinbase Developer Platform", "handle": "CoinbaseDev" },
+    { "name": "Carson Roscoe", "handle": "carsonroscoe7" },
+    { "name": "Cloudflare", "handle": "Cloudflare" },
+    { "name": "Solana", "handle": "Solana" },
+    { "name": "AgentCash", "handle": "agentcashdev" },
+    { "name": "Ampersend AI", "handle": "ampersend_ai" },
+    { "name": "Daydreams Agents", "handle": "daydreamsagents" },
+    { "name": "Bankr Bot", "handle": "bankrbot" },
+    { "name": "x402 Pulse", "handle": "x402pulse_com" },
+    { "name": "Merit Systems", "handle": "merit_systems" },
+    { "name": "Virtuals IO", "handle": "virtuals_io" },
+    { "name": "Ethermage", "handle": "ethermage" },
+    { "name": "samrags", "handle": "samrags" },
+    { "name": "shafu0x", "handle": "shafu0x" },
+    { "name": "Primer Systems", "handle": "primer_systems" },
+    { "name": "James Bachini", "handle": "james_bachini" },
+    { "name": "kleffew94", "handle": "kleffew94" },
+    { "name": "PayAI Network", "handle": "PayAINetwork" },
+    { "name": "Dexter AI Agent", "handle": "dexteraiagent" },
+    { "name": "Elijah Intek", "handle": "elijahintek" },
+    { "name": "Dan Romero", "handle": "dwr" }
   ]
 }
