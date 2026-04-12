@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-04-11T06:56:56.674Z",
+  "generatedAt": "2026-04-12T07:09:32.433Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "x402 Report",
+      "title": "x402 v2 Release: Enhancing AI Payments on Injective and Solana Blockchains",
+      "url": "https://x402.report/x402-v2-release-enhancing-ai-payments-on-injective-and-solana-blockchains-01-20-26/",
+      "publishedAt": "2026-01-20T15:06:13.000Z",
+      "description": "Developers have released a full working implementation of x402 version 2, addressing key product frictions encountered in real-world applications. This update enables more flexible payment handling beyond single-call, exact-amount transactions, building on six months of production use. The implementation provides a complete reference for integrating the updated standard. x402 v2 Is Live , And It [&hellip;]"
+    },
+    {
+      "source": "blog",
+      "name": "x402 Report",
+      "title": "Top Jobs, Careers, Hackathons, and Recruitment Events Happening This Month: Key Opportunities in Tech and Beyond &#8211; January-20-2026",
+      "url": "https://x402.report/top-jobs-careers-hackathons-and-recruitment-events-happening-this-month-key-opportunities-in-tech-and-beyond-january-20-2026-01-20-26/",
+      "publishedAt": "2026-01-20T01:01:48.000Z",
+      "description": "Hackathons Projects in the x402 Hackathon supported by the Developer Acceleration Team focus on infrastructure and tools built on the x402 protocol to advance the AI ecosystem on Ethereum. Developers and experts contribute innovative solutions in these areas. Exciting news from the x402 Hackathon! Supported by the Developer Acceleration Team, innovative projects are revolutionizing infrastructure [&hellip;]"
+    },
+    {
+      "source": "blog",
+      "name": "x402 Report",
+      "title": "Net&#8217;s First x402 Onchain Upload: Cat GIF Stored on Base via Integration",
+      "url": "https://x402.report/nets-first-x402-onchain-upload-cat-gif-stored-on-base-via-integration-01-19-26/",
+      "publishedAt": "2026-01-19T14:50:33.000Z",
+      "description": "Net achieved the first production upload using x402 for onchain storage on Base. A cat gif was uploaded via Net x402 integration and served through Net CDN, simplifying uploads to Base. This cat gif is the first production upload to Net using x402 🐱 Uploaded via Net x402 by @sartocrates and served via Net CDN, [&hellip;]"
+    }
+  ],
   "stats": {
-    "blogPosts": 0
-  },
-  "errors": [
-    "Blog: Error fetching x402 Report: Unexpected token '<', \"<html><hea\"... is not valid JSON"
-  ]
+    "blogPosts": 3
+  }
 }
