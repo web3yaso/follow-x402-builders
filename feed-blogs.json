@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-04-12T07:09:32.433Z",
+  "generatedAt": "2026-04-13T07:56:50.400Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
       "name": "x402 Report",
-      "title": "x402 v2 Release: Enhancing AI Payments on Injective and Solana Blockchains",
-      "url": "https://x402.report/x402-v2-release-enhancing-ai-payments-on-injective-and-solana-blockchains-01-20-26/",
-      "publishedAt": "2026-01-20T15:06:13.000Z",
-      "description": "Developers have released a full working implementation of x402 version 2, addressing key product frictions encountered in real-world applications. This update enables more flexible payment handling beyond single-call, exact-amount transactions, building on six months of production use. The implementation provides a complete reference for integrating the updated standard. x402 v2 Is Live , And It [&hellip;]"
+      "title": "Heima Network Integrates x402 for Chain Abstraction, Polkadot Launches smol402, and Dexter AI Enhances Endpoint Verification",
+      "url": "https://x402.report/heima-network-integrates-x402-for-chain-abstraction-polkadot-launches-smol402-and-dexter-ai-enhances-endpoint-verification-01-18-26/",
+      "publishedAt": "2026-01-18T13:49:46.000Z",
+      "description": "Heima Network advances chain abstraction with x402 Heima Network has integrated the x402 protocol into its chain abstraction infrastructure. This setup allows x402 to work alongside account abstraction smart wallets, facilitating automated, seamless payments for internet-native services. The integration builds on x402&#8217;s standardization by Coinbase and its adoption in Google&#8217;s AP2 and Visa&#8217;s TAP frameworks, [&hellip;]"
     },
     {
       "source": "blog",
       "name": "x402 Report",
-      "title": "Top Jobs, Careers, Hackathons, and Recruitment Events Happening This Month: Key Opportunities in Tech and Beyond &#8211; January-20-2026",
-      "url": "https://x402.report/top-jobs-careers-hackathons-and-recruitment-events-happening-this-month-key-opportunities-in-tech-and-beyond-january-20-2026-01-20-26/",
-      "publishedAt": "2026-01-20T01:01:48.000Z",
-      "description": "Hackathons Projects in the x402 Hackathon supported by the Developer Acceleration Team focus on infrastructure and tools built on the x402 protocol to advance the AI ecosystem on Ethereum. Developers and experts contribute innovative solutions in these areas. Exciting news from the x402 Hackathon! Supported by the Developer Acceleration Team, innovative projects are revolutionizing infrastructure [&hellip;]"
+      "title": "Mogami Releases x402 V2 Stack: Enabling Multi-Chain Payments for AI Agents and DePIN Integration",
+      "url": "https://x402.report/mogami-releases-x402-v2-stack-enabling-multi-chain-payments-for-ai-agents-and-depin-integration-01-17-26/",
+      "publishedAt": "2026-01-17T13:22:12.000Z",
+      "description": "Mogami has released a complete x402 V2 compatible stack, including client, server, and facilitator components. This stack enables developers to implement the latest protocol features seamlessly. FYI, we released our x402 V2 stack ! (client, server &#038; facilitator) — Mogami (@mogami_tech) January 17, 2026 The release emphasizes compatibility with V2 specifications, supporting advanced functionalities for [&hellip;]"
     },
     {
       "source": "blog",
       "name": "x402 Report",
-      "title": "Net&#8217;s First x402 Onchain Upload: Cat GIF Stored on Base via Integration",
-      "url": "https://x402.report/nets-first-x402-onchain-upload-cat-gif-stored-on-base-via-integration-01-19-26/",
-      "publishedAt": "2026-01-19T14:50:33.000Z",
-      "description": "Net achieved the first production upload using x402 for onchain storage on Base. A cat gif was uploaded via Net x402 integration and served through Net CDN, simplifying uploads to Base. This cat gif is the first production upload to Net using x402 🐱 Uploaded via Net x402 by @sartocrates and served via Net CDN, [&hellip;]"
+      "title": "Chain-Fox AI Deploys x402 Payment System for AI Detection Agents",
+      "url": "https://x402.report/chain-fox-ai-deploys-x402-payment-system-for-ai-detection-agents-01-16-26/",
+      "publishedAt": "2026-01-16T13:11:15.000Z",
+      "description": "Developers at Chain-Fox AI have implemented an x402 payment system that operates locally and is set for deployment to the development environment in the coming week. This advancement supports ongoing work on a detection agent, an audit report aggregator, and a rug-pull warning agent. The x402 payment system that was in development before the holidays [&hellip;]"
     }
   ],
   "stats": {
