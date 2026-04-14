@@ -1,33 +1,17 @@
 {
-  "generatedAt": "2026-04-13T07:56:50.400Z",
+  "generatedAt": "2026-04-14T07:25:44.007Z",
   "lookbackHours": 72,
   "blogs": [
     {
       "source": "blog",
       "name": "x402 Report",
-      "title": "Heima Network Integrates x402 for Chain Abstraction, Polkadot Launches smol402, and Dexter AI Enhances Endpoint Verification",
-      "url": "https://x402.report/heima-network-integrates-x402-for-chain-abstraction-polkadot-launches-smol402-and-dexter-ai-enhances-endpoint-verification-01-18-26/",
-      "publishedAt": "2026-01-18T13:49:46.000Z",
-      "description": "Heima Network advances chain abstraction with x402 Heima Network has integrated the x402 protocol into its chain abstraction infrastructure. This setup allows x402 to work alongside account abstraction smart wallets, facilitating automated, seamless payments for internet-native services. The integration builds on x402&#8217;s standardization by Coinbase and its adoption in Google&#8217;s AP2 and Visa&#8217;s TAP frameworks, [&hellip;]"
-    },
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "Mogami Releases x402 V2 Stack: Enabling Multi-Chain Payments for AI Agents and DePIN Integration",
-      "url": "https://x402.report/mogami-releases-x402-v2-stack-enabling-multi-chain-payments-for-ai-agents-and-depin-integration-01-17-26/",
-      "publishedAt": "2026-01-17T13:22:12.000Z",
-      "description": "Mogami has released a complete x402 V2 compatible stack, including client, server, and facilitator components. This stack enables developers to implement the latest protocol features seamlessly. FYI, we released our x402 V2 stack ! (client, server &#038; facilitator) — Mogami (@mogami_tech) January 17, 2026 The release emphasizes compatibility with V2 specifications, supporting advanced functionalities for [&hellip;]"
-    },
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "Chain-Fox AI Deploys x402 Payment System for AI Detection Agents",
-      "url": "https://x402.report/chain-fox-ai-deploys-x402-payment-system-for-ai-detection-agents-01-16-26/",
-      "publishedAt": "2026-01-16T13:11:15.000Z",
-      "description": "Developers at Chain-Fox AI have implemented an x402 payment system that operates locally and is set for deployment to the development environment in the coming week. This advancement supports ongoing work on a detection agent, an audit report aggregator, and a rug-pull warning agent. The x402 payment system that was in development before the holidays [&hellip;]"
+      "title": "x402 Endpoint Verification Launch: Enhancing Trust with HeyElsaAI, Heima, and BEATS AI Integrations",
+      "url": "https://x402.report/x402-endpoint-verification-launch-enhancing-trust-with-heyelsaai-heima-and-beats-ai-integrations-01-15-26/",
+      "publishedAt": "2026-01-15T12:46:41.000Z",
+      "description": "Endpoint verification has launched for x402, allowing providers to verify resources and agents to prevent failed payments. This feature aims to reduce failures and build trust at scale, particularly as protocols mature for production use. Technical demo of our latest release: endpoint verification for x402. Providers can verify resources. Agents can prevent failed payments. At [&hellip;]"
     }
   ],
   "stats": {
-    "blogPosts": 3
+    "blogPosts": 1
   }
 }
