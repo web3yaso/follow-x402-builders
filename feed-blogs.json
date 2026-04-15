@@ -1,17 +1,8 @@
 {
-  "generatedAt": "2026-04-14T07:25:44.007Z",
+  "generatedAt": "2026-04-15T07:25:47.496Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "x402 Endpoint Verification Launch: Enhancing Trust with HeyElsaAI, Heima, and BEATS AI Integrations",
-      "url": "https://x402.report/x402-endpoint-verification-launch-enhancing-trust-with-heyelsaai-heima-and-beats-ai-integrations-01-15-26/",
-      "publishedAt": "2026-01-15T12:46:41.000Z",
-      "description": "Endpoint verification has launched for x402, allowing providers to verify resources and agents to prevent failed payments. This feature aims to reduce failures and build trust at scale, particularly as protocols mature for production use. Technical demo of our latest release: endpoint verification for x402. Providers can verify resources. Agents can prevent failed payments. At [&hellip;]"
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 1
+    "blogPosts": 0
   }
 }
