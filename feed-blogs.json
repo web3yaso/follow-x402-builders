@@ -1,33 +1,8 @@
 {
-  "generatedAt": "2026-04-18T07:03:36.937Z",
+  "generatedAt": "2026-04-19T07:13:48.754Z",
   "lookbackHours": 72,
-  "blogs": [
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "x402 v2 Launch: Revolutionizing Agentic Payments with Coinbase, Multi-Chain Support, and 33% Volume Growth",
-      "url": "https://x402.report/x402-v2-launch-revolutionizing-agentic-payments-with-coinbase-multi-chain-support-and-33-volume-growth-01-23-26/",
-      "publishedAt": "2026-01-23T16:00:11.000Z",
-      "description": "The x402 protocol has launched version 2, marking a significant expansion of its capabilities. This update moves beyond single-request, exact-amount payments to support more dynamic scenarios. Key additions include wallet-based identity verification, automatic API discovery for seamless integration, dynamic recipient addressing for payments, and broader multi-chain compatibility. These features make x402 production-ready for agentic payments, [&hellip;]"
-    },
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "x402 Protocol V2: Expanding AI Payments with Wallet Verification, Multi-Chain Support, and Injective Integration",
-      "url": "https://x402.report/x402-protocol-v2-expanding-ai-payments-with-wallet-verification-multi-chain-support-and-injective-integration-01-22-26/",
-      "publishedAt": "2026-01-22T15:32:13.000Z",
-      "description": "x402 protocol has released version 2, expanding capabilities to support wallet identity verification, dynamic recipients, CAIP standards for multi-chain and fiat payments, and a modular SDK for custom networks. This upgrade moves beyond single-call exact payments, enabling more flexible internet-native transactions used in AI agent and software ecosystems. Open Payment Standard x402 Expands Capabilities in [&hellip;]"
-    },
-    {
-      "source": "blog",
-      "name": "x402 Report",
-      "title": "x402 v2 Specification Release: Enhanced Modularity, x402scan v2 Launch, and Ronin Integration for Gaming Payments",
-      "url": "https://x402.report/x402-v2-specification-release-enhanced-modularity-x402scan-v2-launch-and-ronin-integration-for-gaming-payments-01-21-26/",
-      "publishedAt": "2026-01-21T15:17:37.000Z",
-      "description": "x402 v2 Specification Release The x402 protocol introduced version 2 of its specification, which includes improved modularity for easier component integration, enhanced extensibility to support future expansions, and a new discovery mechanism that simplifies resource location across networks. These changes address previous limitations in adaptability and interoperability, enabling developers to build more robust applications. 1. [&hellip;]"
-    }
-  ],
+  "blogs": [],
   "stats": {
-    "blogPosts": 3
+    "blogPosts": 0
   }
 }
