@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-04-19T07:13:48.754Z",
+  "generatedAt": "2026-04-20T08:02:09.180Z",
   "lookbackHours": 72,
-  "blogs": [],
+  "blogs": [
+    {
+      "source": "blog",
+      "name": "x402 Report",
+      "title": "x402 v2 Release: Enhancing AI Payments on Injective and Solana Blockchains",
+      "url": "https://x402.report/x402-v2-release-enhancing-ai-payments-on-injective-and-solana-blockchains-01-20-26/",
+      "publishedAt": "2026-01-20T15:06:13.000Z",
+      "description": "Developers have released a full working implementation of x402 version 2, addressing key product frictions encountered in real-world applications. This update enables more flexible payment handling beyond single-call, exact-amount transactions, building on six months of production use. The implementation provides a complete reference for integrating the updated standard. x402 v2 Is Live , And It [&hellip;]"
+    }
+  ],
   "stats": {
-    "blogPosts": 0
+    "blogPosts": 1
   }
 }

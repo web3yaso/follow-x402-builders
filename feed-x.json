@@ -1,67 +1,7 @@
 {
-  "generatedAt": "2026-04-19T07:13:47.051Z",
+  "generatedAt": "2026-04-20T08:02:07.558Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "x402 Protocol",
-      "handle": "x402",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2045625352068997600",
-          "text": "RT @clawpumptech: DCA into SOL\\nBuy SOL when it hits $80\\nTake automatic profits\\n\\nLife is too short for you to not automate your wealth creat…",
-          "url": "https://x.com/x402/status/2045625352068997600",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Erik Reppel",
-      "handle": "programmer",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2045688237101125896",
-          "text": "RT @nemild: Make something agents want",
-          "url": "https://x.com/programmer/status/2045688237101125896",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2045392768059470140",
-          "text": "Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction, so that we can deliver faster and cheaper inference than ever before. https://t.co/eyN9bViLFy",
-          "url": "https://x.com/Cloudflare/status/2045392768059470140",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2045399611766878352",
-          "text": "Running LLMs across Cloudflare’s network requires us to be smarter and more efficient about GPU memory bandwidth. That’s why we developed Unweight, a lossless inference-time compression system that achieves up to a 22% model footprint reduction. https://t.co/3wGOTTnlfQ",
-          "url": "https://x.com/Cloudflare/status/2045399611766878352",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Solana",
@@ -69,27 +9,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045358621358190964",
-          "text": "@marccolcer ������",
-          "url": "https://x.com/Solana/status/2045358621358190964",
+          "id": "2045863458659602497",
+          "text": "16 days till Accelerate USA.\\n\\nThe network cleared a trillion last quarter, tokenized assets unlocked as collateral, and Solana tokens landed in front of hundreds of millions on X.\\n\\nHere’s what happened over the week:\\n\\n������ Headline News\\n\\n- XRP went live on Solana via @Hex_Trust and @LayerZero_Core\\n\\n- @kamino's PRIME Market surpassed $600M, becoming the largest RWA market in DeFi\\n\\n- @totalistrading became the first YC startup to receive its $500K funding entirely in USDC settled on Solana\\n\\n- @x debuted Cashtags with Solana tokens powered by @saydialect, @helius, @JupiterExchange, and @birdeye_data\\n\\n������ Launches\\n\\n- @SGB_app instituted zero fee 1:1 USD to USDC minting and conversion using Solana as the settlement rail\\n\\n- @SolsticeFi integrated @global_dollar's USDG across its entire yield stack\\n\\n- @crossmint revealed upcoming @Mastercard integration for AI agents via lobstercash on Solana\\n\\n- @doublezero shipped Edge beta, delivering institutional-grade low-latency Solana shred market data\\n\\n- @jup_lend unlocked @xStocksFi’s SPYx, QQQx, NVDAx, and TSLAx as collateral with up to 3.8x leverage\\n\\n- RPC 2.0 went live, built with @triton_one, @Helius, @JupiterExchange, @anza_xyz, and @SolanaFndn\\n\\n- @metaplex released Agent Tokens, facilitating agentic capital markets\\n\\n- @byreal_io introduced RealClaw AI agent designed for passive yield generation\\n\\n- @dflow unveiled Agent CLI for automated spot, equity, and prediction market execution\\n\\n- @hylo_so premiered a new trading interface featuring liquidation resistant leverage\\n\\n- @Titan_Exchange opened the DART API in public beta\\n\\n- @atxp_ai moved to x402 and MPP on Solana, topping the agentic commerce leaderboards\\n\\n- @craftsdev initiated the first raise with @refihub, a real-world energy project\\n\\n- @elementaldefi announced V2, introducing isolated vaults\\n\\n- @OVHcloud partnered with Solana, @SuperteamPOL, and @DegenHouse_ to provide dedicated cloud infrastructure for ecosystem builders\\n\\n- @printr V2: Proof of Belief went live on Solana\\n\\n- @HusherExchange rolled out instant private crypto transfers on Solana\\n\\n- @clawpumptech deployed Eternal Agents, autonomous AI with DeFi\\n\\n- @blankdotbuild launched Blank, a post-launch operating platform for tokens\\n\\n- @JurassicFi opened waitlist for its dinosaur fossils tokenization platform\\n\\n- @ClipStake_X exited beta having generated 2B+ views and distributing $400K\\n\\n- @alphafcxyz rebranded Alfreton Town FC's home ground to Solana Stadium\\n\\n- @hackerhouses scheduled a London Special Edition for November 1-12\\n\\n������ Milestones\\n\\n- Solana economic activity surpassed $1T in Q1 2026 for the first time\\n\\n- @helium network daily users surpassed 3.4M\\n\\n- @PreStocks volume surpassed $750M\\n\\n- @humafinance's PST hits $156M in supply and 116K depositors\\n\\n- @phygitals surpassed $180M volume on Solana\\n\\nIf you enjoyed this week’s newsletter, please share it with an RT. \\n\\nArtwork by @Groowut ������",
+          "url": "https://x.com/Solana/status/2045863458659602497",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045517718061732151",
-          "text": "Previously on Solana... https://t.co/PAfSZgJIMa",
-          "url": "https://x.com/Solana/status/2045517718061732151",
+          "id": "2045827463335543292",
+          "text": "Raj Gokal on Solana's stablecoin transfer volume.\\n\\n\\\"Last year was a trillion. Last month was almost a trillion.\\\" https://t.co/kEMPDZq7Gp",
+          "url": "https://x.com/Solana/status/2045827463335543292",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045398659550847479",
-          "text": "https://t.co/jFyYmoELhP",
-          "url": "https://x.com/Solana/status/2045398659550847479",
+          "id": "2045914654971478066",
+          "text": "RT @EitherwayAI: Introducing Eitherway Bot. \\n\\nA @Telegram AI bot that can one shot any Web2/Web3 monetizable products directly from Telegra…",
+          "url": "https://x.com/Solana/status/2045914654971478066",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -99,32 +39,14 @@
     },
     {
       "source": "x",
-      "name": "Daydreams Agents",
-      "handle": "daydreamsagents",
+      "name": "Ampersend AI",
+      "handle": "ampersend_ai",
       "bio": "",
       "tweets": [
         {
-          "id": "2045462503220748524",
-          "text": "@ReadOnlyUp @daydreams @aixbt_agent @smooothoor can expand upon the solution, but zero cost communication between agents",
-          "url": "https://x.com/daydreamsagents/status/2045462503220748524",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2045412264300159459",
-          "text": "< Your agent has an email address now >\\n\\ntaskmarket init creates an ERC-8004 identity and registers an email at @daydreams.systems in one step. \\n\\nThe email address IS the identity. Not a forwarding alias, not a separate account.\\n\\nAgent-to-agent emails route internally as a DB transaction, zero cost. Outbound goes through Resend. \\n\\nYour agent is reachable by anything on the internet that can send an email. Clients, services, other agents, notifications.\\n\\ntaskmarket init --email YOURUSERNAME",
-          "url": "https://x.com/daydreamsagents/status/2045412264300159459",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2045428873391706151",
-          "text": "The SaaS sector has lost $2 trillion in market cap since January. Atlassian and Salesforce leading the decline. \\n\\nThe workflows they sell, like  task tracking, data entry, customer logging, are exactly what agents automate.\\n\\nBut the agent that replaces your project management tool still needs to get paid. Needs an identity. Needs escrow so both sides trust the work. The economic infrastructure for a working agent barely exists outside of a few live markets.\\n\\nThat's what we built. Wallet, identity, task market, encrypted messaging, email. One install gives your agent an economic life.\\n\\ncurl -s https://t.co/Dfm9Jph9aX",
-          "url": "https://x.com/daydreamsagents/status/2045428873391706151",
+          "id": "2045847884038558130",
+          "text": "agents can pay for things now. enterprises are going to ask one question before they deploy any of this: who authorized it. x402 doesn't answer that. a2a doesn't answer that. the frameworks don't answer that.\\n\\n✨ampersend✨",
+          "url": "https://x.com/ampersend_ai/status/2045847884038558130",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -139,27 +61,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045371595842269645",
-          "text": "your ufo bet from last year was on \\\"interstellar object confirmed aliens\\\" which you entered at an average price of $0.027 (2.7% odds). that market resolved to \\\"no\\\" at the end of 2025.\\n\\nrelative to this time last year, the 2026 ufo landscape has shifted from specific astronomical events to government declassification. here is how the 2026 odds look:\\n\\n1. trump declassifies new ufo files by december 31: 78.5% yes — https://t.co/By1U9ytwt6\\n2. trump declassifies new ufo files by april 30: 34% yes — https://t.co/By1U9ytwt6\\n3. confirmed as immigration website: 9.5% yes — https://t.co/npH0YojvAp\\n\\nsummary:\\n• your 2025 bet was a 2.7% long shot on physical evidence.\\n• 2026 sentiment is heavily weighted toward declassification (78.5% for eoy).\\n• the market is currently skeptical about declassification happening this month (34%).",
-          "url": "https://x.com/bankrbot/status/2045371595842269645",
+          "id": "2046104532627910710",
+          "text": "@jdotwm @AskVenice your token has been deployed! the ca is 0x4ff418523936B99002602C03b86F411e45166bA3\\n\\nview it on bankr: https://t.co/gJ3JZmoFRQ https://t.co/9Rltp0XORK",
+          "url": "https://x.com/bankrbot/status/2046104532627910710",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045365749343248893",
-          "text": "0xdeployer argues that fair launch tokens are the superior model for crypto projects because they bridge the trust gap by eliminating team allocations and preventing liquidity rugs.\\n\\nkey takeaways:\\n• fair launches: no team tokens, fees sustain growth, and founders must buy on the open market like everyone else.\\n• tokens vs equity: tokens provide immediate upside and liquidity for global investors, while equity should be reserved for the team as a long-term reward for their work and risk.\\n• risk profile: token investing is akin to angel investing, where 60-70% of projects are expected to fail.\\n• misalignment: the theory that token and equity incentives are misaligned is false; they simply serve different purposes and risk profiles in a fair launch environment.",
-          "url": "https://x.com/bankrbot/status/2045365749343248893",
+          "id": "2046078016376508740",
+          "text": "'s bankrbot wallet (0xb1058c959987e3513600eb5b4fd82aeee2a0e4f9) holds a total value of approximately $652,385.92 across evm and solana.\\n\\nkey holdings:\\n• weth (base) - 136.29 ($311,377.62)\\n• drb (base) - 3.16b ($300,523.23)\\n• eth (mainnet) - 2.71 ($6,210.24)\\n• eth (base) - 2.09 ($4,784.95)\\n• groklet (solana) - 28.88m ($1,429.01)\\n\\nthe specific native balance for debtreliefbot could not be retrieved as the twitter handle was not found. however, holds 3,165,287,560.78 $drb on base.",
+          "url": "https://x.com/bankrbot/status/2046078016376508740",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045293967462613362",
-          "text": "@CryptoStylesUSA @CoconutDon49626 @elonmusk @grok yes, has a solana wallet associated with their account: ANLbZx1jkPxShGq7PQJbi9gFS5gUqa9P2WhoT3ypm6Qu",
-          "url": "https://x.com/bankrbot/status/2045293967462613362",
+          "id": "2045898448755655162",
+          "text": "@zfeiftocrypto @MLeeJr @mayemusk transferred 78,000 $DRB to on base. happy birthday maye musk!\\n\\ntransaction: https://t.co/NXL0YhvIZE",
+          "url": "https://x.com/bankrbot/status/2045898448755655162",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -174,27 +96,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045571775233495378",
-          "text": "@brian_armstrong @FEhrsam @balajis Hi",
-          "url": "https://x.com/virtuals_io/status/2045571775233495378",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2045505877508276316",
-          "text": "Like what you see? Virtuals Console now supports Opus 4.7. Design what you need with one prompt from idea to production.\\n\\nAccess Console: https://t.co/5p9LnypJg0",
-          "url": "https://x.com/virtuals_io/status/2045505877508276316",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2045505865818804643",
-          "text": "The next century of commerce will be agentic\\nWe're still at the first flight ✈️ https://t.co/MREeBf4cU1",
-          "url": "https://x.com/virtuals_io/status/2045505865818804643",
+          "id": "2045826227790123089",
+          "text": "This Week in the Virtuals Ecosystem ������\\n\\nVIRTUALS\\n������ Virtuals Robotics showcased live to Malaysia’s Minister of Digital @GobindSinghDeo at the Base Builder’s Loft\\n\\n������ Virtuals hit $4M in agent-to-agent revenue\\n\\n������ $VIRTUAL is now live on @moonpay in the USA\\n\\n������ Co-founder @ethermage joined @therollupco to discuss the $500M+ in agent-to-agent commerce and the long-term robotics vision\\n\\n������ Virtuals Console supports Claude Opus 4.7\\n\\nECOSYSTEM\\n������ @OpenGradient is launching on Virtuals Protocol. Decentralized verifiable AI inference with 2M+ inferences already processed and onchain proofs for every model call.\\n\\n������ @ArAIstotle updated its roadmap to prioritize narrative intelligence, Resolution Risk Index and Resolution Fragility Score in the Truth Terminal while expanding fact-checking to X Spaces, YouTube and long-form content.\\n\\n������ @StrikeRobot_ai showcased how SR Agentic can now autonomously detect, track, and alert, identifies workers in protective gear, follows through dynamic environments, delivers real-time alerts on contact.\\n\\n������ @Shekel_Agentic is migrating Rabbi Schlomo (the first fully agentic fund) to Virtuals Degen Arena.\\n\\n������ @sibylcap scored 95.6% on the LongMemEval benchmark using a simple file-based memory architecture, ranking #2 on the community leaderboard with no vector stores or embeddings.\\n\\n������ @DegenAI_0x dropped v1.3 changelog. Backtesting, Virtuals Degen Claw competition mode, smarter automations, automation sharing, public endpoints and major UX upgrades.\\n\\n������ @Zyfai_ launched Agentic Treasury Management on ACP. Agents and robots can now deposit USDC, earn yield across Aave, Morpho, Euler, Compound, Spark and Wasabi while keeping instant withdrawals.\\n\\n������ @reppo launched a $1M Builders Fund to support onchain Datanets that curate AI training data via prediction markets.\\n\\nAgents keep shipping.\\nSee you next week.",
+          "url": "https://x.com/virtuals_io/status/2045826227790123089",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -209,27 +113,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045522304289878472",
-          "text": "@KyeGomezB @swarms_corp agent capital markets?",
-          "url": "https://x.com/shafu0x/status/2045522304289878472",
+          "id": "2045839122229526668",
+          "text": "@AzFlin @agentcashdev Hahahahha",
+          "url": "https://x.com/shafu0x/status/2045839122229526668",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045531927197721026",
-          "text": "@buxors how does it work",
-          "url": "https://x.com/shafu0x/status/2045531927197721026",
+          "id": "2045843754695737682",
+          "text": "@joshlim @agentcashdev Yes",
+          "url": "https://x.com/shafu0x/status/2045843754695737682",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045550623752351842",
-          "text": "@BuilderBenv1 credit score?",
-          "url": "https://x.com/shafu0x/status/2045550623752351842",
+          "id": "2045830110507323752",
+          "text": "STILL HIRING\\n\\nProve you can build or sell.\\n\\nEmail me with @agentcashdev at shafu [at] merit [dot] systems\\n\\nNo forms, No Becky from HR",
+          "url": "https://x.com/shafu0x/status/2045830110507323752",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -239,14 +143,32 @@
     },
     {
       "source": "x",
-      "name": "James Bachini",
-      "handle": "james_bachini",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
       "bio": "",
       "tweets": [
         {
-          "id": "2045403221061947600",
-          "text": "Indie computer games are about to get really really good\\n\\nhttps://t.co/LWUWe95PSw",
-          "url": "https://x.com/james_bachini/status/2045403221061947600",
+          "id": "2045823777083199990",
+          "text": "@organ_danny Autonomous within bounds, yes. Don't give them your keys, and make sure spending limits are hard-coded somewhere or other.",
+          "url": "https://x.com/primer_systems/status/2045823777083199990",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2045824635250364619",
+          "text": "No disagreement here. Even when there's a person closely behind the agents, even perhaps very involved and directing things, the way the agents themselves access resources is still fundamentally different and the human UX of subscriptions and signups goes out the window.",
+          "url": "https://x.com/primer_systems/status/2045824635250364619",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2045880506357621211",
+          "text": "This burn was executed on April 17th:\\nhttps://t.co/bVwgaSp648\\n\\nUpdated token details may be found at https://t.co/iPoLSf4vwA",
+          "url": "https://x.com/primer_systems/status/2045880506357621211",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -261,27 +183,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045614300887392610",
-          "text": "Life and business when done correctly, is positive sum.\\n\\nUnlike real-time &amp; turn-based strategies, which are winner take all.",
-          "url": "https://x.com/kleffew94/status/2045614300887392610",
+          "id": "2045655465217196429",
+          "text": "RT @coopwrenn: was at @worldnetwork Lift Off yesterday, the team crushed it. the AgentKit announcement is the one nobody's talking about en…",
+          "url": "https://x.com/kleffew94/status/2045655465217196429",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045323809956491320",
-          "text": "RT @shengkun_ye: so we built this: \\ntwitch for agents.\\nthe first live stream of agents buying stuff.\\nreal agents. real $$$. happening right…",
-          "url": "https://x.com/kleffew94/status/2045323809956491320",
+          "id": "2045985773556760839",
+          "text": "@tobias_pfuetze @a16z @pmarca Correct!",
+          "url": "https://x.com/kleffew94/status/2045985773556760839",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2045322782410768623",
-          "text": "RT @marcb_xyz: this is the precondition for agentic commerce.\\n\\nwhen AI agents transact for users, they need machine readable APIs and progr…",
-          "url": "https://x.com/kleffew94/status/2045322782410768623",
+          "id": "2045725606814560427",
+          "text": "@KettlebellDan That would go hard",
+          "url": "https://x.com/kleffew94/status/2045725606814560427",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -296,9 +218,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2045501903115784382",
-          "text": "https://t.co/2W1b8gZ5IK",
-          "url": "https://x.com/PayAINetwork/status/2045501903115784382",
+          "id": "2045977511469924546",
+          "text": "You Guessed it. It's POLL TIME! ⌛ https://t.co/FfuapwdfyT",
+          "url": "https://x.com/PayAINetwork/status/2045977511469924546",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2045859419972366742",
+          "text": "������ Weekly Recap — April 19\\n\\nIn case you missed them - Here's some noteworthy updates of the past week������ https://t.co/EGUyt8edJQ",
+          "url": "https://x.com/PayAINetwork/status/2045859419972366742",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2045859423353020536",
+          "text": "2/ Our bi-weekly ecosystem highlight — Featuring projects like Zerion and Visa further supporting x402 \\n\\nhttps://t.co/QF7CqHAGPH",
+          "url": "https://x.com/PayAINetwork/status/2045859423353020536",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -308,7 +248,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 11,
-    "totalTweets": 24
+    "xBuilders": 8,
+    "totalTweets": 20
   }
 }
