@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-05-16T07:58:35.020Z",
+  "generatedAt": "2026-05-17T08:15:30.987Z",
   "lookbackHours": 72,
   "blogs": [],
   "stats": {
     "blogPosts": 0
-  }
+  },
+  "errors": [
+    "Blog: Error fetching x402 Report: Unexpected token '<', \"<html><hea\"... is not valid JSON"
+  ]
 }
