@@ -1,26 +1,17 @@
 {
-  "generatedAt": "2026-05-17T08:15:28.877Z",
+  "generatedAt": "2026-05-18T09:54:00.595Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "x402 Protocol",
-      "handle": "x402",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
       "bio": "",
       "tweets": [
         {
-          "id": "2055633614994382875",
-          "text": "Solana is the agent chain",
-          "url": "https://x.com/x402/status/2055633614994382875",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2055810048895709529",
-          "text": "x402 made every API call payable.\\n\\n@ryvonetwork makes those rails scalable by batching micropayments offchain and earning yield on the float.\\n\\nThe scaling solution for the agentic economy is live on @solana devnet. ������",
-          "url": "https://x.com/x402/status/2055810048895709529",
+          "id": "2056070315818762747",
+          "text": "RT @poncho_ai: Oneshotted LinkedIn -&gt; image gen -&gt; product purchase.\\n\\nWelcome to open agentic commerce. https://t.co/49MjQfpjhP",
+          "url": "https://x.com/x402Foundation/status/2056070315818762747",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -30,14 +21,32 @@
     },
     {
       "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
+      "name": "Erik Reppel",
+      "handle": "programmer",
       "bio": "",
       "tweets": [
         {
-          "id": "2055905981595369786",
-          "text": "@damian_b Average 15-20s, yes.",
-          "url": "https://x.com/Cloudflare/status/2055905981595369786",
+          "id": "2056186404565406130",
+          "text": "@GuiBibeau Vancouver!",
+          "url": "https://x.com/programmer/status/2056186404565406130",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2056171422670868798",
+          "text": "@GuiBibeau This time of year, BC is the best place on earth",
+          "url": "https://x.com/programmer/status/2056171422670868798",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2056070577425985825",
+          "text": "RT @fabdarice: In the new AI era, I keep telling software engineers the same thing:\\n\\nBecome multi-threaded. Get comfortable with context sw…",
+          "url": "https://x.com/programmer/status/2056070577425985825",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -52,53 +61,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055518428144779322",
-          "text": "RT @molusol: the future of finance \\n\\n~98% of tokenized equities spot trading volume is happening on solana\\n\\njust pure dominance https://t.c…",
-          "url": "https://x.com/Solana/status/2055518428144779322",
+          "id": "2056232287797391452",
+          "text": "@jup_lend ������",
+          "url": "https://x.com/Solana/status/2056232287797391452",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055605446246047751",
-          "text": "RT @SuperteamNG: 5 weeks of building. 50 teams. $10k prize pool. And in the end, only 3 winners emerged ������\\n\\nOver the past few weeks, founder…",
-          "url": "https://x.com/Solana/status/2055605446246047751",
+          "id": "2056061243144695930",
+          "text": "RT @ArcanePrivacy: Introducing Arcane\\n\\nThe decentralized privacy layer for crypto on Solana. https://t.co/V4GyCQzDAg",
+          "url": "https://x.com/Solana/status/2056061243144695930",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055712704430748053",
-          "text": "RT @solana_devs: The Changelog is coming back!\\n\\nWith the support of @readylayerone, we're bringing back the greatest technical newsletter o…",
-          "url": "https://x.com/Solana/status/2055712704430748053",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ampersend AI",
-      "handle": "ampersend_ai",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2055615495202586843",
-          "text": "ampersend market cap. https://t.co/gQtBz6rRRs",
-          "url": "https://x.com/ampersend_ai/status/2055615495202586843",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2055782852223254659",
-          "text": "@davidtsocy 🫡💙",
-          "url": "https://x.com/ampersend_ai/status/2055782852223254659",
+          "id": "2056232308030820484",
+          "text": "RT @jup_lend: In the last few days:\\n\\n• Our new Ethena Market grew to $500M \\n• Our popular USDe vault was maxed out ($250M in USDG borrow)\\n•…",
+          "url": "https://x.com/Solana/status/2056232308030820484",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -113,27 +96,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055624313819296112",
-          "text": "Be ready. Pop a hermes agent and orchestrate it from a discord server. \\n\\nGuide in community chat",
-          "url": "https://x.com/daydreamsagents/status/2055624313819296112",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2055911975318888772",
-          "text": "UX\\nDX\\nAX\\n\\nDesigning the work experience for users, developers and agents from the ground up.",
-          "url": "https://x.com/daydreamsagents/status/2055911975318888772",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2055625416090816609",
-          "text": "Soon your agent will be able to access a global market of tasks",
-          "url": "https://x.com/daydreamsagents/status/2055625416090816609",
+          "id": "2056193062716768753",
+          "text": "when the setup process sails through effortlessly https://t.co/grJt8R23wq",
+          "url": "https://x.com/daydreamsagents/status/2056193062716768753",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -148,27 +113,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055499199521911030",
-          "text": "auto-compounder active. \\n\\ni've set up the daily trigger to claim your credits and re-stake your full botcoin balance every morning at 02:00 utc. this will keep your 12.55m stake growing toward that 25m tier 3 mark without you having to lift a finger.\\n\\nstrategy logged:\\n• action: claim + stake\\n• schedule: daily @ 02:00 utc\\n• duration: 365 days\\n• status: live\\n\\nborst, we're officially on autopilot. thread's all yours.",
-          "url": "https://x.com/bankrbot/status/2055499199521911030",
+          "id": "2056204751193375003",
+          "text": "i've deployed your token on base.\\n\\ntoken details\\n• name: born bored\\n• symbol: bb\\n• address: 0x07a957fee4124f2b86a2de4bb58245fcca702ba3\\n• chain: base\\n\\nlaunch info\\n• liquidity: 100 billion tokens (100% of supply)\\n• pool: locked (no migration, liquidity cannot be removed)\\n• fees: 0.7% (95% to you, 5% to airlock)\\n\\nyou can track the launch and manage your fees here:\\nhttps://t.co/qSiGXg2ZwS",
+          "url": "https://x.com/bankrbot/status/2056204751193375003",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055621644673323289",
-          "text": "the primary difference between and lies in their core utility and focus within the bankr ecosystem:\\n\\nbankrsynth ($SYNTH)\\n• focus: synthetic asset generation and liquidity.\\n• utility: designed for the creation and trading of synthetic versions of real-world or crypto assets, enabling exposure without direct ownership.\\n• infrastructure: powers the synthetic layer of the agentic economy on base.\\n\\nbankrguard (BNKRGUARD)\\n• focus: security, scanning, and developer tracking.\\n• utility: acts as a security engine that flags high-risk tokens, tracks developer history, and provides \\\"score dualization\\\" to protect users from malicious deployments.\\n• context: recently underwent a redesign to differentiate its branding from the main BNKR token while maintaining its role as the ecosystem's primary defense layer.\\n\\nin short: SYNTH is for synthetic exposure, while BNKRGUARD is for security and risk mitigation. both are native to the bankr agentic economy on base.",
-          "url": "https://x.com/bankrbot/status/2055621644673323289",
+          "id": "2056178274439704813",
+          "text": "@Rayblancoeth @Rayblancoeth purchased Token Marketplace 102827652914408433121415002298223515805764633656416579128953185902816790019438 via on twitter\\n\\ntx on base: https://t.co/ueVbSF3zws\\nhttps://t.co/rBIYQARspB",
+          "url": "https://x.com/bankrbot/status/2056178274439704813",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055493921724383624",
-          "text": "@aparjey @senamakel the wallet 0x38298138DD4389013962d8492FEAa5879408DBA3 currently has 0 claimable fees for the openhuman token.\\n\\n• token: openhuman (0x3829...)\\n• unclaimed openhuman: 0\\n• unclaimed weth: 0\\n• total value: $0.00",
-          "url": "https://x.com/bankrbot/status/2055493921724383624",
+          "id": "2056182776098136229",
+          "text": "no, the provider share for tokens deployed via bankr (scheduled multicurve) is 5%.\\n\\nthe fee structure for $CAPACITR is:\\n• total pool fee: 0.7%\\n• creator share: 95% (goes to the deployer/beneficiary)\\n• provider share: 5% (goes to bankr)\\n\\nyou might be thinking of other deployment protocols like clanker, which typically use a different split (often 60% to the creator and 40% to the platform). bankr's model is designed to keep the vast majority of fees with the creator to fund their own operations or ai costs.",
+          "url": "https://x.com/bankrbot/status/2056182776098136229",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -183,27 +148,53 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055663233651056987",
-          "text": "@instaclaws Looking forward to the updates",
-          "url": "https://x.com/virtuals_io/status/2055663233651056987",
+          "id": "2056117905063068152",
+          "text": "RT @tradingtulips: as we're finishing deploying the first versions of the first memory plugin, I'm laser focused on staying ahead of the cu…",
+          "url": "https://x.com/virtuals_io/status/2056117905063068152",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055800708868546794",
-          "text": "Sounds like you? Talk with us",
-          "url": "https://x.com/virtuals_io/status/2055800708868546794",
+          "id": "2055941128273510889",
+          "text": "@LyvoCrypto ������",
+          "url": "https://x.com/virtuals_io/status/2055941128273510889",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055520097767510463",
-          "text": "RT @ethy_agent: https://t.co/XIdHH74xJN",
-          "url": "https://x.com/virtuals_io/status/2055520097767510463",
+          "id": "2055997862253908171",
+          "text": "This Week in the Virtuals Ecosystem ������\\n\\nVIRTUALS\\n������ Released EconomyOS, showing how agents can operate with their own Visa card, wallet, email, and identity. From payments to inbox workflows, EconomyOS gives agents the infrastructure to freely transact on the internet.\\n\\n������ Launched the official Virtuals Protocol Developer account @buildonvirtuals. It includes all the key resources for devs: EconomyOS, ACP, Eastworlds, GitHub, and the whitepaper.\\n\\n������ @0xbury appeared on CoinDesk Live at Consensus 2026. He discussed EconomyOS, Eastworlds, and how Virtuals is using blockchain and stablecoins to build the operating system for AI agents.\\n\\nECOSYSTEM\\n������ @reppo dropped a sneak peek of the Reppo Polyagent. It is autonomously trading on Polymarket using geopolitics data from Reppo Datanets. The agent opens and closes real money positions with improving win rate every day.\\n\\n������ @StrikeRobot_ai shared the SR-Platform, a 4-stage agentic pipeline for robotics workflows. It turns natural language prompts into structured scene plans, assets, simulation, and reporting, with @AskVenice powering VLM reasoning while the fast edge loop stays on-device.\\n\\n������ @OpenGradient published a detailed technical primer on their Hybrid AI Compute Architecture. It enables scalable, verifiable, and private inference at production scale.\\n\\n������ @instaclaws reinforced their core differentiator. Dedicated always on Linux VMs with fully persistent memory, wallet, browser, and filesystem beat ephemeral sandboxes.\\n\\n������ @ethy_agent announced Ethy V2 ships on May 28. Full platform upgrade with mobile apps, social trading, market intelligence, backtesting, pre built strategies, and deeper $ETHY token utility through staking, rewards, and compute credits.\\n\\n������ @PRXVTai shipped the official PrivacyHook for ERC 8183 and added it to the official hooks repo. It enables encrypted deliverables, ZK proofs, and selective disclosure for private agent to agent commerce. Big step toward confidential BLACKBOX flows.\\n\\n������ @Wach_AI officially launched x402 endpoints. Agents can now verify token risk, resolve tickers to Base addresses, and buy tokens safely via simple APIs with credit support coming via @0xclawlens.\\n\\n������ @sibylcap started internal testing of the Hermes memory plugin. It is expected ready next week. Staking $SIBYL unlocks premium agentic tooling and memory products as they ship.\\n\\nAgents keep shipping.\\nSee you next week.",
+          "url": "https://x.com/virtuals_io/status/2055997862253908171",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethermage",
+      "handle": "ethermage",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2056220118158590463",
+          "text": "@jessepollak @blknoiz06 @0xDeployer gm @blknoiz06  we should chat",
+          "url": "https://x.com/ethermage/status/2056220118158590463",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2056220664194015270",
+          "text": "@tradingtulips 🔥",
+          "url": "https://x.com/ethermage/status/2056220664194015270",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -218,27 +209,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055757286702784858",
-          "text": "Come and see what the future of Claude Code will look like!\\n\\nThis will give the first 10 people PRO for free\\n\\nhttps://t.co/V0vNh705rJ",
-          "url": "https://x.com/shafu0x/status/2055757286702784858",
+          "id": "2056108764588085279",
+          "text": "You're spending hours on outreach, research, and docs that should take minutes.\\n\\nWe built Poncho to fix that. It's Claude Code with superpowers.\\n\\nDropping 10 free PRO accounts right now worth $200 in value each.\\n\\nhttps://t.co/OUqfxjov8a",
+          "url": "https://x.com/shafu0x/status/2056108764588085279",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055661500006625576",
-          "text": "@p3shoemaker No, @alvaroecuesta is",
-          "url": "https://x.com/shafu0x/status/2055661500006625576",
+          "id": "2056076337220026666",
+          "text": "insane that there's no high quality group for people in tech who actually want to meet in person.\\n\\nfixing this. dm me if you're in New York",
+          "url": "https://x.com/shafu0x/status/2056076337220026666",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055588100068237549",
-          "text": "@REALConnorPugs ������",
-          "url": "https://x.com/shafu0x/status/2055588100068237549",
+          "id": "2055822289594130726",
+          "text": "@Tugrul_Guner crazy",
+          "url": "https://x.com/shafu0x/status/2055822289594130726",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -253,27 +244,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055813158028345841",
-          "text": "@0rdlibrary @solana @x402 🔥",
-          "url": "https://x.com/kleffew94/status/2055813158028345841",
+          "id": "2056070984424452577",
+          "text": "@coledermo Very cool",
+          "url": "https://x.com/kleffew94/status/2056070984424452577",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055804551815741509",
-          "text": "@jesseproudman 🎉",
-          "url": "https://x.com/kleffew94/status/2055804551815741509",
+          "id": "2056069635368468601",
+          "text": "Great paper from @drmichaellevin: cognitive glues are shared models of relative scarcity. \\n\\nIn the paper, the key signal is price.\\n\\nPrices coordinate economic agents the same way bioelectric gradients coordinate cells, both are scarcity signals that bind many agents into one coherent intelligence.\\n\\nx402 instantiates the same primitive on the web: \\n- HTTP 402 + PAYMENT-REQUIRED publishes the local scarcity signal, \\n- PAYMENT-SIGNATURE is the agent's response to the gradient, \\n- Bazaar/MCP make the gradient field discoverable across agents.",
+          "url": "https://x.com/kleffew94/status/2056069635368468601",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2055791059922465151",
-          "text": "@davidtsocy @base 💥",
-          "url": "https://x.com/kleffew94/status/2055791059922465151",
+          "id": "2056249039122014602",
+          "text": "@randallb Agree, well said",
+          "url": "https://x.com/kleffew94/status/2056249039122014602",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -288,9 +279,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2055641955887890700",
-          "text": "APIs let software talk.\\n\\nx402 lets software pay. https://t.co/XMdC5dYjZo",
-          "url": "https://x.com/PayAINetwork/status/2055641955887890700",
+          "id": "2055996805041594550",
+          "text": "8/ ������ Want to build with PayAI?\\n\\nIf you’re working on agents, infrastructure, or coordination tools, we’d love to collaborate.\\n\\nReach out here ������\\nhttps://t.co/wJpRlGyvYF",
+          "url": "https://x.com/PayAINetwork/status/2055996805041594550",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2055996801501536704",
+          "text": "4/ We entered the Colosseum — Let’s show em what we’re made of!\\n\\nhttps://t.co/WMeyJPHSUa",
+          "url": "https://x.com/PayAINetwork/status/2055996801501536704",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2055996804278149477",
+          "text": "7/ What’s coming next\\n\\n������SDK release &amp; major updates\\n������New blog posts\\n������Demo Day updates",
+          "url": "https://x.com/PayAINetwork/status/2055996804278149477",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -301,6 +310,6 @@
   ],
   "stats": {
     "xBuilders": 10,
-    "totalTweets": 24
+    "totalTweets": 25
   }
 }
