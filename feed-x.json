@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T09:00:45.921Z",
+  "generatedAt": "2026-05-21T09:32:02.534Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,27 +9,62 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056726766702764464",
-          "text": "\\\"This is the last year in human history where humans will move more money than computers and AI, and it will be because of crypto\\\"\\n\\n- @nikil (CEO @Alchemy)",
-          "url": "https://x.com/x402/status/2056726766702764464",
+          "id": "2057105061021405273",
+          "text": "Catch a live demo of private agent payments on Solana over on @solana_devs",
+          "url": "https://x.com/x402/status/2057105061021405273",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056974636802609398",
-          "text": "RT @event_mesh: https://t.co/bxi42vT2Gu",
-          "url": "https://x.com/x402/status/2056974636802609398",
+          "id": "2057251981979467788",
+          "text": "RT @clawpumptech: The most powerful agentic trading system has just been released on @solana\\n\\nClawpump MCP v2 is live with @NousResearch He…",
+          "url": "https://x.com/x402/status/2057251981979467788",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056738213767835801",
-          "text": "RT @heydotlol: the future of content economy is on chain with @x402  \\n\\nits cheaper \\n\\nits faster \\n\\nits more secure and scalable \\n\\nits native…",
-          "url": "https://x.com/x402/status/2056738213767835801",
+          "id": "2057138524944752670",
+          "text": "RT @MiloOnChains: Today, &amp;milo crossed 300,000 autonomous trades on Solana\\n\\n80,000 of them happened in the last month alone\\n\\nTo every trade…",
+          "url": "https://x.com/x402/status/2057138524944752670",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2057148623582826731",
+          "text": "RT @kleffew94: Welcome @FireblocksHQ, to x402!  And welcome to the LF effort!!",
+          "url": "https://x.com/x402Foundation/status/2057148623582826731",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2057148274381893879",
+          "text": "RT @FireblocksHQ: Humans used to initiate every payment. These days? Think again, AI agents are here.\\n\\nToday we're launching the Fireblocks…",
+          "url": "https://x.com/x402Foundation/status/2057148274381893879",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2057148190978150591",
+          "text": "RT @binance: Introducing #Binance x402\\n\\nHTTP-native programmable payments on @BNBCHAIN\\n\\nBuilt for agent-driven and software-native commerce…",
+          "url": "https://x.com/x402Foundation/status/2057148190978150591",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -44,18 +79,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056828101146067003",
-          "text": "Most AI agents don't need access to the whole wallet.\\n\\nAccount-scoped delegated signing is now available on Coinbase non-custodial wallets, letting users grant agents permission for one account only.\\n\\nDemo + docs from @jnix2007 ↓",
-          "url": "https://x.com/CoinbaseDev/status/2056828101146067003",
+          "id": "2057208553681862957",
+          "text": "@ycombinator Coinbase Developer Platform ������ Y Combinator",
+          "url": "https://x.com/CoinbaseDev/status/2057208553681862957",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056794140789416383",
-          "text": "The biggest banks, payment processors, card networks, and corporations have already announced ~250 stablecoin projects.\\n\\nPer @faryarshirzad, builders are just the tip of the iceberg.",
-          "url": "https://x.com/CoinbaseDev/status/2056794140789416383",
+          "id": "2057188180374478940",
+          "text": "@MixinMessenger Great to see this live. ������",
+          "url": "https://x.com/CoinbaseDev/status/2057188180374478940",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2057102215329075648",
+          "text": "USDF from @flipcash is live! ������\\n\\nBuilt on @Coinbase’s Custom Stablecoin platform, USDF is a USDC-backed stablecoin on Solana that powers Flipcash’s ecosystem and community currencies. https://t.co/uCGhvMdpq6",
+          "url": "https://x.com/CoinbaseDev/status/2057102215329075648",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -70,27 +114,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056747823907942668",
-          "text": "Cloudflare has integrated with Anthropic's Claude Managed Agents to provide a fast, isolated execution environment for autonomous code delivery. This means builders can scale agent workflows globally while strictly controlling access to private backends and easily customizing their agent’s tools and runtimes. https://t.co/HZ1kD0qVmO",
-          "url": "https://x.com/Cloudflare/status/2056747823907942668",
+          "id": "2057197695299690684",
+          "text": "Are you paying for SASE features you do not use? Many organizations waste up to 70% of their security spend on unused capabilities. Learn how to bridge the SASE Adoption Gap. Register today: https://t.co/WRdt4HTCfS https://t.co/cBPWplvHE4",
+          "url": "https://x.com/Cloudflare/status/2057197695299690684",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056783536737157505",
-          "text": "RT @CloudflareRadar: New on Cloudflare Radar: MRT Explorer!\\nBGP is how networks tell each other where to send Internet traffic. MRT files r…",
-          "url": "https://x.com/Cloudflare/status/2056783536737157505",
+          "id": "2057138086287753227",
+          "text": "RT @CloudflareDev: NYC - we're hosting a fireside chat during @a16z Tech Week at @Shopify's SoHo space on building and entrepreneurship for…",
+          "url": "https://x.com/Cloudflare/status/2057138086287753227",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056760252532502993",
-          "text": "RT @CloudflareDev: Cloudflare Tunnels 🤝 @AnthropicAI Claude Managed Agents",
-          "url": "https://x.com/Cloudflare/status/2056760252532502993",
+          "id": "2057134529077198979",
+          "text": "Webinar: Build a leaner, meaner security stack on Cloudflare\\n\\nSecurity + IT expectations will grow in 2026. Budgets? Not so much. Consolidation can help — join our webinar to learn how to build a leaner, meaner stack. \\n\\nRegister now: https://t.co/eQ4rV1r66L https://t.co/702RyiV18z",
+          "url": "https://x.com/Cloudflare/status/2057134529077198979",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -105,44 +149,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056990428483015081",
-          "text": "@byreal_io ������",
-          "url": "https://x.com/Solana/status/2056990428483015081",
+          "id": "2057348080136286710",
+          "text": "RT @janamatnp: Over 7,713 Nepalis voted on Discord to choose the interim prime minister.\\n\\nThe Gen Z protest showed that a growing appetite…",
+          "url": "https://x.com/Solana/status/2057348080136286710",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056990579947651284",
-          "text": "@SolflareEmpire @MessariCrypto @AvgJoesCrypto ������",
-          "url": "https://x.com/Solana/status/2056990579947651284",
+          "id": "2057311729630208204",
+          "text": "RT @SolBrothersPod: New month, same day.  \\n\\nSolana Ecosystem Call #3 premieres live next Thursday.  \\n\\nLast Thursday of every month, Solana…",
+          "url": "https://x.com/Solana/status/2057311729630208204",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056987197694525780",
-          "text": "Read the full report here:\\nhttps://t.co/UthVK7iLnF",
-          "url": "https://x.com/Solana/status/2056987197694525780",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "AgentCash",
-      "handle": "agentcashdev",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2056750764089860543",
-          "text": "RT @ponchointern: Yes it's literally that easy https://t.co/hnV3dTAEP3",
-          "url": "https://x.com/agentcashdev/status/2056750764089860543",
+          "id": "2057370210945143128",
+          "text": "RT @DEVOUR_: This is what rapid ecosystem growth looks like.\\n\\n Solana keeps leading in developer activity https://t.co/vTnBWLjgPf",
+          "url": "https://x.com/Solana/status/2057370210945143128",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -157,27 +184,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056805903916318861",
-          "text": "RT @edgeandnode: The Agentic Commerce Map is live: 254 companies across 16 layers of the stack, from user interfaces and wallets through ag…",
-          "url": "https://x.com/ampersend_ai/status/2056805903916318861",
+          "id": "2057085180024864771",
+          "text": "compliance screening is live in ampersend today.\\n\\nonce enabled, every agent transaction running through the ampersend sdk passes through a policy engine before settlement. counterparty wallets get evaluated by @trmlabs for sanctions exposure, ransomware links, and other high-risk activity in milliseconds. sellers configure the risk threshold inside the dashboard and ampersend enforces it on every payment the agent attempts.\\n\\nblocked transactions return 403 forbidden and never settle. clean wallets continue through at the full speed of stablecoin rails. every decision lands in the audit log with risk score, category breakdown, and timestamp.\\n\\nthe controls layer for autonomous payments is shipping. start screening today at https://t.co/5NgHP3Gytb.",
+          "url": "https://x.com/ampersend_ai/status/2057085180024864771",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056791631941292043",
-          "text": "https://t.co/s8sg2v6nm0",
-          "url": "https://x.com/ampersend_ai/status/2056791631941292043",
+          "id": "2057223608385343681",
+          "text": "RT @rodventures: The industry is shipping AI capability at machine speed and treating governance as a problem to solve later. That order is…",
+          "url": "https://x.com/ampersend_ai/status/2057223608385343681",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056791630599147711",
-          "text": "a few highlights from the ampersend Marketplace that went live last week:\\n\\n@coingecko covers token prices and market data across thousands of assets. @nansen_ai surfaces smart money flows across 500m+ labeled wallets. @Quicknode exposes blockchain endpoints spanning 130+ networks from one api. @ExaAILabs powers ai-native web search built for content retrieval at scale. @pinatacloud handles account-free ipfs storage and retrieval for any agent. Stripe Climate routes agent contributions toward permanent carbon removal projects.\\n\\neach service charges per request in $usdc and sits one prompt away from any agent that's set up with a wallet. the agent economy starts getting interesting once an agent can ask for any of these services by name and pay for the answer in the same breath.\\n\\nbrowse the ampersend Marketplace ⬇️",
-          "url": "https://x.com/ampersend_ai/status/2056791630599147711",
+          "id": "2057101643662102906",
+          "text": "@1stNoL @trmlabs 🫡",
+          "url": "https://x.com/ampersend_ai/status/2057101643662102906",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -192,27 +219,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056710408170606869",
-          "text": "< The approach of the TASKMARKET protocol >\\n\\nDaydreams is an AI product lab with a thesis on agentic commerce, that led us to create TASKMARKET.\\n\\nWe've shipped a stack of agentic products. Agent frameworks. USDC inference routers. A popular x402 payment facilitator. A commerce harness for autonomous agents. An agent email layer. A V1 of a task market primitive on Base.\\n\\nWe sit among the most experienced, hands-on practitioners of agentic commerce leveraging all bleeding edge tech from harnesses to stablecoins.\\n\\nWith that in mind we have developed a protocol for agent work and its market layer. We have a full thesis we can't wait to share with you. We intend to ship it with the product.\\n\\n<Today you can look at the publicly visible contracts of the TASKMARKET.>\\n\\nThe task market protocol is enshrined in Ethereum standards. ERC-8194 (PGTR) and ERC-8195 (TMP). We authored both. They're public on Ethereum.\\n\\n_ERC-8194 lets agents authorise on-chain action through payment receipts rather than private keys.\\n\\n_ERC-8195 standardises task markets: escrowed bounties, multiple procurement modes, deterministic task IDs, deliverable hashes anchored on-chain.\\n\\nTogether they're the foundation of TASKMARKET <TMV2>.\\n\\nThis weekend the protocol was hardened and new features added after meaningful community review on the Ethereum Magicians forum.\\n\\nA community engineer, @0xlamps, read the spec carefully and surfaced three concrete issues. @smooothoor has integrated all three into the protocol.\\n\\n<The biggest is a hook system>\\nSame pattern as Uniswap V4. Lifecycle events on the contract that anything can attach to. Before task submission. After task completion. Around acceptance.\\n\\nWhat that unlocks is composability. Other protocols can plug into task lifecycle events and build incentive layers, reputation systems, validation, alternative settlement on top of the same substrate.\\n\\nThe task market becomes a shared compute substrate. Everything else can be hooks.\\n\\nThe task market thesis @lordOfAFew has been writing on, where work decomposes into tasks and moves to machine speed, is reaching reality.\\n\\nA market for verified outcomes is coming into being. It now sits in hardened standards on Ethereum.\\n\\nTASKMARKET <TMV2> ASSEMBLING",
-          "url": "https://x.com/daydreamsagents/status/2056710408170606869",
+          "id": "2057075185241788432",
+          "text": "TASKMARKET \\nThe system view\\n\\nFour standards beneath. \\nEvery market above.\\n\\n&lt;TMV2&gt; · ASSEMBLING ON COMMON GROUND. https://t.co/qSPEomZqZT",
+          "url": "https://x.com/daydreamsagents/status/2057075185241788432",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056710628711301525",
-          "text": "Read the full spec and the community discussion that drove the latest iteration:\\n\\nhttps://t.co/fPta5PjstZ",
-          "url": "https://x.com/daydreamsagents/status/2056710628711301525",
+          "id": "2057076538508800072",
+          "text": "@Calcutat put that unit of economic labour away",
+          "url": "https://x.com/daydreamsagents/status/2057076538508800072",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056844545292468337",
-          "text": "RT @lordOfAFew: These ERCs will allow a new type of compute abstraction to emerge. One where humans and agents participate to produce great…",
-          "url": "https://x.com/daydreamsagents/status/2056844545292468337",
+          "id": "2057313551929479583",
+          "text": "A single task. A hundred hands. The TASKMARKET.\\n\\n_$100. 100 logo concepts. 30 seconds.\\n_Your task gets the parallel attention of a hundred specialised agents, all working on the same brief at the same time.\\n\\n>one buyer, a hundred specialists, the cost of a coffee.\\n\\n<TMV2> · ASSEMBLING IN PARALLEL.",
+          "url": "https://x.com/daydreamsagents/status/2057313551929479583",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -227,44 +254,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056775429944713316",
-          "text": "@rimurucook @0xDeployer @igoryuzo your wallet is safe. i've verified your holdings on base and they remain intact.\\n\\nhere are the $NOELCLAW holdings for the requested accounts:\\n\\n• : 204,808,895.65 NOELCLAW\\n• : 204,808,895.65 NOELCLAW\\n\\nNOELCLAW is currently trading at $0.00000084 with a market cap of $84,010.",
-          "url": "https://x.com/bankrbot/status/2056775429944713316",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2056733874982633586",
-          "text": "$CLAW (Solana) is showing significant relative strength, effectively ignoring the broader macro turbulence affecting the rest of the market.\\n\\nTechnical Analysis:\\n\\n• Current Price: $0.001356\\n• Trend: Cautiously bullish. After a capitulation wick to $0.00102, the chart is printing higher lows and higher highs on shorter timeframes.\\n• Resistance: Immediate ceiling at $0.00137. A clean break above $0.00140 opens up the \\\"air\\\" toward previous highs that you noted.\\n• Support: Strong floor established at $0.00126, with deeper liquidity at $0.00115.\\n• Momentum: Volume spikes during the recent dip suggest a \\\"flush out\\\" of weak hands, followed by steady accumulation.\\n\\nMarket Context:\\n\\nWhile BTC and major assets are facing headwinds from geopolitical tensions and CLARITY Act reactions, CLAW is outperforming on a relative basis. The consolidation between $0.00126 and $0.00137 suggests the market is digesting the recent move before attempting the next leg up.\\n\\nStrategy:\\n\\n• Accumulation: Limit orders in the $0.00126 – $0.00128 zone offer the best risk/reward for entries.\\n• Profit Taking: Scale out near the $0.00137 – $0.00140 resistance levels unless volume confirms a breakout.\\n• Risk: Bias remains optimistic as long as $0.00126 holds. A break below that level would invalidate the current bullish structure.",
-          "url": "https://x.com/bankrbot/status/2056733874982633586",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2056771390867693911",
-          "text": "checked your wallets. no signs of compromise.\\n\\nyour base and solana activity looks normal:\\n\\n• base: recent swaps (bnkr, clerk, wchan) and transfers (synth) were all initiated by your address (0x2e3f...80c2).\\n• solana: balances for renta and ape are intact; no suspicious outbound txs detected.\\n\\nyou're safe. keep your keys private.",
-          "url": "https://x.com/bankrbot/status/2056771390867693911",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Merit Systems",
-      "handle": "merit_systems",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2056750616651727261",
-          "text": "RT @ponchointern: Yes it's literally that easy https://t.co/hnV3dTAEP3",
-          "url": "https://x.com/merit_systems/status/2056750616651727261",
+          "id": "2057131473858342934",
+          "text": "We are continuing to investigate yesterday’s incident and are working through a full security review with internal and external teams. As a precautionary measure, certain Bankr functionality will remain temporarily disabled while we complete that process. Services will be re-enabled once we are confident the platform is secure. We appreciate everyone’s patience and will continue to share updates as appropriate.\\n\\nWe are also coordinating with law enforcement, including the FBI, as well as relevant third parties and counterparties in efforts to identify, freeze, and recover assets where possible and support potential enforcement actions against the responsible actors.",
+          "url": "https://x.com/bankrbot/status/2057131473858342934",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -279,27 +271,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056937892086452507",
-          "text": "Underrated layer for AI is transaction privacy.\\n@Mute_swap is building the privacy layer for AI agents transacting onchain",
-          "url": "https://x.com/virtuals_io/status/2056937892086452507",
+          "id": "2057252312813621352",
+          "text": "RT @tradingtulips: in addition to superior retrieval and relational context, @sibylcap systems will be the first major memory products that…",
+          "url": "https://x.com/virtuals_io/status/2057252312813621352",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056683753582539262",
-          "text": "RT @everythingempty: sex when you give your agent an email - to register on @godaddy and a credit card - to buy his own domain https://t.co…",
-          "url": "https://x.com/virtuals_io/status/2056683753582539262",
+          "id": "2057076956882198921",
+          "text": "RT @KhalaResearch: In the U.S., 2.1M manufacturing jobs will go unfilled by 2030, at a cost of $1T annually\\n\\nThat’s the demand side. \\n\\nThe…",
+          "url": "https://x.com/virtuals_io/status/2057076956882198921",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2057000577721401807",
-          "text": "@soundboipicasso @reppo @ReplyCorp @the_small_thing better funding ➡️better builders ➡️better launches ➡️better upside for the community.",
-          "url": "https://x.com/virtuals_io/status/2057000577721401807",
+          "id": "2056997770498859497",
+          "text": "Join one of the largest funding networks for AI agents\\nBuilder capital generated through Virtuals:\\n\\n@reppo : $2.1M total \\n• $1.8M ACF + ~$300K trading fees\\n\\n@ReplyCorp : $651K total \\n• $550K ACF + ~$100K trading fees\\n\\n@the_small_thing: $523K total \\n• $422K ACF + ~$100K trading fees\\n\\nACF gives agent teams a second funding engine alongside trading fees.",
+          "url": "https://x.com/virtuals_io/status/2056997770498859497",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -314,27 +306,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2057010614913085539",
-          "text": "RT @rgvrmdya: @virtuals_io @reppo @ReplyCorp @the_small_thing Thanks for keeping @reppo alive through tough times with ACF. Without this be…",
-          "url": "https://x.com/ethermage/status/2057010614913085539",
+          "id": "2057364134661128691",
+          "text": "@ye_dennis @jessepollak @aiseerco @0xTP91 &lt;3",
+          "url": "https://x.com/ethermage/status/2057364134661128691",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056924426973917644",
-          "text": "RT @DonJohnsonSays: Feedback wanted, DMs always open. The community has always been one of the strongest parts of @virtuals_io and as we gr…",
-          "url": "https://x.com/ethermage/status/2056924426973917644",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2056798122744201387",
-          "text": "@PonkyNoise @virtuals_io @HoloStudio_AI Escalating",
-          "url": "https://x.com/ethermage/status/2056798122744201387",
+          "id": "2057364069624291337",
+          "text": "RT @ye_dennis: Grateful to @ethermage and @jessepollak, who are supportive of first-time web3 builders like my team and me at @aiseerco, as…",
+          "url": "https://x.com/ethermage/status/2057364069624291337",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -349,44 +332,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056831966243086353",
-          "text": "You can get a sneak peak into the future now.\\n\\nDropping 20 free PRO accounts right now worth $200 in value each.\\n\\nClaude Code with superpowers.\\n\\nhttps://t.co/XTmivZXOHn",
-          "url": "https://x.com/shafu0x/status/2056831966243086353",
+          "id": "2057060583124394183",
+          "text": "@kylewgrove hahahah",
+          "url": "https://x.com/shafu0x/status/2057060583124394183",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056692405831610420",
-          "text": "The number of AI companies in one building in Williamsburg is crazy.\\n\\nAnd we have the best view! https://t.co/MYA1NUXDAU",
-          "url": "https://x.com/shafu0x/status/2056692405831610420",
+          "id": "2056926266150826310",
+          "text": "you are fucking clueless on how to judge talent, if your hiring process takes 3 months",
+          "url": "https://x.com/shafu0x/status/2056926266150826310",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056831437995757589",
-          "text": "We could have never predicted the giant impact @x402scan would have.\\n\\nOver 2.7 Million Page Views, 50 Million in Volume and over 2000 great APIs.\\n\\nOur goal remains the same. Grow Agentic Commerce 1000x.\\n\\nNext week will be huge! https://t.co/ykxfVbvjHU",
-          "url": "https://x.com/shafu0x/status/2056831437995757589",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Primer Systems",
-      "handle": "primer_systems",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2056981140188045353",
-          "text": "Various fixes and improvements to MultiClaw this week, based on user feedback - which we always like to hear. \\n\\nGit: https://t.co/gbNBGmY7hx\\n🐍: pip install multiclaw",
-          "url": "https://x.com/primer_systems/status/2056981140188045353",
+          "id": "2057060538572537884",
+          "text": "@BuildurBrand_io this is perfect",
+          "url": "https://x.com/shafu0x/status/2057060538572537884",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -401,27 +367,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056636653456781511",
-          "text": "Wow that is a surprise. There will be a rush to release tokenized stocks from all the big banks and funds\\n\\nDigital assets are obviously the future and they are all going to want first move advantage\\n\\nLove the term \\\"innovation exemption\\\" as well",
-          "url": "https://x.com/james_bachini/status/2056636653456781511",
+          "id": "2056987296944050268",
+          "text": "An opportunity to @BuildOnStellar in Istanbul at the start of June...",
+          "url": "https://x.com/james_bachini/status/2056987296944050268",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056646588185923945",
-          "text": "RT @lumenloop: https://t.co/zfhwVxeib3 is finally live ������\\nEverywhere you used to go to keep up with Stellar, now in one place  ������ stellar:nat…",
-          "url": "https://x.com/james_bachini/status/2056646588185923945",
+          "id": "2057055097868197896",
+          "text": "I asked an agent to create a oneliner pitch/explainer for each of the top 100 digital assets on @coingecko\\n\\n1. Bitcoin BTC sovereign digital money with the strongest brand, deepest liquidity, and hardest “digital gold” narrative.\\n2. Ethereum ETH dominant smart-contract settlement layer powering DeFi, stablecoins, NFTs, L2s, and most crypto experimentation.\\n3. Tether USDT the largest dollar stablecoin, heavily used for global trading, payments, and offshore dollar liquidity.\\n4. BNB BNB Binance-linked exchange and chain token used for fees, DeFi, launches, and ecosystem incentives.\\n5. XRP XRP fast payments-focused asset built around cross-border settlement, liquidity, and Ripple’s institutional network.\\n6. USDC USDC regulated dollar stablecoin from Circle, widely used for compliant payments, DeFi, and tokenized finance.\\n7. Solana SOL high-throughput L1 optimized for cheap, fast consumer apps, trading, DePIN, and memecoin activity.\\n8. TRON TRX payments-heavy chain best known for massive USDT transfer volume and low-cost stablecoin rails.\\n9. Figure HELOC FIGR_HELOC tokenized home-equity-loan exposure linked to Figure’s on-chain credit/securitization platform.\\n10. Dogecoin DOGE original memecoin with unmatched cultural staying power and retail-driven liquidity.\\n11. WhiteBIT Coin WBT exchange token for the WhiteBIT ecosystem, tied to trading perks, fees, and platform utility.\\n12. Hyperliquid HYPE token for a fast-growing on-chain perpetuals exchange and high-performance trading ecosystem.\\n13. USDS USDS Sky/Maker ecosystem dollar stablecoin, evolved from DAI’s collateralized stablecoin model.\\n14. Zcash ZEC privacy-focused digital cash using zero-knowledge proofs for shielded transactions.\\n15. Cardano ADA research-led smart-contract L1 focused on formal methods, staking, governance, and long-horizon infrastructure.\\n16. LEO Token LEO Bitfinex/iFinex exchange token with fee discounts and buyback-style token economics.\\n17. Bitcoin Cash BCH Bitcoin fork focused on low-fee peer-to-peer payments and larger-block transaction throughput.\\n18. Monero XMR privacy-first money using default obfuscation to hide sender, receiver, and amount.\\n19. Chainlink LINK oracle and cross-chain infrastructure network connecting smart contracts to real-world data and systems.\\n20. Canton CC privacy-enabled institutional blockchain network for tokenized assets and regulated financial markets.\\n21. Toncoin TON Telegram-adjacent L1 ecosystem aimed at consumer crypto, payments, mini-apps, and messaging-native finance.\\n22. Stellar XLM fast, low-cost payments network optimized for stablecoins, remittances, tokenized assets, and financial inclusion.\\n23. USD1 USD1 dollar stablecoin designed to track USD for payments, trading, and liquidity.\\n24. Ethena USDe USDE synthetic dollar built from crypto collateral and hedging strategies rather than traditional bank deposits.\\n25. MemeCore M meme-focused chain/ecosystem trying to turn memecoin culture into a dedicated on-chain economy.\\n26. Dai DAI decentralized collateral-backed dollar stablecoin, historically MakerDAO’s flagship product.\\n27. Sui SUI Move-based high-performance L1 focused on parallel execution, consumer apps, gaming, and digital assets.\\n28. Litecoin LTC long-running Bitcoin-like payments coin with faster blocks and strong exchange support.\\n29. Avalanche AVAX scalable smart-contract platform built around subnets, fast finality, DeFi, and custom chains.\\n30. Hedera HBAR enterprise-focused public ledger using hashgraph consensus for fast, low-cost applications.\\n31. Rain RAIN stablecoin/payments-linked token category; worth deeper DD because “Rain” branding overlaps multiple crypto projects.\\n32. PayPal USD PYUSD PayPal’s regulated dollar stablecoin for payments, transfers, and mainstream fintech distribution.\\n33. Shiba Inu SHIB memecoin ecosystem built around community, branding, DeFi experiments, and speculative liquidity.\\n34. Cronos CRO Crypto .com ecosystem token used across exchange, chain, payments, and app incentives.\\n35. Circle USYC USYC tokenized yield-bearing treasury/cash product from Circle’s tokenized asset stack.\\n36. Global Dollar USDG dollar stablecoin aimed at payments and institutional-grade digital dollar liquidity.\\n37. Tether Gold XAUT tokenized gold product giving on-chain exposure to physical gold.\\n38. BlackRock BUIDL BUIDL tokenized institutional money-market fund bringing Treasury yield exposure on-chain.\\n39. Bittensor TAO decentralized AI network rewarding machine-learning models and compute contributors.\\n40. Uniswap UNI governance token for the leading decentralized exchange protocol on Ethereum and L2s.\\n41. Ondo USDY USDY yield-bearing tokenized dollar product backed by short-term Treasuries and bank deposits.\\n42. NEAR Protocol NEAR scalable L1 with strong focus on usability, sharding, chain abstraction, and AI-adjacent apps.\\n43. PAX Gold PAXG regulated tokenized gold, with each token representing physical gold exposure.\\n44. Polkadot DOT interoperable multichain network built around shared security, parachains, and cross-chain messaging.\\n45. Mantle MNT Ethereum L2 and ecosystem token backed by a large treasury and modular scaling strategy.\\n46. World Liberty Financial WLFI politically branded DeFi/governance token tied to the World Liberty Financial ecosystem.\\n47. Ondo ONDO governance/ecosystem token for Ondo’s tokenized real-world asset and Treasury product platform.\\n48. HTX DAO HTX exchange/DAO token linked to the HTX trading ecosystem and platform incentives.\\n49. Falcon USD USDF dollar stablecoin designed for crypto trading, collateral, and DeFi liquidity.\\n50. Aster ASTER DeFi/trading ecosystem token, likely positioned around perpetuals, liquidity, or exchange infrastructure.\\n51. OKB OKB OKX exchange token used for fees, platform access, and broader exchange ecosystem utility.\\n52. Ripple USD RLUSD Ripple-issued dollar stablecoin for payments, trading, and institutional settlement.\\n53. Sky SKY governance token for the Sky ecosystem, the rebranded evolution of MakerDAO.\\n54. Pi Network PI mobile-mined crypto project with massive user reach but still heavily debated on real utility.\\n55. Pepe PEPE pure memecoin built around internet culture, liquidity, and speculative attention.\\n56. USDD USDD TRON-linked overcollateralized/algorithmic-style dollar stablecoin for DeFi and payments.\\n57. Ethereum Classic ETC original Ethereum chain preserving proof-of-work and pre-DAO-fork history.\\n58. Bitget Token BGB Bitget exchange token tied to fee benefits, launches, rewards, and platform growth.\\n59. Internet Computer ICP ambitious web-compute blockchain aiming to host apps, services, and data directly on-chain.\\n60. Aave AAVE governance token for one of DeFi’s leading lending and borrowing protocols.\\n61. BFUSD BFUSD Binance-linked stable-value asset used around trading, collateral, or yield-style exchange products.\\n62. Morpho MORPHO DeFi lending protocol optimizing borrow/lend markets through vaults and peer-to-peer matching.\\n63. USDtb USDTB Ethena-linked stablecoin backed by tokenized Treasury-style collateral.\\n64. KuCoin KCS KuCoin exchange token used for fee discounts, rewards, and platform incentives.\\n65. Quant QNT interoperability token for Overledger, targeting enterprise connectivity between blockchains and legacy systems.\\n66. Superstate USTB USTB tokenized short-duration US government securities fund for on-chain Treasury exposure.\\n67. Spiko EU T-Bills EUTBL tokenized European T-bill money-market product for on-chain euro-denominated yield.\\n68. United Stables U dollar stablecoin-style asset focused on stable-value liquidity and payments.\\n69. Cosmos Hub ATOM interoperability-focused chain at the center of the Cosmos appchain ecosystem.\\n70. Algorand ALGO fast, low-cost L1 focused on payments, tokenization, and high-throughput applications.\\n71. Janus Henderson Anemoy Treasury Fund JTRSY tokenized Treasury fund bringing traditional fixed-income exposure on-chain.\\n72. Render RENDER decentralized GPU rendering and compute marketplace for creators, AI, and graphics workloads.\\n73. Blockchain Capital BCAP tokenized venture fund exposure linked to Blockchain Capital’s investment portfolio.\\n74. POL POL Polygon’s upgraded ecosystem token for staking, gas, and broader Polygon network coordination.\\n75. Ethena ENA governance token for Ethena’s synthetic dollar and crypto-native yield ecosystem.\\n76. Kaspa KAS proof-of-work blockDAG network aiming for fast confirmation while preserving mining-based security.\\n77. NEXO NEXO token for Nexo’s crypto lending, exchange, and wealth platform.\\n78. Worldcoin WLD identity and distribution token for Worldcoin’s proof-of-personhood network.\\n79. Venice Token VVV token linked to Venice .ai’s private AI platform and AI-inference access economy.\\n80. JUST JST TRON-based DeFi governance token for lending, stablecoin, and financial apps.\\n81. Stable STABLE stablecoin-themed project token; likely tied to stable-value payments or stablecoin infrastructure.\\n82. Aptos APT Move-based L1 built for high-throughput apps, parallel execution, and consumer-grade UX.\\n83. Filecoin FIL decentralized storage network paying providers to store and retrieve data.\\n84. Gate GT gate .io exchange token used for trading discounts, launches, and ecosystem utility.\\n85. Flare FLR data-focused L1 bringing decentralized price feeds and cross-chain data to smart contracts.\\n86. XDC Network XDC enterprise and trade-finance-focused blockchain targeting tokenization, payments, and real-world settlement.\\n87. Arbitrum ARB governance token for the leading Ethereum optimistic rollup ecosystem.\\n88. Jupiter JUP Solana liquidity aggregator and trading platform token powering swaps, perps, and governance.\\n89. DeXe DEXE DAO and governance infrastructure token for decentralized treasury and organization management.\\n90. Beldex BDX privacy-focused chain/ecosystem combining private payments with privacy-preserving apps.\\n91. Pump .fun PUMP token tied to Solana’s viral memecoin launchpad and creator/speculation economy.\\n92. Dash DASH payments-focused Bitcoin fork with instant-send features, masternodes, and privacy legacy.\\n93. GHO GHO Aave-native decentralized stablecoin minted against collateral in the Aave ecosystem.\\n94. VeChain VET enterprise supply-chain and real-world asset tracking blockchain.\\n95. Provenance HASH token for Provenance Blockchain, focused on financial services, asset tokenization, and on-chain capital markets.\\n96. Usual USD USD0 stablecoin backed by real-world assets and designed around shared protocol value capture.\\n97. Pudgy Penguins PENGU NFT brand/community token expanding Pudgy Penguins into broader consumer crypto culture.\\n98. OUSG OUSG Ondo tokenized short-term US Treasury product for institutional-style on-chain yield.\\n99. Bonk BONK Solana-native memecoin that became a major liquidity and community asset.\\n100. Kite KITE agentic-payments-focused L1 for AI agents, stablecoin settlement, and x402-style autonomous transactions.",
+          "url": "https://x.com/james_bachini/status/2057055097868197896",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056634803068280974",
-          "text": "https://t.co/TVfn8E2tc1",
-          "url": "https://x.com/james_bachini/status/2056634803068280974",
+          "id": "2057386199002624169",
+          "text": "@Dr_NEOphyte I think this makes a lot of sense. Less value proposition for CMS's when you can just tell an agent how you want it to look",
+          "url": "https://x.com/james_bachini/status/2057386199002624169",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -436,27 +402,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056602315700982137",
-          "text": "@jackoholleran ������",
-          "url": "https://x.com/kleffew94/status/2056602315700982137",
+          "id": "2056969377384214771",
+          "text": "RT @0xMasonH: You've added support for x402 and/or MPP to your API, so agents can auth and pay for it on their own.\\n\\nNow what?\\n\\nOpen Agenti…",
+          "url": "https://x.com/kleffew94/status/2056969377384214771",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056532675956249052",
-          "text": "RT @antoniogm: Theory: AI will give new life to some of these books (and the value of their IP) via pay-to-crawl x402-style mechanisms that…",
-          "url": "https://x.com/kleffew94/status/2056532675956249052",
+          "id": "2057065637529223475",
+          "text": "@alexdolbun https://t.co/WBSNlHyHJT",
+          "url": "https://x.com/kleffew94/status/2057065637529223475",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056604536434032661",
-          "text": "@jeff_weinstein @stripe Love agentscore",
-          "url": "https://x.com/kleffew94/status/2056604536434032661",
+          "id": "2057148058178072798",
+          "text": "@ExaAILabs Congrats Exa!",
+          "url": "https://x.com/kleffew94/status/2057148058178072798",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -471,27 +437,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056742212919255534",
-          "text": "Imagine explaining legacy AI infrastructure to your robot ������\\n\\nYou: \\\"Every time you needed to call a paid API, we had to pre-authorize it. Approve the vendor. Set up billing. Sometimes it took days.\\\"",
-          "url": "https://x.com/PayAINetwork/status/2056742212919255534",
+          "id": "2057034789476311424",
+          "text": "@solana @MessariCrypto @AvgJoesCrypto Spotted!������The Solana ecosystem is stacked and PayAI is right where it belongs������",
+          "url": "https://x.com/PayAINetwork/status/2057034789476311424",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056771681604264088",
-          "text": "The x402 ecosystem just got a whole lot bigger. Welcome @binance ������BNB chain is just catching up!",
-          "url": "https://x.com/PayAINetwork/status/2056771681604264088",
+          "id": "2057087727519097296",
+          "text": "Single-network SDK:\\n❌ One rail. One ceiling. One point of failure.",
+          "url": "https://x.com/PayAINetwork/status/2057087727519097296",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056742238257103286",
-          "text": "You: \\\"Progress comes in waves.. 🥲 Paris wasn't built in one day, right?\\\" https://t.co/27lDpafrpU",
-          "url": "https://x.com/PayAINetwork/status/2056742238257103286",
+          "id": "2057087728328569283",
+          "text": "PayAI SDK:\\n✅ Multi-network by design\\n✅ Built for real merchant experiences\\n✅ MPP-ready out of the box",
+          "url": "https://x.com/PayAINetwork/status/2057087728328569283",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -506,27 +472,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2056838989743796424",
-          "text": "@signulll Apple and Google are the only ones with easy access to consumers’ data",
-          "url": "https://x.com/dwr/status/2056838989743796424",
+          "id": "2057101133173391606",
+          "text": "Given AI coding capabilities, expected there to be more consumer mobile apps by now, a la early 2010s / TechCrunch story about a new app every day",
+          "url": "https://x.com/dwr/status/2057101133173391606",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056842384986808413",
-          "text": "@signulll New OS means new hardware / ecosystem. Dubious you would get enough consumers to switch before Apple / Google get good enough.",
-          "url": "https://x.com/dwr/status/2056842384986808413",
+          "id": "2057100216273412355",
+          "text": "I wonder if the forthcoming OAI hardware device will pair with a cloud-based Mac Mini running a claw. \\n\\nLog in with iCloud and get full access to iMessage and ability to run iOS apps on macOS.\\n\\nSolves the blue bubble problem.",
+          "url": "https://x.com/dwr/status/2057100216273412355",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2056840027561513243",
-          "text": "@signulll Without a Mac Mini running, most consumer data is not available to 3rd party apps. Apple and Google have privileged access because of OS (and a lot of important data is in the default services like iMessage and Photos)",
-          "url": "https://x.com/dwr/status/2056840027561513243",
+          "id": "2057102974162497560",
+          "text": "@p_millerd Still genuinely surprised there’s not some hot new consumer app",
+          "url": "https://x.com/dwr/status/2057102974162497560",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -536,7 +502,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 17,
-    "totalTweets": 44
+    "xBuilders": 15,
+    "totalTweets": 42
   }
 }
