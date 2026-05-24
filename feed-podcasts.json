@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-23T08:12:35.719Z",
+  "generatedAt": "2026-05-24T08:24:10.421Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Robinhood CEO: &#34;Gen Z Is the Most Retirement-Savvy Generation Ever&#34; | Vlad Tenev",
-      "guid": "046bff50-44aa-4627-bf24-a72dedde58ab",
+      "title": "Crypto’s Agentic Future: AI, ZK &amp; Money Networks | Lincoln, Shea, Michael, &amp; Luca",
+      "guid": "b27eebd6-17e1-4e07-8668-e40082de7a3b",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-03-16T10:36:00.000Z",
-      "description": "The next great battle in finance may not be over stocks, crypto, or even payments. It may be over where the $90 trillion great wealth transfer actually lands. In this episode, Robinhood founder and CEO Vlad Tenev returns to Bankless for a fast-moving conversation on how Robinhood wants to position itself for that generational handoff, why he believes 24/7 markets and tokenization are inevitable, and why the popular narrative around Gen Z as financially reckless misses what he’s seeing on-platform. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🪐GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/galaxy-podcast 🏅BITGET TRADFI | TRADE GOLD WITH USDT https://bankless.cc/bitget 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 🐇MEGAETH | 1ST REAL-TIME BLOCKCHAIN https://bankless.cc/megaeth --- TIMESTAMPS 0:00 The $70–90T Wealth Transfer and Robinhood&#39;s Strategy 4:01 Finance in 2040: 24/7 Markets Everywhere 6:06 Tokenized Stocks, Robinhood Chain, and the U.S. Rollout Question 11:22 Robinhood&#39;s Full-Stack DeFi Vision 14:31 Prediction Markets as “Truth Machines” 17:06 Robinhood Social, Sherwood Media, and the Content Layer 21:44 Why “Entertainment Finance” Might Be Overstated 25:03 Gen Z Is More Retirement-Savvy Than You Think 30:54 Trump Accounts and Investing From Birth 36:21 The Financial Super App Race 39:30 Why Robinhood Is Not Prioritizing Peer-to-Peer Payments 42:22 Stablecoins, Bank Charters, and Consumer Reality 49:30 The Clarity Act, Stablecoin Yield, and Tokenized Assets 55:16 Perps Could Come Onshore Fast 57:12 Retail Access to Private Markets 1:00:52 Robinhood&#39;s Third Act: Social, AI, and Agentic Finance --- RESOURCES Vlad Tenev https://x.com/vladtenev --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2025-12-06T11:30:00.000Z",
+      "description": "At our Bankless Summit in Buenos Aires, four standout talks captured the frontier of crypto’s next chapter. Lincoln Murr lays out why x402 is emerging as the missing payment layer for the agentic internet. Shay Ketsdever explains how bots already run modern markets, and how programmable auctions and privacy can turn the bot economy into something that benefits people instead of exploits them. Michael Dong shows how real-time ZK proving unlocks a hundred-fold expansion of Ethereum’s computational power. And Luca Prosperi reframes money as a network, warning that today’s stablecoin architecture is a single point of failure and arguing for a more resilient, distributed monetary system. ------ 📣BANKLESS SUMMIT 2025 | SPONSORED BY M0 https://bankless.cc/m0 ------ BANKLESS SPONSOR TOOLS: 🔵COINBASE | ETH &amp; BTC BACKED LOANS https://bankless.cc/coinbase-borrow 🪙FRAXNET | MINT, REDEEM, &amp; EARN https://bankless.cc/fraxnet 🦄UNISWAP LABS | SWAP NOW https://bankless.cc/uniswap-labs 🛞MANTLE | GLOBAL HACKATHON 2025 https://bankless.cc/mantle-hackathon 💤EIGHT SLEEP | IMPROVE YOUR SLEEP https://bankless.cc/eight-sleep ------ TIMESTAMPS &amp; RESOURCES 0:00 Intro 4:26 x402 &amp; The Agentic Internet | Lincoln Murr 22:58 The Bot Economy: When AI &amp; MEV Collide | Shea Ketsdever 47:16 1000x the L1: The Path To Infinite Compute | Michael Dong 1:09:25 A Network Theory of Money | Luca Prosperi ------ Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
