@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-05T09:39:40.663Z",
+  "generatedAt": "2026-06-06T08:31:58.143Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "MegaETH Mainnet is Live! — The Next Era of Ethereum Scaling",
-      "guid": "14807e8c-f7ee-47e0-b135-d4b53af81257",
+      "title": "NEAR’s AI Money Thesis: Intents, Privacy, and Tokenomics | Sal Ternullo",
+      "guid": "flightcast:01KSMCYDT2WJDH9YFCCNA07PDN",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-02-09T11:30:00.000Z",
-      "description": "MegaETH mainnet is live, kicking off a new frontier for Ethereum scaling: ultra-low latency, massive throughput, and an execution environment built to unlock apps that can’t exist on L1. Lei Yang &amp; Namik break down why Vitalik’s latest L2 framing validates “barbell” scaling, what users actually inherit from Ethereum (censorship resistance, exit guarantees, and fraud-proof security assumptions), and why stages + governance are harder than they look. Plus: the mainnet stress test (11.4B tx in 7 days, 55k peak TPS), the economics shift toward stablecoin yield with USDM, proximity markets for MEV, and MegaETH’s aggressive app-incubation strategy. ------ 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🃏SHOWDOWN | NEXT-GEN POKER https://bankless.cc/showdown 🏅BITGET TRADFI | TRADE GOLD WITH USDT https://bankless.cc/bitget 👑BANKLESS PREMIUM | AD-FREE &amp; BONUS EPISODES https://bankless.cc/spotify-premium 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://bankless.cc/TDR-pro 💰ICO WATCH | UPCOMING PUBLIC TOKEN SALES https://bankless.cc/ico-watch ------ TIMESTAMPS 0:00 Intro 0:41 Vitalik’s L2 Pivot Tweet 14:05 Property Rights on MegaETH 21:10 Stage 2 &amp; Rollup Design 30:34 MegaETH’s Stress Test Numbers 40:42 MegaETH’s Throughput 47:02 Business Model 52:15 MEV 1:00:18 Other MegaETH Products 1:02:19 App Strategy 1:07:04 Mega Mafia 1:10:48 MegaETH x AI Agents 1:15:53 Mega Token 1:20:17 Mainnet Release 1:21:11 Closing &amp; Disclaimers ------ RESOURCES Lei Yang https://x.com/yangl1996 Namik https://x.com/NamikMuduroglu MegaETH https://www.megaeth.com/ MegaETH Stress Test https://stress.megaeth.com/ ------ Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures⁠"
+      "publishedAt": "2026-05-27T10:30:00.000Z",
+      "description": "NEAR keeps showing up in strange places: cross-chain wallets, privacy apps, AI infrastructure, and now the emerging agent economy. Sal Ternullo, CEO of SVRN, joins us to explain why he thinks this is not another NEAR pivot, but the original thesis finally coming into focus. They dig into NEAR Intents, AI money, tokenomics, privacy, fee capture, agentic commerce, and why SVRN is trying to commercialize the NEAR ecosystem rather than simply hold the asset. --- 🧭OKX | 120M+ USERS WORLDWIDE https://bankless.cc/OKXapp --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🟦 COINBASE ONE | MEMBER MONTH https://bankless.cc/coinbase-one 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 2:23 Why NEAR Keeps Showing Up 3:58 Pivot or Return to Roots? 7:41 The “AI Money” Thesis 9:54 Intents, Zashi, and Real Product Market Fit 11:38 Tokenomics, Buybacks, and Value Accrual 14:45 NEAR’s Different Approach From Ethereum 18:00 Fees, Scaling, and First-Party Apps 23:04 Cross-Chain Liquidity as NEAR’s Moat 28:27 The Contrarian Investor Case for NEAR 31:43 Privacy, Enterprises, and AI Agents 39:38 What SVRN Is Building for NEAR 46:00 Investor Sentiment and Final Thoughts --- RESOURCES Sal Ternullo https://x.com/sal_ternullo SVRN https://x.com/svrn_ai --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
