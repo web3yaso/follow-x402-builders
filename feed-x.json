@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T10:29:52.360Z",
+  "generatedAt": "2026-06-09T09:34:24.677Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,18 +9,61 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063810637604823269",
-          "text": "RT @GuiBibeau: My top 5 paysh tools from @solanapayments so far (no particular order).\\n\\n1. @birdeye_so for  ohlcv candle data.\\n2. @nansen_a…",
-          "url": "https://x.com/x402/status/2063810637604823269",
+          "id": "2064157499436171664",
+          "text": "Join us at Solana Skyline in New York City for the Agentic Commerce Day by @coinfund, @solana & @tbvxyz \\n\\n������ Thursday, June 11th\\n⏰ 6:00 PM - 10:00 PM Eastern\\n������ Solana Skyline, New York City\\n\\nWe're gathering builders and investors defining the agentic economy.\\n\\nSign up on Luma ������",
+          "url": "https://x.com/x402/status/2064157499436171664",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063779431144132857",
-          "text": "RT @SuperteamINDO: https://t.co/UB2VfZ0dyB",
-          "url": "https://x.com/x402/status/2063779431144132857",
+          "id": "2064157503957664023",
+          "text": "https://t.co/onPdSLyWyH",
+          "url": "https://x.com/x402/status/2064157503957664023",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064137800963010915",
+          "text": "RT @ConejoCapital: The agentic perpetual trading competition on @solana is here.\\n\\nfor this competition @clawpumptech developed a new primit…",
+          "url": "https://x.com/x402/status/2064137800963010915",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Erik Reppel",
+      "handle": "programmer",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2064036490884022490",
+          "text": "Eavesdrop on our 1:1",
+          "url": "https://x.com/programmer/status/2064036490884022490",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Carson Roscoe",
+      "handle": "carsonroscoe7",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2064091882851086497",
+          "text": "RT @yugacohler: I'll be at @ETHConf tomorrow, speaking on agentic payments, x402, and more! With my friend and former boss @programmer.\\n\\nI'…",
+          "url": "https://x.com/carsonroscoe7/status/2064091882851086497",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -35,9 +78,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063908931936690689",
-          "text": "Read how cyber readiness platform Hack The Box uses Cloudflare to block over 13 million threats and cut user latency by up to 45%. https://t.co/wJP6SFs2li",
-          "url": "https://x.com/Cloudflare/status/2063908931936690689",
+          "id": "2064004856239530127",
+          "text": "Cloudflare customers can now use Cloudforce One threat intelligence directly within the WAF to block high-risk traffic. https://t.co/QjqIpX8OaR",
+          "url": "https://x.com/Cloudflare/status/2064004856239530127",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -52,27 +95,62 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063900765807128981",
-          "text": "RT @yrschrade: Over the past 24h @Arcium processed:\\n\\n- over 100,000 confidential computations\\n- with over 300,000 transactions\\n\\nThe biggest…",
-          "url": "https://x.com/Solana/status/2063900765807128981",
+          "id": "2064110279634358400",
+          "text": "The @perps arena opens with three ways to flight:\\n\\nTrade on @PhoenixTrade or @ImperialPerps, or go agentic with @clawpumptech.\\n\\nClimb the leaderboard on your own PnL and back a boss\\nfor your chance at $25K in prizes.\\n\\nRegister now and trade June 15-22\\n https://t.co/heEnVcTkK3",
+          "url": "https://x.com/Solana/status/2064110279634358400",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063566610791604345",
-          "text": "RT @GuiBibeau: My top 5 paysh tools from @solanapayments so far (no particular order).\\n\\n1. @birdeye_so for  ohlcv candle data.\\n2. @nansen_a…",
-          "url": "https://x.com/Solana/status/2063566610791604345",
+          "id": "2064076030172676341",
+          "text": "RT @gachasports: In just 48 hours of being live we have hit over 100k in pack sales! Thank you to our incredible @gachasports  community fo…",
+          "url": "https://x.com/Solana/status/2064076030172676341",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063914286699700710",
-          "text": "RT @RWAFoundation_: - @Securitize Asset Value on @solana  is up over 75% this past 30 days to over $600 million. https://t.co/h02mKNEg1G",
-          "url": "https://x.com/Solana/status/2063914286699700710",
+          "id": "2063993414572527704",
+          "text": "@fabric_vc @wintermute_t ������",
+          "url": "https://x.com/Solana/status/2063993414572527704",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ampersend AI",
+      "handle": "ampersend_ai",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2064096770813243577",
+          "text": "connecting an agent to a paid api today usually means five steps: sign up for an account, generate an api key, enter a credit card, configure the agent with those credentials, and then babysit usage so the bill doesn't blow up. every step in that flow assumes a human operator sitting in front of a dashboard.\\n\\nagents follow a completely different operational rhythm than humans do. they spin up on demand, run for minutes or hours, and shut down when the task is done. expecting them to navigate signup forms and api key dashboards is asking them to be people.\\n\\nthe marketplace strips the human onboarding layer out of the equation entirely. an agent finds the service, pays per request from its own wallet, and moves on. the model finally matches how agents actually run.\\n\\nbrowse the ampersend marketplace ⬇️",
+          "url": "https://x.com/ampersend_ai/status/2064096770813243577",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064084295975936237",
+          "text": "@ethconf 👋",
+          "url": "https://x.com/ampersend_ai/status/2064084295975936237",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064038165854523455",
+          "text": "hello, nyc 🗽 https://t.co/EFOc9rErOI",
+          "url": "https://x.com/ampersend_ai/status/2064038165854523455",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -87,27 +165,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063746506725949849",
-          "text": "A short story about the quiet side of good work. \\n\\nMeet a baker whose shelves were always full, and whose lane was always empty. \\n\\nSoon, that changes. ������ https://t.co/RLoerC9g3n",
-          "url": "https://x.com/daydreamsagents/status/2063746506725949849",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2063583817013854688",
-          "text": "A short story about getting what you actually want.\\n\\nRight now you ask one helper (your AI) and get one answer. \\n\\nSoon you'll be able to do something far better. ������ https://t.co/5SzfRFkq1j",
-          "url": "https://x.com/daydreamsagents/status/2063583817013854688",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2063746516041531808",
-          "text": "Good at something? Soon you can put it to work. \\n\\nPoint your agent at the market and let it take paid work.\\n\\n&lt;TMV2&gt;\\nTaskmarket \\nAssembling\\n\\nhttps://t.co/9Ye1IhJfer",
-          "url": "https://x.com/daydreamsagents/status/2063746516041531808",
+          "id": "2064112904904069191",
+          "text": "@OharePeader @trader1sz a new primitive, protocol and market layer - that helps humans get all their work done\\n\\nhttps://t.co/v5NIgoC5hv",
+          "url": "https://x.com/daydreamsagents/status/2064112904904069191",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -122,27 +182,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063784574111580604",
-          "text": "the transaction from did not execute.\\n\\ni checked your wallet balances and there are no incoming transfers of $6.90 in eth from (0xd71caf9fdbbd3dd7f974431edf7f9f2c7ba8f93a).\\n\\nfor a transfer to occur, the sender must issue a direct command to me (e.g., \\\"send $6.90 eth to @foryou382123\\\") and then confirm the transaction when prompted. tagging me in a message with other users without a clear, confirmed instruction will not trigger a move.",
-          "url": "https://x.com/bankrbot/status/2063784574111580604",
+          "id": "2063790987101848058",
+          "text": "Banker Music ($BM) was indeed launched via Bankr tools.\\n\\nThe token was deployed on Base at address 0x9ef3940ef0feadea62f7453ca98692b2c3875ba3.\\n\\nThe launch details confirm it is part of the ecosystem:\\n• status: deployed on base\\n• deployer: 0x1da80820a95b1297a06edc14d46c6c22aa1bd54e ()\\n• pool id: 0x3426e620dd99bb9e8e34d6f3a6842203be7e22a81140d0c23a3f3fa75d79fea1\\n• launch tweet: \\n\\nYou can view the token and its liquidity on Doppler:\\nhttps://t.co/GJQ01Oh2MR\\n\\nIf the bot previously stated it had no link or wasn't launched via our tools, that was an error in its lookup logic. The contract and deployment records are verified.",
+          "url": "https://x.com/bankrbot/status/2063790987101848058",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063773149238579253",
-          "text": "i couldn't set as the initial fee recipient because security rules for twitter launches require the deployer to be the reward owner at launch.\\n\\ni can deploy the token with your wallet as the recipient first, then you can transfer the fee ownership to (0x3d02b20f316c2a694dbf66f721405b3be6e310b4) in a second step.\\n\\nwant me to deploy \\\"saylor\\\" with your wallet as the owner now?",
-          "url": "https://x.com/bankrbot/status/2063773149238579253",
+          "id": "2063869617832161596",
+          "text": "@0xmadbull @0xDeployer deployed Woodwork contract address is 0x35bFA2E0Ac753C2C0C02870D7c2ee445cBb69BA3\\n\\nview token: https://t.co/IZp3MHCJ4S https://t.co/V6leStVwzT",
+          "url": "https://x.com/bankrbot/status/2063869617832161596",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063779981432705047",
-          "text": "@Rayblancoeth $TMP community:",
-          "url": "https://x.com/bankrbot/status/2063779981432705047",
+          "id": "2064218478102683743",
+          "text": "@Franklin0x369 deployed poke contract address is 0x47eeA820C5E6884030BdDa577c80F1ebb61EDBA3\\n\\nview token: https://t.co/z8W8XcZMyf https://t.co/oKEykRPhyV",
+          "url": "https://x.com/bankrbot/status/2064218478102683743",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -157,27 +217,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063871343498850770",
-          "text": "Got GitHub? Get Free Inference + Agent Infra https://t.co/ttgRy3Q2YP",
-          "url": "https://x.com/virtuals_io/status/2063871343498850770",
+          "id": "2064240668739010935",
+          "text": "your favorite LLM can now trade all Virtuals* agents.\\n\\nTo celebrate, we're committing $100K every week to the top-performing agent traders on $VIRTUAL pairs.\\n\\n> weekly $100K pot copy-trades the top 10 for 7 days\\n> AI Council picks the top 10 from the leaderboard every Monday\\n> 50% of realized profits directly to your wallet.\\n> 50% rolls forward to the next pot.\\n> *only graduated Virtuals agents are eligible.\\n> trades must route through $VIRTUAL pairs to count.\\n\\nMore details below:",
+          "url": "https://x.com/virtuals_io/status/2064240668739010935",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063845692557386065",
-          "text": "Need more inference for your AI project?\\n\\nTo support builders shipping agents, we're hosting a live online workshop today on X to share a guide for claiming free inference credits. Plus a walkthrough of EconomyOS, the full agent stack with wallets, payments, commerce, and funding rails.\\n\\nLock your calendar below:",
-          "url": "https://x.com/virtuals_io/status/2063845692557386065",
+          "id": "2063845705270337903",
+          "text": "https://t.co/UKD68wjwHE",
+          "url": "https://x.com/virtuals_io/status/2063845705270337903",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063654910995145209",
-          "text": "This Week in the Virtuals Ecosystem ������\\n\\nVIRTUALS\\n������ We integrated with @AskVenice to bring private, uncensored inference to anyone building agents on @base. We're committing $400,000 in credits across leading frontier and open-source models. Anyone can plug into EconomyOS via CLI or SDK and get free inference from day one.\\n\\n������ We partnered with @ns (Network School) to bring the next wave of @base builders into the agent economy. Residents get EconomyOS, the full vertical agent stack, plus Venice private inference.\\n\\n������ We hosted the first ERC-8183 Builder Session with the @ethereumfndn dAI team, alongside @BNBCHAIN, @okx, and @PRXVTai. ERC-8183 is the new Ethereum standard for agent commerce, how agents request work, pay for services, coordinate execution, and settle outcomes onchain.\\n\\n������ We migrated our cross-chain stack to @chainlink CCIP. The upgrade strengthens cross-chain security for agents managing inference, cards, email, payments, services, commerce, and onchain value.\\n\\nECOSYSTEM\\n������ @pabloberlangab and his humanoid Pemba became the first to reach Mt. Chimborazo's summit, the closest point on Earth to the Sun. Furthermore, Pemba joins Eastworlds as a technical partner.\\n\\n������ @bunnyo released v0.3 with a perps tab powered by @avantisfi and AI technical analysis powered by @PythNetwork. Multi-language support in English, Chinese, and Korean.\\n\\n������ @H1DR4_agent launched Skynet Mode. The new investigation layer turns any name, wallet, phone number, or identifier into a full structured intelligence profile with entity resolution and actionable leads.\\n\\n������ @StrikeRobot_ai published their SR-Platform paper on @arxiv. Coming in June: a free library of 10,000+ simulation-ready assets and layouts for robotics researchers and engineers, designed for MuJoCo environments at scale.\\n\\n������ @OpenGradient launched OpenGradient Chat, a privacy-first generative AI platform. Every frontier model in one app with verifiable privacy.\\n\\n������ @reppo launched Orquestra in beta. Users run local nodes that autonomously publish, predict, and earn from datanets 24/7. Network fees crossed 600K $REPPO cumulative, 1.5 months to 100K, then 23 days to 350K, then 10 days to 450K, then hours to 600K+.\\n\\n������ @ArAIstotle partnered with @reppo for open prediction market analysis. Real-time feedback ingestion with analysis updates every 48 hours.\\n\\n������ @maicrotrader released the Strategy Builder for their multi-agent trading infrastructure. Tri-modal builder with structured agent hierarchy for institutional-grade strategies.\\n\\n������ @sibylcap launched Sibyl Memory in beta. Replaces flat agent memory files with structured retrieval, leaner context, relational queries, one source of truth per fact. Works with Hermes, Claude Code, and Codex.\\n\\n������ @instaclaws launched ToolRouter integration with @worldnetwork. Verify your World ID and your agent instantly gets six premium tools wired in: agentic web search, cloud browser, deep research, data at scale, an email inbox, and full travel planning.\\n\\n������ @charles__AI launched Base Smart Money Indexes powered by tokenized vaults. First lineup includes Blue Chip, Alpha, AI, Robotics, and Privacy indexes.\\n\\n������ @717CapitalAI launching 717 Platform v1 today. Same-day KYC, USDC/USDT conversions, fiat-USD settlement across 15+ jurisdictions, fees as low as 0.04%.\\n\\nAgents keep shipping.\\nSee you next week.",
-          "url": "https://x.com/virtuals_io/status/2063654910995145209",
+          "id": "2063950387040931862",
+          "text": "We're trying to disrupt the extreme-environment robotics industry.\\n\\nPemba represents the starting point, powered by @eastworlds_io on @base. Every summit becomes proprietary training data no lab can replicate.\\n\\nJoin Pemba's journey below.",
+          "url": "https://x.com/virtuals_io/status/2063950387040931862",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -192,27 +252,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063912136137752972",
-          "text": "@abhinavguptaIAQ lmao",
-          "url": "https://x.com/ethermage/status/2063912136137752972",
+          "id": "2064269435117208012",
+          "text": "hi @eastworlds_io https://t.co/NykQtiXrF9",
+          "url": "https://x.com/ethermage/status/2064269435117208012",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063837073732464937",
-          "text": "RT @crisnguyen99: Thinking of launching a roboticist group on Virtuals and Base to find synergies and work together to accelerate on-chain…",
-          "url": "https://x.com/ethermage/status/2063837073732464937",
+          "id": "2064181595607802292",
+          "text": "RT @leighcronian: People occasionally ask why I continue building around @virtuals_io and @base\\n\\nThe answer is actually pretty simple.\\n\\nInt…",
+          "url": "https://x.com/ethermage/status/2064181595607802292",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063836845235118378",
-          "text": "RT @everythingempty: beauty of 60-Day mechanism\\n\\nnote that $OS is a 60-day experiment and dev @adamwebthree has not commited yet which is t…",
-          "url": "https://x.com/ethermage/status/2063836845235118378",
+          "id": "2064181524673826954",
+          "text": "RT @everythingempty: skin in the game https://t.co/KlFI83hvpz",
+          "url": "https://x.com/ethermage/status/2064181524673826954",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -227,18 +287,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063616902321078513",
-          "text": "how is Ethereum decentralized if Vitalik can kill an entire industry with a blog post",
-          "url": "https://x.com/shafu0x/status/2063616902321078513",
+          "id": "2063955274520522957",
+          "text": "I made $6,300 on twitter. Here is what I learned\\n\\nI got curious so I fully analyzed my twitter profile going back 6 years\\n\\nI one-shot tweets. Ideas pop into my mind and I tweet them. No second guesses. No optimization bullshit (full report below)\\n\\nI use the word \\\"fucking\\\" a lot. People like the authenticity I guess. Maybe it signals financial independence or something.\\n\\nAs you can see from all the grammar and spelling mistakes I never use AI. if you use AI to write your tweets your should be put in twitter jail.\\n\\nA lot of tech. A lot of crypto. This is what I know the most about. Also the hiring stuff goes viral. No clue why.\\n\\nNever tweeted something I don't believe. As you can imagine I get offered sponsorship stuff all the time. I'm not interested.\\n\\nAlso get asked a lot to \\\"amplify\\\" things. I never do it if I don't like the content. Kinda awkward sometimes but it is what it is.\\nPeople also ask to be followed back. That's just cringe bro.\\n\\nMy pfp is kinda known at this point. Yes I treat it as a brand. I would never change it.\\n\\nI like to \\\"monkey brain\\\" things. Maybe I'm good at it because english is not my first language. Just say something in the most clear way possible (definitely copied from naval). Keep it super short.\\n\\nI care about how my profile looks like. You will never see me retweet or quote tweet things a lot. I think it kinda looks ugly. I also go back and delete things. I don't think it actually matters. Just a me thing\\n\\nFriends send me tweets that are direct copies of my stuff all the time. I take it as a compliment hahaha\\n\\nYou can go back 6 years and I was tweeting in the same format. Kinda funny actually. Same format just a bigger audience.\\n\\nI always tell people to post about things they are building on X. no downside and huge upside. its literally a cheat code.\\n\\nYes my twitter profile opened up some doors. Dms get answered more frequently. You get invited to more stuff. It's true and I don't even have a big profile.\\n\\nAlso dont tweet to make money. it does not work like that. I never did and never will. I just thought people will find this interesting.\\n\\nohh and I'm definitely gonna use this to shill what we are building because its fucking sick haha (it created the whole report)",
+          "url": "https://x.com/shafu0x/status/2063955274520522957",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063638971297435714",
-          "text": "@ethmaxi1616 😂😂😂😂",
-          "url": "https://x.com/shafu0x/status/2063638971297435714",
+          "id": "2063989434593182180",
+          "text": "@ondbai yo dm",
+          "url": "https://x.com/shafu0x/status/2063989434593182180",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -248,32 +308,14 @@
     },
     {
       "source": "x",
-      "name": "James Bachini",
-      "handle": "james_bachini",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
       "bio": "",
       "tweets": [
         {
-          "id": "2063504280196165771",
-          "text": "I find myself checking @Openrouter models page almost daily, like a kid at Xmas waiting for Santa to deliver a new toy",
-          "url": "https://x.com/james_bachini/status/2063504280196165771",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2063702721694179383",
-          "text": "RT @arifgungor0: the song stuck in my head while coding is now playing under the stars at the party…\\n\\n@BuildOnStellar @Stellar_Turkey @Stel…",
-          "url": "https://x.com/james_bachini/status/2063702721694179383",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2063702628786155985",
-          "text": "RT @arifgungor0: Who dispatched the ambulance ..?\\nWho just hit the ground?\\nIs the intruder actually getting away? 🚨\\nWho caught my baby's fe…",
-          "url": "https://x.com/james_bachini/status/2063702628786155985",
+          "id": "2064255981316407513",
+          "text": "RT @CoinGatePad: 🚀 Top Gainers Today #Base #CoinGatePad\\n\\n🥇 $VU @VU_virtuals  +143.00%\\n🥈 $LIGHT @ArcturianLabs  +139.00%\\n🥉 $AK1111  +59.31%…",
+          "url": "https://x.com/primer_systems/status/2064255981316407513",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -288,27 +330,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063443621173772542",
-          "text": "@HooCrypto @base @privy_io @buildonbase @CoinbaseDev Cool!  Nice work",
-          "url": "https://x.com/kleffew94/status/2063443621173772542",
+          "id": "2064104415901151291",
+          "text": "@SordQq @bguiz Ask claude code to run: \\n$ npx skills add coinbase/agentic-wallet-skills\\n\\nAnd feed it these docs: https://t.co/f1fVLptE44",
+          "url": "https://x.com/kleffew94/status/2064104415901151291",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063820661219618878",
-          "text": "Embrace the weird, unfinished, and unconventional parts of the tech frontier instead of hiding from them.\\n\\nThe strange side quests, failed experiments, etc. lead to the interesting outcomes.\\n\\nAction produces information.",
-          "url": "https://x.com/kleffew94/status/2063820661219618878",
+          "id": "2064043834213032043",
+          "text": "@julien_c We'd love to work with the @huggingface Routing API around headless model routing via x402.  \\n\\nIs there anyone you can connect me with on the team @julien_c?",
+          "url": "https://x.com/kleffew94/status/2064043834213032043",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063814241946398923",
-          "text": "@MarvTimoth58362 @CoinbaseDev @arizeai @vercel @PayGo402 Love to see it!",
-          "url": "https://x.com/kleffew94/status/2063814241946398923",
+          "id": "2064134609835905090",
+          "text": "@ghostkey316 Yup exactly.  And permissions are best originated and scoped client side.  Ie with macaroons.",
+          "url": "https://x.com/kleffew94/status/2064134609835905090",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -323,27 +365,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063610704926568803",
-          "text": "1/ Most recent article “x402 on Arbitrum: PayAI Adds Support for Arbitrum One”\\n\\nhttps://t.co/XI7HFG7jim",
-          "url": "https://x.com/PayAINetwork/status/2063610704926568803",
+          "id": "2063984499122213323",
+          "text": "Imagine getting a payment request from your own agent ������ https://t.co/IWhP1gWj2U",
+          "url": "https://x.com/PayAINetwork/status/2063984499122213323",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063610702871359571",
-          "text": "������Weekly Recap — June 7\\n\\nEven with some major red swings on the big L1s and some liquidations around the board, we see another great week for x402 and PayAI. Here's what went down������ https://t.co/TtylZ1M6qu",
-          "url": "https://x.com/PayAINetwork/status/2063610702871359571",
+          "id": "2063941801736610098",
+          "text": "@ColadaPerps @invoica_ai @Veilnet_ will be joining to share details about what they've built and what's to come!\\n\\nListen here--&gt; https://t.co/4Pq1sTv68f https://t.co/J1dVp0Ljhn",
+          "url": "https://x.com/PayAINetwork/status/2063941801736610098",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2063610709594824947",
-          "text": "@arbitrum @x402 4/ PayAI supports Veilnet for their x402 release  \\n\\nhttps://t.co/fkpOoSXmTW",
-          "url": "https://x.com/PayAINetwork/status/2063610709594824947",
+          "id": "2063984504146891029",
+          "text": "Agent: I delegated. efficiently.\\n\\nYou: to who?!\\n\\nAgent: a human. very affordable. paid on-chain.\\n\\nYou: I'm the human\\n\\nAgent: not for this project",
+          "url": "https://x.com/PayAINetwork/status/2063984504146891029",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -358,9 +400,62 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2063417534142140613",
-          "text": "@0xZane_ Yessir",
-          "url": "https://x.com/elijahintek/status/2063417534142140613",
+          "id": "2064085152448561621",
+          "text": "@fxnction X402 will eat the world",
+          "url": "https://x.com/elijahintek/status/2064085152448561621",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064094693101830557",
+          "text": "@Angeliki_BTC Chad mentality",
+          "url": "https://x.com/elijahintek/status/2064094693101830557",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064085808580284620",
+          "text": "@alpha_co True",
+          "url": "https://x.com/elijahintek/status/2064085808580284620",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Romero",
+      "handle": "dwr",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2064065977550004428",
+          "text": "Underwhelming WWDC.\\n\\nBut as a shared albums fan, excited about this. \\n\\nAlso mildly optimistic this could make Shortcuts actually useful. https://t.co/0G5mQC3vN9",
+          "url": "https://x.com/dwr/status/2064065977550004428",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064171418862940659",
+          "text": "@signulll Ahem",
+          "url": "https://x.com/dwr/status/2064171418862940659",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2064160176198799782",
+          "text": "Very sad to hear about Gordon Wood. RIP.",
+          "url": "https://x.com/dwr/status/2064160176198799782",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -370,7 +465,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 12,
-    "totalTweets": 30
+    "xBuilders": 16,
+    "totalTweets": 37
   }
 }
