@@ -1,29 +1,19 @@
 {
-  "generatedAt": "2026-06-12T10:05:06.370Z",
+  "generatedAt": "2026-06-13T08:55:50.748Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Tempo Mainnet: The Race to Agentic Commerce",
-      "guid": "de98f51c-5c0e-4d65-ba82-1b986b8c8730",
+      "title": "Cloudflare Needs 100M TPS from Crypto to Fix the Internet | CEO Matthew Prince",
+      "guid": "flightcast:01KSF4B1T5XP8SWHWYSMJB7TS4",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-03-19T10:30:00.000Z",
-      "description": "Tempo Mainnet is live, but this episode isn’t really about just another chain launch. It’s about a bigger claim: that AI agents are about to need native money, and that the internet may need a new payment layer to support them. Georgios Konstantopoulos and Brendan Ryan join Bankless to unpack why Tempo launched with agentic payments front and center, what MPP actually is, how it compares to x402, and why they think machine-to-machine commerce could reshape everything from paid APIs to the business model of the web itself. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🪐GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/galaxy-podcast 🏅BITGET TRADFI | TRADE GOLD WITH USDT https://bankless.cc/bitget 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 🐇MEGAETH | 1ST REAL-TIME BLOCKCHAIN https://bankless.cc/megaeth --- TIMESTAMPS 0:00 Tempo Mainnet goes live 1:18 Why the launch is focused on agents 3:58 What MPP actually is 6:30 MPP vs x402 15:28 Why agentic commerce matters 20:08 The “original sin” of the internet 26:04 MCP, NLWeb, and the emerging agent stack 34:07 The onboarding flow: wallets for agents 37:11 How Tempo’s wallet security works 40:11 Tempo chain design and specs 51:13 Why build an L1 instead of an Ethereum L2? 56:10 The Ethereum tension 1:05:01 Agent identity, reputation, and ERC-8004 1:06:53 TIP20, stablecoins, and what can be built on Tempo 1:12:36 Builder opportunity in the agentic web --- RESOURCES Georgios Konstantopoulos https://x.com/gakonst Brendan Ryan https://brendanjryan.com --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
-    },
-    {
-      "source": "podcast",
-      "name": "Tokenized",
-      "title": "KAST: 1M Users on a Stablecoin Neobank",
-      "guid": "dcb4364c-c51a-4b0a-a82b-0853c349d31a",
-      "url": "https://tokenized.simplecast.com/episodes/kast-1m-users-on-a-stablecoin-neobank-KftN5pIF",
-      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
-      "publishedAt": "2026-06-11T15:00:00.000Z",
-      "description": "On Ep. 5 of Stablecoin Stories, Simon Taylor, Head of Market Development @ Tempo and Ran Goldi, SVP Payments, Fireblocks are joined by Raagulan Pathy, Founder & CEO @ KAST to discuss the thesis of building fintech on top of stablecoin rails, building USDK for onchain transparency, trust and more! Timestamps: 00:00 Introduction 7:35 Thesis of building fintech on top of stablecoin rails 9:53 Challenges of scrappy startup fundraising and low salaries 11:39 Early traction through Solana card partnership and trust 13:09 Building USDK for onchain transparency and trust 18:43 Plans for licenses acquisitions and raising more capital 22:47 Growth strategy using referrals cashback and better design 27:14 Stablecoins will become 30-50% of payments in 20 years Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Fireblocks With over $100 billion in monthly stablecoin volume, Fireblocks powers stablecoin strategies at scale with infrastructure that enables PSPs, fintechs, remitters and banks to issue, move, hold, and manage stablecoins. And it’s all done securely, at scale, and with built-in compliance. Learn more at fireblocks.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! Music by Henry McLean"
+      "publishedAt": "2026-05-25T10:30:00.000Z",
+      "description": "The internet is about to be flooded by machines, and Matthew Prince thinks the old business model is not ready. The Cloudflare co-founder and CEO joins Bankless to explain why AI agent traffic could overtake human traffic by 2027, how crawlers are changing the economics of content, why ads and subscriptions may not survive in their current form, and how x402, stablecoins, and pay-per-crawl could create a new payment layer for the web. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🟦 COINBASE ONE | MEMBER MONTH https://bankless.cc/coinbase-one 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 1:18 When AI Bot Traffic Overtakes Humans 4:19 What Cloudflare Actually Does 10:40 Life on the Internet’s “Ice Wall” 13:33 The Internet’s Business Model Problem 17:43 Google, Traffic, and the Attention Economy 24:56 AI Agents and the End of Ads 28:47 Why Faster Answers Can Still Hurt Creators 33:26 AI Companies as the Next YouTube or Netflix 38:18 Creating Scarcity for Content Markets 41:52 Content Independence Day 45:24 Should AI Agents Count as Human Users? 51:37 The Risks of Subscription-Only AI 57:24 A Golden Age of Content Creation? 1:01:46 Pay-Per-Crawl and x402 1:04:34 Why Stablecoins Matter 1:07:56 The Cloudflare Stablecoin Question 1:14:18 The Final Form of the Internet 1:17:40 The Park Record and Local Journalism 1:22:16 The Centralization Risk 1:27:12 Advice for Content Creators --- RESOURCES Matthew Prince https://x.com/eastdakota --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
