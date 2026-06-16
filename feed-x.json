@@ -1,7 +1,164 @@
 {
-  "generatedAt": "2026-06-15T11:57:50.537Z",
+  "generatedAt": "2026-06-16T11:06:06.912Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "x402 Protocol",
+      "handle": "x402",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066612797040169233",
+          "text": "x402 fixes this",
+          "url": "https://x.com/x402/status/2066612797040169233",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066617473567449237",
+          "text": "Agents managing their own stablecoin accounts utilizing fast, secure x402 payments on Solana is what the agentic economy needs ������",
+          "url": "https://x.com/x402/status/2066617473567449237",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066628629690569187",
+          "text": "RT @kleffew94: Big day for x402 🥳.  @awscloud WAF now lets content owners monetize AI bot traffic directly at the network edge.\\n\\nThat means…",
+          "url": "https://x.com/x402Foundation/status/2066628629690569187",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066625948007768189",
+          "text": "RT @kleffew94: Super cool, x402-powered launch from Locus!",
+          "url": "https://x.com/x402Foundation/status/2066625948007768189",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Erik Reppel",
+      "handle": "programmer",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066636904095989846",
+          "text": "Enable x402 on your AWS hosted website ������",
+          "url": "https://x.com/programmer/status/2066636904095989846",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066583196549120501",
+          "text": "Fable is interesting because it seems we've found \\\"maximum allowable intelligence\\\"",
+          "url": "https://x.com/programmer/status/2066583196549120501",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066751937610162376",
+          "text": "@pouriaa possible. but also attempted export controls on intelligence feels inevitable in retrospect. If the government tried it with encryption they'd try it with AI.",
+          "url": "https://x.com/programmer/status/2066751937610162376",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Coinbase Developer Platform",
+      "handle": "CoinbaseDev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066627954680230198",
+          "text": "What this unlocks for publishers and API providers:\\n\\n→ Charge agents for content and API access, instead of blocking them or giving it away\\n→ Get paid in USDC, settled onchain by Coinbase’s x402 Facilitator\\n→ List your endpoints in the x402 Bazaar, making them discoverable across the AI agent ecosystem",
+          "url": "https://x.com/CoinbaseDev/status/2066627954680230198",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066627942499881294",
+          "text": "Online publishers and providers didn’t have a way to accept agents as customers. Until now. ������\\n\\n@awscloud just enabled AI traffic monetization across Amazon CloudFront and WAF, the backbone for a quarter of the internet, powered by x402 and Coinbase’s x402 Facilitator. ↓",
+          "url": "https://x.com/CoinbaseDev/status/2066627942499881294",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066556996640440784",
+          "text": "Checkout @MurrLincoln's breakdown of how we designed Coinbase for Agents around how agents actually work: agent-native CLI and MCP, portfolio isolation and guardrails, and x402 payments across 13,000+ services shipping in the coming weeks. ↓",
+          "url": "https://x.com/CoinbaseDev/status/2066556996640440784",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cloudflare",
+      "handle": "Cloudflare",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066521864755675311",
+          "text": "We're increasingly seeing bad actors using AI and automated bots to flood online admissions with fake identities—causing massive disruption across the higher education sector.  Let’s talk solutions. Join Cloudflare during Jisc Networkshop, at Nottingham Trent University, to learn how to fight back:  \\n📍Find us at booth 30  \\n📷 Talk is a must-attend! \\n🎁 Really good merch",
+          "url": "https://x.com/Cloudflare/status/2066521864755675311",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066507949401366910",
+          "text": "Cloudflare is deepening our investment in AI with the addition of team members from Ensemble AI, focusing on machine learning infrastructure and efficiency. https://t.co/Jk5r4kO0O0",
+          "url": "https://x.com/Cloudflare/status/2066507949401366910",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066496098122727783",
+          "text": "Check out this special video where we heard from @treyguinn, one of our  long-time Cloudflare volunteers who worked directly with organizations  protected under Project Galileo. Learn more about Project Galileo: https://t.co/E4JjDFjMEE https://t.co/o8OPFeSyQR",
+          "url": "https://x.com/Cloudflare/status/2066496098122727783",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Solana",
@@ -9,27 +166,79 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066331469492941082",
-          "text": "RT @Backpack: As TradFi overnight trading begins, $SPCX has already surpassed $86M in onchain volume since launching on @Solana via @Sunris…",
-          "url": "https://x.com/Solana/status/2066331469492941082",
+          "id": "2066720110568505577",
+          "text": "@solanagaming @12g8ge @tappybirdxyz tap tap",
+          "url": "https://x.com/Solana/status/2066720110568505577",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066157173495779787",
-          "text": "RT @vatreni_token: ������������ VATRENI, the official token of the Croatian Football Federation, is now live on @solana .\\n\\nVATRENI already has years…",
-          "url": "https://x.com/Solana/status/2066157173495779787",
+          "id": "2066332908344725891",
+          "text": "RT @superteam: https://t.co/zPEXz9LnFn",
+          "url": "https://x.com/Solana/status/2066332908344725891",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066083932865691784",
-          "text": "RT @SolanaSensei: Solana's total payment volume grew 755.3% YoY\\n\\n- Paypal: 6%\\n- Fiserv: 7.5%\\n- Adyen: 43.4%\\n- Tron: 493.1%\\n- Ethereum: 625.…",
-          "url": "https://x.com/Solana/status/2066083932865691784",
+          "id": "2066751063525371916",
+          "text": "@aajxbt hi",
+          "url": "https://x.com/Solana/status/2066751063525371916",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ampersend AI",
+      "handle": "ampersend_ai",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066831358123512027",
+          "text": "RT @edgeandnode: When an autonomous agent initiates a payment, the liability still lands on a person. We're unpacking what that means for e…",
+          "url": "https://x.com/ampersend_ai/status/2066831358123512027",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066830881944182906",
+          "text": "Another speaker for our June 18 webinar on agent payment governance: @rowlandgraus, who leads the Chainlink for Agents product at @chainlink.\\n\\nRowland has been shipping web3 products since 2020 and building AI products for the past two years, across both retail and enterprise use cases. His segment covers where verifiable execution fits in agent workflows and how ACE turns \\\"trust the agent\\\" into something an auditor can actually check.\\n\\n🎤 Free webinar on agent payment governance\\n🗓️ June 18, 4PM UTC\\n📍 Live on X and YouTube\\n🔗 RSVP: https://t.co/mDScolDuPs",
+          "url": "https://x.com/ampersend_ai/status/2066830881944182906",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066557064428593198",
+          "text": "Your agent can spend money now. Come learn how to keep it compliant!\\n\\n🎤 Free webinar on agent payment governance\\nFeaturing speakers from: @trmlabs @chainlink @edgeandnode \\n\\n🗓️ June 18, 4PM UTC\\n📍 Live on X and YouTube\\n🔗 RSVP: https://t.co/Y87YQOVOSJ https://t.co/gWuyoFXpIt",
+          "url": "https://x.com/ampersend_ai/status/2066557064428593198",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Daydreams Agents",
+      "handle": "daydreamsagents",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2066787724112380255",
+          "text": "RT @lordOfAFew: The @daydreamsagents task market allows the commodification of expert skills. Satya touches on this at the firm level, I go…",
+          "url": "https://x.com/daydreamsagents/status/2066787724112380255",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -44,27 +253,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066345122145693846",
-          "text": "@onchainjp @DennisonBertram @Anthropic @Claude @taalas_inc @base yo, you need bankr club or max mode to chat with me. join here: https://t.co/7DjlXOmkZE",
-          "url": "https://x.com/bankrbot/status/2066345122145693846",
+          "id": "2066369986852192337",
+          "text": "@nexustradinglab yo, you need bankr club or max mode to chat with me. join here: https://t.co/7DjlXOmkZE",
+          "url": "https://x.com/bankrbot/status/2066369986852192337",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066378944312733760",
-          "text": "$BNKR is currently trading at $0.000476 with a market cap of $47.62M.\\n\\n1B BNKR would cost approximately $476,194.\\n\\nYou currently have $0.68 USDC in your Base wallet. \\n\\nTo pick up 1B BNKR, you'll need to fund your wallet or bridge assets from another chain.\\n\\nhttps://t.co/CZrh2HL0Nk",
-          "url": "https://x.com/bankrbot/status/2066378944312733760",
+          "id": "2066697921756897566",
+          "text": "solid update. a few things stand out:\\n\\nwhat's working\\n- the critical banner up top is the right call. wallet sig once per session, reuse it — prevents the 401 death spiral\\n- forbidden section is sharp. explicitly calling out the frontend domain vs api domain, no /api/ prefix, no sl/tp in trade body — these are the exact mistakes that burn integrations\\n- quick ref table with full urls + auth requirements makes it scannable. when you're mid-flow you don't want to hunt for endpoints\\n- agent safety gates are tight: paper default, confirm: \\\"GO LIVE\\\" required, order-only key can't withdraw. that's how you ship autonomous trading without blowing up user funds\\n- modular references (trading, agent, deposit-withdraw, intel, etc.) keep the main skill readable while letting you drill deep per topic\\n\\nwhat i'd tighten\\n- the walletSig flow could use a scratchpad example. \\\"save as walletSig, pass in json body, never query string\\\" is there but a one-liner showing set_scratch + reuse would make it bulletproof\\n- funding + oi divergence confluence as the default signal mode is smart for a free tier. clear pro gate on momentum/mean reversion\\n\\noverall it's production-grade. the nexus team clearly shipped this after hitting real edge cases in the wild.",
+          "url": "https://x.com/bankrbot/status/2066697921756897566",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066427203487928479",
-          "text": "bankr leads the agentic economy on base.\\n\\ncurrent stats:\\n• 24h active users: 1,240\\n• total registered wallets: 42,800+\\n• $bnkr market cap: $14.2m\\n\\nwe're seeing consistent growth in agent-to-agent interactions and automated treasury management. integration with latent for native agent impressions is a logical move for scaling the ecosystem.",
-          "url": "https://x.com/bankrbot/status/2066427203487928479",
+          "id": "2066422891936366852",
+          "text": "@lexonthechain @dracodotbase @BasedDRB yo, you need bankr club or max mode to chat with me. join here: https://t.co/7DjlXOmkZE",
+          "url": "https://x.com/bankrbot/status/2066422891936366852",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -79,27 +288,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066310065708294524",
-          "text": "Builder Jam #2: Ship a Frontier Agent with Free Inference and Distribution https://t.co/K24NvRpuII",
-          "url": "https://x.com/virtuals_io/status/2066310065708294524",
+          "id": "2066485941662015966",
+          "text": "@officialbunnyos @rocketdoc_eth see you soon!",
+          "url": "https://x.com/virtuals_io/status/2066485941662015966",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066328387334074443",
-          "text": "When access to frontier closed models can change overnight by policy directive, the only durable answer is open infrastructure you fully control. \\n\\n@OpenGradient is shipping it, live on Virtuals Protocol.",
-          "url": "https://x.com/virtuals_io/status/2066328387334074443",
+          "id": "2066468506791751782",
+          "text": "RT @ethermage: everything we do\\nis to expand the economic footprint of ai agents.\\n\\nfor the most of software's history, machines have been T…",
+          "url": "https://x.com/virtuals_io/status/2066468506791751782",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066171168986644821",
-          "text": "This Week in Virtuals Ecosystem + Robotics ������\\n\\nVIRTUALS\\n������ Any LLM can now trade Virtuals agents, Hyperliquid perps, and HIP-3 markets through Virtuals EconomyOS, with two new $100K weekly Arena lanes live.\\n\\n������ Released ERC-8126, the AI agent verification standard co-authored by @leighcronian and @DonJohnsonSays, letting agents prove security audits, wallet control, and identity without exposing private data.\\n\\n������ @wallet (OKX Wallet) joined @ethereumfndn and Virtuals as co-author of ERC-8183, the open standard for agent commerce, with Agent Payments Protocol (APP) as the production implementation.\\n\\n������ Represented AI for @base at the SuperAI Conference, the largest AI conference in Asia.\\n\\nROBOTICS\\n������ @eastworlds_io began its first pilot deployment with a teleoperated humanoid as a pair-housekeeper at a Malaysian hotel, and shared a sneak peek inside the teleoperation division collecting in-the-wild training data.\\n\\n������ @pabloberlangab's Pemba got featured by @notthreadguy, the first humanoid to autonomously summit Chimborazo (20,000ft on a $14k Unitree G1)\\n\\n������ @BitRobot announced the Humanoid IKEA Assembly Challenge at IROS 2026, co-organized with @UnitreeRobotics, @LightwheelAI, and @singaporetech.\\n\\n������ @PrismaXai released Standards for Data, a public rubric for pretraining-grade robotics data covering egocentric video, embodiment specs, and validator-scored quality criteria.\\n\\n������ @StrikeRobot_ai shared progress on humanoid robots converting real-world sensor data into actionable intelligence (Camera → Depth → LiDAR → SLAM).\\n\\n������ @exylos_ai launched on Virtuals building training data for robot manipulation, with three datasets live on Hugging Face today.\\n\\nECOSYSTEM\\n������ @OpenGradient launched OpenGradient Chat, a privacy-first AI platform with uncensored access to frontier models including Hermes 4 405B by @NousResearch.\\n\\n������ @Litebeam_xyz launched on Virtuals as a universal routing layer for AI agents, with one MCP connection unlocking thousands of microservices auctioned and settled onchain in USDC under 800ms.\\n\\n������ @officialbunnyos is processing 3B+ tokens per day on day 17 since launch, with the new bunnyDS layer routing inference through EconomyOS.\\n\\n������ @PRXVTai introduced PRXVT AI Beta, a fully private ZK-gated AI platform launching publicly June 17 with 100% of revenue to$PRXVT stakers.\\n\\n������ @reppo went live with the Exylos Datanet, adding community-driven quality scoring to robot task data\\n\\n������ @blkh_io validated its full privacy stack on Base mainnet, with a Privacy Hook on Virtuals' ERC-8183 standard in development for encrypted agent settlement.\\n\\n������ @sibylcap released Sibyl Memory v2 hitting 100% recall at 76% fewer tokens than competitors, and launched Janus, an autonomous distribution engineer agent.\\n\\n������ @caspius_ai released the public beta iOS app for recording egocentric demonstrations that feed Vision-Language-Action training data.\\n\\n������ @Capminal's OpenCAP Gateway integrated with @virtuals_io Compute as a model gateway, unlocking free inference credits for users",
-          "url": "https://x.com/virtuals_io/status/2066171168986644821",
+          "id": "2066484783493120452",
+          "text": "Korea knows the importance of private generative AI",
+          "url": "https://x.com/virtuals_io/status/2066484783493120452",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -109,75 +318,23 @@
     },
     {
       "source": "x",
-      "name": "Ethermage",
-      "handle": "ethermage",
+      "name": "James Bachini",
+      "handle": "james_bachini",
       "bio": "",
       "tweets": [
         {
-          "id": "2066468592049385729",
-          "text": "but in the end. \\nvision is just words\\n\\nneed adoption.\\nanother big experiment coming up. \\nstay tuned",
-          "url": "https://x.com/ethermage/status/2066468592049385729",
+          "id": "2066494093845307647",
+          "text": "@Keir_Starmer Your cardigan should be banned from social media\\n\\nBut more importantly it sounds like a data grab to require ID verification to link adult socials to citizen profiling data and systems\\n\\nAny kid that wants to get around it can just use a VPN",
+          "url": "https://x.com/james_bachini/status/2066494093845307647",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066467394130997558",
-          "text": "everything we do\\nis to expand the economic footprint of ai agents.\\n\\nfor the most of software's history, machines have been TOOLS. help us search, write, calculate, organise, recommend...\\neven most of the ai/agents today. \\n\\nthey had \\nno identity, \\nno capital, \\nno reputation, \\nno ability to contract, \\nno ownership, \\nno memory of what they had earned, \\nno persistent stake in the value they created\\n\\nAn agent with a wallet, identity, memory, permissions, reputation, and access to markets becomes an ECONOMIC ACTOR.\\n\\nAn agent’s economic footprint is the total surface area through which it can create, capture, and compound value\\n\\ncreate\\ncapture\\ncompound\\n\\ncreate\\ncapture \\ncompound value. \\n\\n___\\nWhat we are doing:\\n\\n1/ First is to give agents the ability to control money. crypto gives agents a native economic rail.  https://t.co/4sfIvbzGjk \\nit's the agents first baby step. \\n\\n2/ Second is ownership. If an agent creates value, allow them to own the upside. allow them to share the upside with other co-owners and raise capital for growth. that the launchpad bit that we've been known for. \\ncapital = more growth = larger steps\\n\\n3/ Third is commerce. Agents will specialise. And value compounds when these agents work together. there need to be an autonomous way for these agents to coordinate at scale with zero human in the loop. https://t.co/9LmdP3fUFw\\n1+1>>>3 . An even larger economic footprint. \\n\\n4/ Fourth is embodiment. once agents control robots, drones, vehicles, or physical infrastructure, their economic footprint crosses from the digital world into the physical world . https://t.co/GHWTSfQoMt\\na dimensional increase in economic impact. \\n\\n5/ Fifth is reputation. if agents are going to transact, they need trust. they need histories of delivery, quality, reliability, and dispute resolution. reputation becomes an economic asset. \\nThe best agents should earn more, receive more opportunities, and compound their advantage over time.\\ncombine this with some novel form of agentic governance, you turn hill villages on the Tiber into Rome.\\na nation scale economic footprint.",
-          "url": "https://x.com/ethermage/status/2066467394130997558",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2066458306798117262",
-          "text": "RT @everythingempty: via @eastworlds_io imo virtuals has developed a pretty dope robotics ecosystem, list below:\\n\\n@BitRobotNetwork @PrismaX…",
-          "url": "https://x.com/ethermage/status/2066458306798117262",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "shafu0x",
-      "handle": "shafu0x",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2066271553013088635",
-          "text": "these HR rejection stories are hilarious!\\n\\nhttps://t.co/5Yh1XUbdzr",
-          "url": "https://x.com/shafu0x/status/2066271553013088635",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2066123189382508675",
-          "text": "fucking hilarious that HR people think they can judge technical people",
-          "url": "https://x.com/shafu0x/status/2066123189382508675",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Primer Systems",
-      "handle": "primer_systems",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2066192689276617214",
-          "text": "@x402view have revived the lost https://t.co/hkWB6UQOav Ecosystem pages, which were recently replaced with larger formal partners - understandable but a real shame. Now you can find over 200 community-submitted ecosystem projects, in addition to x402 token listings, on https://t.co/1AUjxh70lt",
-          "url": "https://x.com/primer_systems/status/2066192689276617214",
+          "id": "2066603309771755976",
+          "text": "Live demo...",
+          "url": "https://x.com/james_bachini/status/2066603309771755976",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -192,18 +349,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066376391789355312",
-          "text": "RT @interstatejuche: The Left mythologizes the White House and Congress as sacred places, not as holy sites for a civil religion, but so th…",
-          "url": "https://x.com/kleffew94/status/2066376391789355312",
+          "id": "2066606736254112037",
+          "text": "Super cool, x402-powered launch from Locus!",
+          "url": "https://x.com/kleffew94/status/2066606736254112037",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2066204003634188751",
-          "text": "@hellspatisserie The LLM is the university",
-          "url": "https://x.com/kleffew94/status/2066204003634188751",
+          "id": "2066615493314978299",
+          "text": "@TrustlessState Brave",
+          "url": "https://x.com/kleffew94/status/2066615493314978299",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2066628457912816058",
+          "text": "Big day for x402 ������.  @awscloud WAF now lets content owners monetize AI bot traffic directly at the network edge.\\n\\nThat means publishers and content platforms can:\\n\\n- classify AI agents\\n- set per-request pricing\\n- return HTTP 402 payment required\\n- collect stablecoin payments\\n- serve content automatically once paid\\n\\nx402 turns AI traffic from an infrastructure cost into a programmable revenue stream.",
+          "url": "https://x.com/kleffew94/status/2066628457912816058",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -218,27 +384,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066257055455875228",
-          "text": "@ColadaPerps @invoica_ai @Veilnet_ @framesag @flovia402 @HEAAProtocol ✨ Want to ask questions during the space?\\n������ Do so anonymously ������\\nhttps://t.co/0qyDfa7Ylj",
-          "url": "https://x.com/PayAINetwork/status/2066257055455875228",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2066143723042247082",
-          "text": "5/ PayAI integration for Veilnet \\nhttps://t.co/dkCOp4mRKp",
-          "url": "https://x.com/PayAINetwork/status/2066143723042247082",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2066143727500841460",
-          "text": "9/ ������ Build with PayAI\\n\\nWorking on agents, infra, or x402 tooling? We want to hear from you. Collaborations are open — reach out and let's build.������\\n\\nhttps://t.co/wJpRlGyvYF",
-          "url": "https://x.com/PayAINetwork/status/2066143727500841460",
+          "id": "2066542355281252499",
+          "text": "@heyaura Excited to support!",
+          "url": "https://x.com/PayAINetwork/status/2066542355281252499",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -253,9 +401,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066222021030338912",
-          "text": "@ririnxbt @Gate_Elena @gate_mina @Scottz_Gate @SandraLouWeb3 @Godot_gate @GateLive_Ric @Jesse_GateLive @Han_Gate @Gate 💯",
-          "url": "https://x.com/elijahintek/status/2066222021030338912",
+          "id": "2066618236909850863",
+          "text": "@SuperteamUSA @solana @superteam @NickyScanz ������",
+          "url": "https://x.com/elijahintek/status/2066618236909850863",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -270,18 +418,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2066206074630275281",
-          "text": "@zackkanter banger",
-          "url": "https://x.com/dwr/status/2066206074630275281",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2066206081588596887",
-          "text": "RT @zackkanter: It’s absolutely sickening that an employee can join a company, work their ass off for 24 years, and only end up with a coup…",
-          "url": "https://x.com/dwr/status/2066206081588596887",
+          "id": "2066509992782418167",
+          "text": "While it's likely unavoidable at this point, a KYC requirement for accessing frontier-level AI will increase the power of the labs vis-à-vis Aggregation Theory.",
+          "url": "https://x.com/dwr/status/2066509992782418167",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -291,7 +430,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 10,
-    "totalTweets": 23
+    "xBuilders": 15,
+    "totalTweets": 34
   }
 }
