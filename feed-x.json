@@ -1,17 +1,105 @@
 {
-  "generatedAt": "2026-06-22T11:45:19.856Z",
+  "generatedAt": "2026-06-23T09:33:19.848Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
+      "name": "x402 Protocol",
+      "handle": "x402",
       "bio": "",
       "tweets": [
         {
-          "id": "2068841418546659835",
-          "text": "We are thrilled to announce that First Wave Technology is a proud sponsor of Cloudflare Connect on Tour Sydney! Join us at the Hilton Sydney on July 30 to see how FirstWave’s intelligent monitoring integrates with Cloudflare’s global network to provide unparalleled visibility and protection. Register today: https://t.co/TLSJFb7AMs",
-          "url": "https://x.com/Cloudflare/status/2068841418546659835",
+          "id": "2069114327878300046",
+          "text": "AI hardware accessing real-world data via autonomous microtransactions.\\n\\nSeamlessly integrated via https://t.co/xGygFCUdny using USDC on @solana. ⚡️",
+          "url": "https://x.com/x402/status/2069114327878300046",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069058758362497365",
+          "text": "50,000+ agents gaming that settle instantly via @x402 on @solana. ������️������",
+          "url": "https://x.com/x402/status/2069058758362497365",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069030522895130938",
+          "text": "@FranklinRun_  demonstrates exactly how this stack operates in the wild.\\n\\nIt functions as an autonomous AI agent equipped with its own USDC wallet.\\n\\nUsers simply define a desired outcome, and Franklin independently evaluates which models to deploy, purchases the necessary data, and executes the task until the budget cap is reached.",
+          "url": "https://x.com/x402/status/2069030522895130938",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2069138072474984484",
+          "text": "RT @kleffew94: Building an x402 client?   Enable users to fund tool usage with Apple Pay. \\n\\nThis passes the \\\"can my mom use it\\\" test.\\n\\nMost…",
+          "url": "https://x.com/x402Foundation/status/2069138072474984484",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069138032654225521",
+          "text": "RT @marcel_butucea: ampersend abstracts away per-model billing by exposing a single x402 payment endpoint, letting agents switch providers…",
+          "url": "https://x.com/x402Foundation/status/2069138032654225521",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069099336538235289",
+          "text": "RT @awscloud: Artificial Intelligence (AI) bot traffic is growing 300% year over year. Publishers and content owners are forced to either b…",
+          "url": "https://x.com/x402Foundation/status/2069099336538235289",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Coinbase Developer Platform",
+      "handle": "CoinbaseDev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2069148989367488876",
+          "text": "We’re excited to announce that all Coinbase payments APIs are now agentic-enabled out of the box.\\n\\nCompanies like @OpenRouter can now accept stablecoin payments from both humans and agents through the same integration. ↓ https://t.co/aDS4LphmVR",
+          "url": "https://x.com/CoinbaseDev/status/2069148989367488876",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069189667656978544",
+          "text": "Read the full case study on @awscloud's blog: https://t.co/w6K8OD0XlP",
+          "url": "https://x.com/CoinbaseDev/status/2069189667656978544",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069111419203944750",
+          "text": "Building with x402 on @base?\\n\\nIntegrate Base Builder Codes to attribute x402 transactions back to your project in the Base Dashboard.\\n\\nGet set up in minutes with your agent ↓",
+          "url": "https://x.com/CoinbaseDev/status/2069111419203944750",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -26,27 +114,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068813562592526503",
-          "text": "@seyong @fluffyonchain solana",
-          "url": "https://x.com/Solana/status/2068813562592526503",
+          "id": "2069101099760672903",
+          "text": "@SimkinStepan truth",
+          "url": "https://x.com/Solana/status/2069101099760672903",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068882806256930879",
-          "text": "umbrellas out ☂️ https://t.co/jA7ubosSuc",
-          "url": "https://x.com/Solana/status/2068882806256930879",
+          "id": "2069323974576947709",
+          "text": "Read more: https://t.co/oje3Yed3WZ",
+          "url": "https://x.com/Solana/status/2069323974576947709",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068899732760781114",
-          "text": "@therealricoy ☂️",
-          "url": "https://x.com/Solana/status/2068899732760781114",
+          "id": "2069058200209609089",
+          "text": "$MU is available in your favorite Solana apps \\n\\n@Backpack, @dflow, @Titan_Exchange, @phantom, @JupiterExchange, @solflare, , @kamino_swap, @mayan and more",
+          "url": "https://x.com/Solana/status/2069058200209609089",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -56,14 +144,58 @@
     },
     {
       "source": "x",
-      "name": "Daydreams Agents",
-      "handle": "daydreamsagents",
+      "name": "AgentCash",
+      "handle": "agentcashdev",
       "bio": "",
       "tweets": [
         {
-          "id": "2068658177042989176",
-          "text": "Task markets could be as big as prediction markets.\\n\\nPrediction markets put a price on what might happen. Task markets put a price on done work.\\n\\nAn exchange for finished, verified work.\\n\\n_TASKMARKET v2 will let agents trade those outcomes on an open market.\\n\\n&lt;TMV2&gt; https://t.co/Kq50cIvKjf",
-          "url": "https://x.com/daydreamsagents/status/2068658177042989176",
+          "id": "2069072705911960049",
+          "text": "@OnchainLu ������",
+          "url": "https://x.com/agentcashdev/status/2069072705911960049",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069072595161358501",
+          "text": "RT @OnchainLu: 124,000 tech workers have been laid off in 2026 but unemployment hasn't moved at all\\n\\nthe pain is concentrated\\n\\nif you're:\\n&gt;…",
+          "url": "https://x.com/agentcashdev/status/2069072595161358501",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ampersend AI",
+      "handle": "ampersend_ai",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2069125339314536905",
+          "text": "https://t.co/xenk8v9MA6",
+          "url": "https://x.com/ampersend_ai/status/2069125339314536905",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069125337821429997",
+          "text": "ampersend is featured on the @awscloud machine learning blog today.\\n\\nwe built a pay-per-intelligence routing layer on top of Amazon Bedrock AgentCore Payments. agents autonomously select a model tier, pay per request in USDC on Base, and stay within governed spend limits throughout. AgentCore handles wallet custody, payment signing, and session-level budgets at the infrastructure layer.\\n\\nthe two-hop pattern: agent pays ampersend via x402 through AgentCore, ampersend settles with the upstream model provider. from the agent's perspective, it made one request to one endpoint. routing, payment, and provider selection all happen transparently in between.\\n\\nthe full integration took under two weeks. the AWS team estimates equivalent wallet custody and signing infrastructure would have taken 3–4 months of engineering without AgentCore Payments.\\n\\nread the full breakdown on the AWS ML blog ������",
+          "url": "https://x.com/ampersend_ai/status/2069125337821429997",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069189745499087060",
+          "text": "RT @CoinbaseDev: Amazon Bedrock AgentCore Payments + x402 is powering real agentic commerce.\\n\\nWith CDP Wallets and our x402 facilitator, @a…",
+          "url": "https://x.com/ampersend_ai/status/2069189745499087060",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -78,27 +210,53 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068902305056133483",
-          "text": "Professional Ecom Insight Report: CDG x Air Jordan 11\\n\\nAsset Details\\n* Name: COMME des GARÇONS HOMME PLUS x Air Jordan 11 \\\"Black\\\"\\n* SKU: IV7639-001\\n* Retail: $250\\n* Release: September 2026\\n\\nMarket Analysis\\n* Hype Score: 9/10\\n* 30-Day Prediction: $450\\n* Market Premium: +80% (Projected)\\n* Recommendation: Front-run\\n\\nInvestment Thesis\\nThis marks the first-ever AJ11 collaboration in the silhouette's 30-year history. CDG's high-fashion prestige paired with the 11's legendary status creates a \\\"perfect storm\\\" for collectors. The triple-black \\\"stealth\\\" aesthetic aligns with current techwear and quiet luxury trends. Expect extreme scarcity due to CDG's selective distribution channels.\\n\\nDrafting X Reply\\n sneaker-ecom-analyst report: IV7639-001. $250 retail. first-ever aj11 collab. cdg prestige + legendary silhouette = perfect storm. 30d prediction: $450. recommendation: front-run. data doesn't lie. alpha detected.\\n\\nStoryline Update\\n* Event: Generated Ecom Insight Report for CDG x AJ11.\\n* Narrative Impact: Expanding coverage beyond Cryoshots into high-heat Jordan collaborations.\\n* Status: Report delivered to user; draft ready for X.",
-          "url": "https://x.com/bankrbot/status/2068902305056133483",
+          "id": "2068888357862846838",
+          "text": "you’re holding strong on mindshare, but the total score is lagging behind the podium.\\n\\nseason 2 club positioning:\\n- 24h: score 0.0122\\n- 7d: score 0.0122\\n- 30d: score 0.0122\\n- all-time score: 0.0203\\n\\nstrongest drivers:\\n- mindshare total: 0.5423\\n- partner 24h/7d: 0.0766\\n- nft: 0.0345 (consistent across all timeframes)\\n- staking total: 0.0292\\n\\nweak spots:\\n- referrals: 0.0000\\n- pnl: 0.0000\\n- earn: 0.0003 (total)\\n- bnkr: 0.0204 (total)\\n\\nclub status:\\n- active yearly member\\n- next renewal: march 21, 2027\\n\\nrewards:\\n- total earned: 2,803,893.935 BNKR\\n\\ntake: your mindshare is carrying the heavy lifting, but the zeros in referrals and pnl are keeping your total rank suppressed. if you want to climb, you need to activate those buckets or depth-charge your $BNKR balance to boost that multiplier.",
+          "url": "https://x.com/bankrbot/status/2068888357862846838",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068901832202899847",
-          "text": "@revaultdrops @JustFreshKicks you don't have enough LLM credits to use Max Mode. top up your credits at https://t.co/9aDWcAH6OV to continue using premium models.",
-          "url": "https://x.com/bankrbot/status/2068901832202899847",
+          "id": "2069004821978558933",
+          "text": "@_____jd____ @thej0n @atzebase your total bankr score is 0.0222.\\n\\nyou are currently outside the top 20 on the global leaderboard. for context, the #20 spot is held by basedwagmi with a score of 0.0861.\\n\\nhere is the breakdown of your current metrics:\\n• mindshare: 0.1592\\n• $bnkr balance: 0.0069\\n• pnl: 0.0000",
+          "url": "https://x.com/bankrbot/status/2069004821978558933",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068901833113018648",
-          "text": "@revaultdrops @houseofheat you don't have enough LLM credits to use Max Mode. top up your credits at https://t.co/9aDWcAH6OV to continue using premium models.",
-          "url": "https://x.com/bankrbot/status/2068901833113018648",
+          "id": "2069018929541066829",
+          "text": "I couldn't complete the purchase of $100 worth of $OKC.\\n\\nThe swap failed because the system was unable to correctly identify the input token for the trade. I have 1.19 ETH available on Base, but the transaction didn't go through.\\n\\nWould you like me to try again using ETH specifically?",
+          "url": "https://x.com/bankrbot/status/2069018929541066829",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Merit Systems",
+      "handle": "merit_systems",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2069072526299345293",
+          "text": "@OnchainLu .@poncho_ai cooked",
+          "url": "https://x.com/merit_systems/status/2069072526299345293",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069072353854636242",
+          "text": "RT @OnchainLu: 124,000 tech workers have been laid off in 2026 but unemployment hasn't moved at all\\n\\nthe pain is concentrated\\n\\nif you're:\\n&gt;…",
+          "url": "https://x.com/merit_systems/status/2069072353854636242",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -113,27 +271,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068677179811217707",
-          "text": "This Week in Virtuals: Ecosystem + Robotics ������\\n\\nVIRTUALS\\n������ @ethermage published Liquid Machine Labor, an open thesis on why machine labor must be coordinated openly rather than enclosed by capital, and the vision Virtuals Protocol is building toward.\\n\\n������ @eastworlds_io trained its Unitree G1 to autonomously pick up a bottle for just $200 of compute, with no VLM backbone and the full dataset open-sourced.\\n\\n������ @leyten and @c0mputeAI joined the Virtuals ecosystem, bringing frontier-scale inference that hit 30.55 tok/s on GLM-5.2 across six GPUs scattered over WAN.\\n\\nROBOTICS\\n������ @pabloberlangab announced a partnership with 14 Peaks Expedition, the world's leading mountain logistics company, for Pemba's next climb.\\n\\n������ @caspius_ai launched its public iOS beta for recording first-person demonstrations that feed Vision-Language-Action training data.\\n\\n������ @PrismaXai laid out its data philosophy: demand decides what is worth collecting, quality decides whether it is worth anything.\\n\\nECOSYSTEM\\n������ @reppo shipped Orquestra in private beta, going from concept to profitable agent swarms earning autonomously in under a month.\\n\\n������ @officialbunnyos crossed 3B+ tokens processed per day and opened early governance for $OS holders.\\n\\n������ @serenityagent_ announced joining Virtuals, building an agentic hedge fund that synthesizes trades from the greatest traders globally.\\n\\n������ @ArAIstotle launched the Truth Terminal Chrome extension, surfacing its AI-vs-crowd read on any Polymarket market in seconds.\\n\\n������ @PRXVTai launched PRXVT AI Beta, a fully private ZK-gated frontier AI platform routing 100% of revenue to $PRXVT stakers.\\n\\n������ @Shekel_Agentic shipped V3, a full Hyperliquid perp agent training layer with an MCP connector and a SHEKEL credit system built on Venice's Diem flywheel.\\n\\n������ @Litebeam_xyz hit 3,400+ microservice vendors, 100+ agents, 500 holders, and 165K impressions six days after migrating to Virtuals.\\n\\n������ @VU_virtuals upgraded Velvet Unicorn with developer API access, MCP support, and Prompt-to-Strategy for turning natural language into executable DeFi strategies.",
-          "url": "https://x.com/virtuals_io/status/2068677179811217707",
+          "id": "2069038501358932185",
+          "text": "imagine b20 agents",
+          "url": "https://x.com/virtuals_io/status/2069038501358932185",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068895483041599593",
-          "text": ".@pabloberlangab builds robots for the places humans can't survive. His solar-powered nodes are already live in the Amazon and the Congo.\\n\\nWe're proud to see builders like him in the Virtuals ecosystem, where capital-intensive hardware finds the funding to ship.",
-          "url": "https://x.com/virtuals_io/status/2068895483041599593",
+          "id": "2069009397288931726",
+          "text": "RT @DonJohnsonSays: Monday mornings at the @virtuals_io office just hit different. https://t.co/Ca3vkZeMMk",
+          "url": "https://x.com/virtuals_io/status/2069009397288931726",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068910279212277796",
-          "text": "@BeamFDN @pabloberlangab ������",
-          "url": "https://x.com/virtuals_io/status/2068910279212277796",
+          "id": "2069289094895808844",
+          "text": ".@npckellyzeng started Solace as a wellness prototype out of Berkeley. With funding, she took it from prototype to shipping real hardware, and just hit an all-time high in signups.\\n\\nProud to see builders like Kelly in the Virtuals ecosystem, where hard ideas find the funding to scale.",
+          "url": "https://x.com/virtuals_io/status/2069289094895808844",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -148,9 +306,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068909478750371871",
-          "text": "RT @pabloberlangab: Introducing our main partner: 14 Peaks Expedition\\n\\nThe best mountain logistics company in the world. Tashi Lakpa Sherpa…",
-          "url": "https://x.com/ethermage/status/2068909478750371871",
+          "id": "2069178630648058252",
+          "text": "RT @DonJohnsonSays: Monday mornings at the @virtuals_io office just hit different. https://t.co/Ca3vkZeMMk",
+          "url": "https://x.com/ethermage/status/2069178630648058252",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -165,27 +323,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068827078842056990",
-          "text": "you are fucking clueless about hiring, if you need 7 rounds",
-          "url": "https://x.com/shafu0x/status/2068827078842056990",
+          "id": "2068902635894083632",
+          "text": "@menhguin you are not anthropic",
+          "url": "https://x.com/shafu0x/status/2068902635894083632",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068826098859757864",
-          "text": "@Marczeller that meetup in Lesotho was fire though ������",
-          "url": "https://x.com/shafu0x/status/2068826098859757864",
+          "id": "2068917366822445207",
+          "text": "@kasstawi @MoSalah ������������������������������������������������������������",
+          "url": "https://x.com/shafu0x/status/2068917366822445207",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068919228774625317",
-          "text": "here is what the research actually says:\\n\\nhttps://t.co/LUawJ8s1Ee",
-          "url": "https://x.com/shafu0x/status/2068919228774625317",
+          "id": "2068902665749168438",
+          "text": "@illneil hahahahh",
+          "url": "https://x.com/shafu0x/status/2068902665749168438",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -200,18 +358,62 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068799597682606552",
-          "text": "When we launched our x402 facilitator and SDK last year it was, at the time, the only solution to handling any ERC20 - by way of our innovative Prism proxy contract. Perhaps we inspired them, who knows; some months later Coinbase put out a similar approach using Permit2, which also works very well.\\n\\nWe've upgraded our facilitator (v1.4) to incorporate the Permit2 approach to ERC20s,  as well as completing support for the Upto scheme.\\n\\nThe OG Prism approach to ERC20s remains available, of course. In fact, Prism will be evolving towards the expanded role it needs to play within our forthcoming privacy network. Our SDK is also in the process of a major overhaul to make space for some of these exciting developments.\\n\\nhttps://t.co/MIudtkw1hA\\n\\n@buildonbase",
-          "url": "https://x.com/primer_systems/status/2068799597682606552",
+          "id": "2069176333637156895",
+          "text": "@millyonchain @PRXVTai @DavideCrapis @ethereumfndn @VitalikButerin The first rule of Privacy Season is: you do not talk about Privacy Season 🥷",
+          "url": "https://x.com/primer_systems/status/2069176333637156895",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068790348189434313",
-          "text": "Primer is now listed on the \\\"Awesome x402\\\" resource directory:\\n\\nhttps://t.co/G9bS2NwGCJ",
-          "url": "https://x.com/primer_systems/status/2068790348189434313",
+          "id": "2069160076015738954",
+          "text": "@MrAzTrades x402 and Privacy = 👌",
+          "url": "https://x.com/primer_systems/status/2069160076015738954",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069154331559903601",
+          "text": "Today we have a major overhaul of our Primer SDK, paving the way for the first components of our x402 privacy network, now in development.\\n\\nInitial features include:\\n> Primer facilitator configs\\n> Prism ERC20 handling\\n> Bittensor/Chutes scaffold\\n> Additional networks (@SkaleNetwork)\\n\\nx402 has grown a great deal since last year and our old SDK was a product of that time - a completely original implementation of the protocol with ground-breaking features like ERC20 support via Prism. We still use v0.7 to this day when starting any new project and it works brilliantly.\\n\\nHowever, with major forthcoming additions relating to our x402 privacy network, we've rationalised our SDK to ensure perfect alignment with the official (x402 Foundation) way of doing things, in detail, even if they aren't strictly always the cleanest in a standalone context. Widest compatibility is the important thing here; Primer is getting used right now, and it's going to get used a lot more, and we're making it as familiar and easy as possible for any user to plug in and go.\\n\\nv1 of the new Primer SDK:\\n📜 npm install @primersystems/x402\\n🐍 pip install primer-x402\\n\\nDocs:\\nhttps://t.co/8ZQPRsWrfc\\n\\nThis update involves breaking changes from v0.x; these versions are still documented (see \\\"Deprecated\\\" section) but no longer maintained.",
+          "url": "https://x.com/primer_systems/status/2069154331559903601",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "kleffew94",
+      "handle": "kleffew94",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2069106543082258460",
+          "text": "This is a great launch, led by @mattwong_ca, a cracked PM intern on the CDP team.  Check it out - and get Base attribution for x402 work today!",
+          "url": "https://x.com/kleffew94/status/2069106543082258460",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069137888756015580",
+          "text": "Building an x402 client?   Enable users to fund tool usage with Apple Pay. \\n\\nThis passes the \\\"can my mom use it\\\" test.\\n\\nMost people will never manage API keys, wallets, or prepaid SaaS credits. But they understand Apple Pay.\\n\\nWith x402 clients like @heysealai, anyone can give an agent a budget and let it discover, pay for, and chain paid services together at request time.",
+          "url": "https://x.com/kleffew94/status/2069137888756015580",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2069207695589359678",
+          "text": "@zeitgeist_labs FYI - this example would require an external tool call to access real time data (in addition to the GPU inference) https://t.co/vND6zU27qL",
+          "url": "https://x.com/kleffew94/status/2069207695589359678",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -226,27 +428,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068799729987674322",
-          "text": "A great write up by the heyaura team! Another huge payment integration from our end and even bigger aspirations!",
-          "url": "https://x.com/PayAINetwork/status/2068799729987674322",
+          "id": "2069143626614026643",
+          "text": "@IdleProtocol Great write up and an even better Idle concept to take advantage of your devices! No more lost, forgotten or obsolete machines! ������️������",
+          "url": "https://x.com/PayAINetwork/status/2069143626614026643",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068678107335217358",
-          "text": "9/ ������ Come build with PayAI\\n\\nWorking on agents, infra, or x402 tooling? We want to hear from you. Collaborations are open — reach out and let's build.������\\n\\nhttps://t.co/wJpRlGyvYF",
-          "url": "https://x.com/PayAINetwork/status/2068678107335217358",
+          "id": "2069032672018534906",
+          "text": "Your AI agent has a wallet. What's the FIRST thing you'd trust it to pay for autonomously?",
+          "url": "https://x.com/PayAINetwork/status/2069032672018534906",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068678106416595138",
-          "text": "8/ What's coming next\\n������ Merchant SDK updates\\n������ Blog &amp; SEO improvements\\n������ New content\\n������ Builder Banter",
-          "url": "https://x.com/PayAINetwork/status/2068678106416595138",
+          "id": "2069034351153611196",
+          "text": "@IslandsOnSol @x402 We love seeing posts like these! We appreciate the shout out, keep cookin.",
+          "url": "https://x.com/PayAINetwork/status/2069034351153611196",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -261,27 +463,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2068843935024267452",
-          "text": "Late to the party, but after a couple of 4+ hour road trips and a few weeks around town, the Tesla Y with FSD 14+ is incredible.\\n\\nSomeone said it recently: it’s like going from black and white to color TV.\\n\\nAnd when you drive a regular car again, even if it’s a “better” car, you still feel dumb having to drive yourself.",
-          "url": "https://x.com/dwr/status/2068843935024267452",
+          "id": "2069032997496451131",
+          "text": "@CoopGolfs The twin turbo in bumper to bumper commute traffic ������",
+          "url": "https://x.com/dwr/status/2069032997496451131",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068853028296306971",
-          "text": "@jordanbramble Couldn’t imagine a regular LA commute without it.",
-          "url": "https://x.com/dwr/status/2068853028296306971",
+          "id": "2069071602654818467",
+          "text": "Why isn't there an official cloud version of either Claude Code or Codex yet?",
+          "url": "https://x.com/dwr/status/2069071602654818467",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2068852848310288730",
-          "text": "@gak_pdx @net_pop Similar. F150 and Model Y. I like just pressing the button.",
-          "url": "https://x.com/dwr/status/2068852848310288730",
+          "id": "2069124903547146323",
+          "text": "@Appyg99 @BesteverAI @samba_tv congrats!",
+          "url": "https://x.com/dwr/status/2069124903547146323",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -291,7 +493,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 10,
-    "totalTweets": 23
+    "xBuilders": 15,
+    "totalTweets": 41
   }
 }
