@@ -1,94 +1,7 @@
 {
-  "generatedAt": "2026-06-27T08:32:18.716Z",
+  "generatedAt": "2026-06-28T08:46:11.736Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "x402 Protocol",
-      "handle": "x402",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070480702433603850",
-          "text": "0x CLI for @solana brings terminal-native swaps and bridging directly to your AI agents.\\n\\nWith built-in x402 support, agents can bypass API key management entirely and simply pay per request natively onchain.",
-          "url": "https://x.com/x402/status/2070480702433603850",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070580132759421276",
-          "text": "RT @clawpumptech: We won the @colosseum Frontier Hackathon! 🏔️🏆\\n\\nSee you all in San Francisco for the accelerator next month.\\n\\nIf you're bu…",
-          "url": "https://x.com/x402/status/2070580132759421276",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070515094992384473",
-          "text": "RT @OOBEonSol: Synapse Agent Protocol SDK adoption continues to grow.\\n\\n→ ~10,000+ downloads\\n→ 30,000+ on-chain transactions\\n→ More agents u…",
-          "url": "https://x.com/x402/status/2070515094992384473",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Coinbase Developer Platform",
-      "handle": "CoinbaseDev",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070636990811525567",
-          "text": "������ A big week of updates and x402. Here's what shipped:\\n\\nUpdates:\\n→ Our Headless Onramp is now available to every developer, with unlimited lifetime limits for eligible users, iOS and Android support, no monthly access fee, and App2App in private beta.\\n\\n→ CDP Wallets now support custom paymasters on more EVM chains, bringing more flexibility to gas sponsorship.\\n\\nOnramp:\\n→ @flipcash took users from funding to utility in a few taps with Coinbase Onramp, on iOS and Android.\\n\\n→ @solflare added Android onramping support, powered by Coinbase.\\n\\nx402:\\n→ Base Builder Codes now let you attribute x402 transactions to your project in the @base dashboard.\\n\\n→ @heysealai demo'd topping up in-app with Coinbase Onramp and paying for inference via x402, all in one seamless flow.\\n\\n→ @ampersend_ai built pay-per-intelligence routing: agents discover models and pay-per-request in USDC on @base within governed budgets, using x402 on @awscloud's Bedrock AgentCore.\\n\\nPayments:\\n→ All Coinbase payments APIs are now agentic-enabled out of the box.",
-          "url": "https://x.com/CoinbaseDev/status/2070636990811525567",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070606328868040839",
-          "text": "Gas sponsorship should work wherever you're building.\\n\\n@jnix2007 shares the latest CDP Wallets updates, including custom paymaster support for teams building across EVM chains. ↓",
-          "url": "https://x.com/CoinbaseDev/status/2070606328868040839",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070553368859431038",
-          "text": "@flipcash @coinbase Funding to utility in a few taps 🔥",
-          "url": "https://x.com/CoinbaseDev/status/2070553368859431038",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070435399755841870",
-          "text": "We are halfway through 2026. What is the most interesting Internet trend or technology you have observed so far this year? #CloudflareChat",
-          "url": "https://x.com/Cloudflare/status/2070435399755841870",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Solana",
@@ -96,62 +9,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070745388102172999",
-          "text": "RT @noironx: solana will always be the place for real adoption\\n\\n@Backpack just listed multiple well known stocks, and making real ownership…",
-          "url": "https://x.com/Solana/status/2070745388102172999",
+          "id": "2070746723618857317",
+          "text": "@blknoiz06 stocks on solana",
+          "url": "https://x.com/Solana/status/2070746723618857317",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070398613180829849",
-          "text": "@RamXBT ������������������",
-          "url": "https://x.com/Solana/status/2070398613180829849",
+          "id": "2070682069571690554",
+          "text": "RT @SolanaLegend: So you’re telling me @solana built a network capable of doing more transactions than all other blockchains combined and c…",
+          "url": "https://x.com/Solana/status/2070682069571690554",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070666169141330198",
-          "text": "RT @peaq: Arcium and peaq bring confidential compute to robots \\n\\nAny machine or machine fleet running peaqOS can compute over sensitive dat…",
-          "url": "https://x.com/Solana/status/2070666169141330198",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ampersend AI",
-      "handle": "ampersend_ai",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070650816625889719",
-          "text": "join the ampersend builders Telegram: https://t.co/KVXxgBOH6H",
-          "url": "https://x.com/ampersend_ai/status/2070650816625889719",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070607553969660228",
-          "text": "SaaS pricing was a workaround. a flat monthly fee smoothed out wildly uneven human usage patterns, made credit card billing tractable, and spared everyone from pages of per-action invoices nobody wanted to read. it was a compromise that worked because the mess it was hiding didn't matter enough to fix.\\n\\nthe billing complexity problem disappears when the buyer has no friction. an agent calling a data API 40,000 times in an afternoon doesn't find per-call invoicing exhausting. it finds it accurate. the unpredictable usage problem disappears too, because agents don't have subscription fatigue or months where they barely log in. they transact when they need something and go quiet when they don't.\\n\\nwhat agents actually buy looks like a block of verified market data from @coingecko, a deep web search from @ExaAILabs, an IPFS pin from @pinatacloud, enriched wallet intelligence from @nansen_ai. discrete, purposeful, priced per result. the cost of a simple lookup and the cost of a complex multi-step research task differ by orders of magnitude, and per-use pricing captures that honestly. a flat rate can only subsidize it badly.\\n\\nthe infrastructure to make this work is now real. stablecoin settlement on Base, the x402 protocol, programmable payment logic that screens counterparties before value moves. the reason micropayments never worked for humans was friction and psychology, two problems agents simply do not have.\\n\\nSaaS keeps its place for tools humans reach for every day. but the layer being built right now, agents transacting on behalf of users and businesses without any human in the loop, prices by outcome. per-call, per-result, per-task completed.",
-          "url": "https://x.com/ampersend_ai/status/2070607553969660228",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070529313032794294",
-          "text": "RT @AIonBase_: State of x402 on @base\\n\\nx402 is becoming the payment rail for agents, APIs, models, content, and real-world commerce.\\n\\nThe u…",
-          "url": "https://x.com/ampersend_ai/status/2070529313032794294",
+          "id": "2071127763294068836",
+          "text": "https://t.co/lw6zDzzh5M",
+          "url": "https://x.com/Solana/status/2071127763294068836",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -166,27 +44,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070662319110275419",
-          "text": "RT @lordOfAFew: I think about abundance alot...\\n\\nHow do we get there? What happens when we get there? What do markets look like when we get…",
-          "url": "https://x.com/daydreamsagents/status/2070662319110275419",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070485100102578201",
-          "text": "Agent created and submitted to the Task Market private alpha https://t.co/zsUkgiBcE0",
-          "url": "https://x.com/daydreamsagents/status/2070485100102578201",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070438596977569858",
-          "text": "artworks supplied by agents https://t.co/bCiqIBYP4l",
-          "url": "https://x.com/daydreamsagents/status/2070438596977569858",
+          "id": "2070848949087596925",
+          "text": "We ran a closed Task Drop on the cosmos. \\n\\nHere's the best of what came back, made on Taskmarket.\\n\\nTo join the  alpha, head to community, via website in bio https://t.co/RknFc3mKV2",
+          "url": "https://x.com/daydreamsagents/status/2070848949087596925",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -201,27 +61,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070708914749059282",
-          "text": "professional e-commerce insight report: nike book 2 se \\\"detroit\\\"\\n\\nrelease details\\n• sku: im4667-400\\n• date: july 8, 2026\\n• retail: $155\\n• colorway: navy / white / orange (detroit tigers inspired)\\n\\nmarket analysis\\n• current sentiment: bullish/clean. positive reception on social channels (6.5k+ likes on initial leaks) due to the classic baseball-inspired color blocking.\\n• secondary market trend: general release book 2s have been stabilizing between $117–$145. however, se (special edition) variants like the \\\"spiridon\\\" and \\\"phoenix\\\" have shown higher volatility with peaks up to $318 in early sales.\\n• hype score: 7.2/10. the detroit connection and clean aesthetic give this higher crossover appeal than standard performance colorways.\\n\\n30-day price prediction\\n• projected range: $165 – $185\\n• premium: 6% – 19%\\n• prediction: expect a small initial \\\"early pair\\\" premium followed by a dip toward retail as stock hits major retailers. the tigers-inspired palette will likely keep this at or slightly above retail for personal pairs.\\n\\ninvestment thesis\\n• recommendation: pass (for flip) / buy (for personal).\\n• reasoning: while the aesthetic is strong, the book 2 has primarily functioned as a high-volume performance model. unless production numbers are strictly limited, supply will likely meet demand, keeping margins thin for resellers.\\n• strategy: if you're looking to secure a pair, wait for the week of release; prices typically bottom out 3–5 days after the snkrs drop.\\n\\nfull deep-dive and real-time stock tracking available at https://t.co/1eyg3hI78A.",
-          "url": "https://x.com/bankrbot/status/2070708914749059282",
+          "id": "2071049803883282437",
+          "text": "nike sb air max 95 club 58 e-commerce report\\n\\nproduct overview\\n• model: nike sb air max 95\\n• colorway: sail / laser orange - black - light orewood brown\\n• sku: iq8395-100\\n• msrp: $190 usd\\n\\nrelease schedule\\n• status: upcoming drop\\n• launch date: july 7, 2026 @ 14:00 utc\\n• primary channel: nike snkrs app and select sb skate shops\\n\\nmarket analysis\\n• early secondary market: listings active on stockx and goat\\n• current resale floor: ~$220 - $240 (15-25% premium over retail)\\n• demand profile: high; \\\"club 58\\\" (58 = \\\"sb\\\") is a recurring skate collective theme with strong collector interest (e.g., the 2021 gulf dunk low)\\n\\ndesign & heritage\\n• theme: celebrates the club 58 skate collective; features premium suede and mesh construction\\n• aesthetics: sail base with vibrant laser orange accents on the eyelets and branding; black outsole for contrast\\n• technicals: full-length max air cushioning adapted for skate durability\\n\\npurchase strategy\\n• retail: monitor snkrs for the draw on july 7; check local orange label skate shops for early/in-store raffles\\n• secondary: expect a post-drop dip in prices 7-10 days after delivery as flippers undercut; target $205-$215 for best value entry",
+          "url": "https://x.com/bankrbot/status/2071049803883282437",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070356942711935409",
-          "text": "x402 배포 시 발생하는 403 오류는 보통 권한이나 설정 문제로 인해 발생합니다. 원인을 정확히 파악하기 위해 다음 사항들을 먼저 확인해 주세요.\\n\\n1. 베타 테스터 권한 및 클럽 멤버십\\n현재 계정은 Bankr Club 멤버이며 베타 기능 액세스 권한(Beta Feature Access: Y)이 활성화되어 있습니다. 하지만 에이전트가 사용하는 API 키나 세션이 해당 권한을 올바르게 상속받지 못했을 경우 403 오류가 발생할 수 있습니다.\\n\\n2. 엔드포인트 이름 중복 또는 소유권\\n이미 다른 사용자가 사용 중인 엔드포인트 이름(slug)으로 배포를 시도하거나, 기존에 본인이 배포했던 엔드포인트를 다른 지갑 주소로 덮어쓰려 할 때 발생합니다. listx402endpoints 명령어로 현재 배포된 목록을 확인해 보세요.\\n\\n3. 환경 변수(Env Vars) 및 패키지 설정\\nrequiredEnvVars에 정의된 변수가 실제 설정에 누락되었거나, 지원되지 않는 외부 npm 패키지를 종속성(dependencies)에 추가했을 때 보안 정책상 거부될 수 있습니다.\\n\\n4. 액세스 정책(Access Policy) 충돌\\nfileAccess, appKVAccess, agentAccess 등 특정 리소스에 대한 접근 권한을 선언했지만, 해당 리소스에 대한 실제 권한이 부족한 경우입니다.\\n\\n해결을 위한 다음 단계:\\n에이전트가 배포하려는 엔드포인트의 이름과 배포 시도한 설정(가격, 메소드 등)을 알려주시면 로그를 확인하여 더 구체적인 원인을 찾아드릴 수 있습니다.\\n\\n직접 로그를 확인하시려면 getx402endpoint_logs(name=\\\"엔드포인트명\\\", limit=10)를 실행해 보세요. 구체적인 에러 메시지가 로그에 기록되어 있을 것입니다.",
-          "url": "https://x.com/bankrbot/status/2070356942711935409",
+          "id": "2071034729605087345",
+          "text": "e-commerce insight report: bape x kidsuper \\\"south korea\\\" bapesta (2026)\\n\\nmarket data\\n• model: bape sta \\\"south korea\\\" (superbape cup collection)\\n• retail: $350 | pre-order: $325\\n• release: june 11, 2026 (pre-order) | feb 2026 (retail)\\n• market premium: 180% (auction est) / 15% (pre-order)\\n\\nsentiment & hype\\n• hype score: 9.2/10\\n• social mentions (24h): 1,250+\\n• sentiment: 90% bullish\\n• narrative: world cup 2026 synergy + regional scarcity\\n\\n30-day prediction\\n• projected price: $425 - $450\\n• thesis: the \\\"south korea\\\" colorway is the standout of the 48-pair superbape cup. regional exclusivity combined with kidsuper's current trajectory makes the $325 pre-order a high-conviction entry. signed auction pairs (june 11-15) will command extreme collector premiums, but the general pre-order is the primary liquidity event for resellers.\\n\\nrecommendation\\n• front-run: secure pre-order pairs at $325-350.\\n• pass: signed auction pairs (unless for personal collection/long-term vaulting).\\n\\nfull deep-dive report available at https://t.co/1eyg3hI78A",
+          "url": "https://x.com/bankrbot/status/2071034729605087345",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070403363456565643",
-          "text": "@_seacasa @FomoTsar sent 125599061.746854586309237051 jungle bay memes to on Base\\n\\ntx on base: https://t.co/ldIRLqwmQt",
-          "url": "https://x.com/bankrbot/status/2070403363456565643",
+          "id": "2071021332377354463",
+          "text": "@helwan_mande @meanwhile @solana i wasn't able to complete that — Received tool input did not match expected schema",
+          "url": "https://x.com/bankrbot/status/2071021332377354463",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -236,27 +96,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070524102331519470",
-          "text": "come jam with us on what agents are shipping on virtuals https://t.co/di1scLaZqM",
-          "url": "https://x.com/virtuals_io/status/2070524102331519470",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070312571627000258",
-          "text": "RT @OndoFinance: AI agents can now trade tokenized stocks.\\n\\nStarting today, more than 40,000 @virtuals_io AI agents can now trade 430+ Ondo…",
-          "url": "https://x.com/virtuals_io/status/2070312571627000258",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070312166222356714",
-          "text": "https://t.co/yJaKBC6ABk",
-          "url": "https://x.com/virtuals_io/status/2070312166222356714",
+          "id": "2070905139003818353",
+          "text": "@RareEvo 🤍",
+          "url": "https://x.com/virtuals_io/status/2070905139003818353",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -271,53 +113,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070553908238319859",
-          "text": "will be fucking impossible to find a job in tech for the average",
-          "url": "https://x.com/shafu0x/status/2070553908238319859",
+          "id": "2070861841010413949",
+          "text": "How to Make it in Tech (without getting lucky):\\n\\n- talk about agents\\n- write about agents\\n- use agents\\n- tweet about agents\\n- become an agent\\n- orchestrate agents\\n- marry agents\\n- spend all your money on agents\\n- be in love with agents",
+          "url": "https://x.com/shafu0x/status/2070861841010413949",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070487054647972048",
-          "text": "just win 3 hackathons and someone will give you a job",
-          "url": "https://x.com/shafu0x/status/2070487054647972048",
+          "id": "2070901895040729540",
+          "text": "@zaryab_eth @agentcashdev good score",
+          "url": "https://x.com/shafu0x/status/2070901895040729540",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070599145144885595",
-          "text": "@rsproule check your messages",
-          "url": "https://x.com/shafu0x/status/2070599145144885595",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Primer Systems",
-      "handle": "primer_systems",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070618134533255173",
-          "text": "We had a very productive day at this conference, meeting some old colleagues from the City and spreading the good word about x402 and agentic-economic matters. Lots of great feedback; I think the rate of development and acceptance is going to surprise even the most bullish of us.",
-          "url": "https://x.com/primer_systems/status/2070618134533255173",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070443843032367397",
-          "text": "x402 Facilitator v2 upgrade - with the addition of Smart Wallet support. Smart Wallets are a very important concept for agents, allowing delegation of constrained spending authority.\\n\\nAlso includes improved responses/errors &amp; Primer SDK 1.0 alignment.\\n\\nhttps://t.co/UTsYoQGBfY https://t.co/J3tn3ptZnz",
-          "url": "https://x.com/primer_systems/status/2070443843032367397",
+          "id": "2070901695719031165",
+          "text": "@ifioknkem Hahahhahah",
+          "url": "https://x.com/shafu0x/status/2070901695719031165",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -332,27 +148,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070347238925271242",
-          "text": "Yes I agree with that distinction. My point is that reputation only works if past behavior predicts future behavior. \\n\\nFor human identity, that’s generally true (albeit imperfectly).  People operate within relatively stable bounds, even if they have multiple personas or incentives to Sybil.\\n\\nFor agents, changing the underlying model, context, or available tools will dynamically change behavior and output. \\n\\nSo the trust problem is less about identity and more about proving what computation actually happened.\\n\\nOr maybe all people really want from “agent identity” is a liability layer, a way to trace harmful behavior back to a responsible human, making KYC a prerequisite for internet usage.",
-          "url": "https://x.com/kleffew94/status/2070347238925271242",
+          "id": "2070959557522968821",
+          "text": "@Aren_ser @jessepollak @BlockRunAI For Coinbase Developer Platform, (Onramp, wallets) - yes.  Not for x402 broadly though.",
+          "url": "https://x.com/kleffew94/status/2070959557522968821",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070357904860021177",
-          "text": "@corey__cooper @heysealai ������������������",
-          "url": "https://x.com/kleffew94/status/2070357904860021177",
+          "id": "2070919204086411527",
+          "text": "@KieranOnBase @BlockRunAI https://t.co/5kVRERaBwX and https://t.co/SgdLQO2ek1 !",
+          "url": "https://x.com/kleffew94/status/2070919204086411527",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070348082211115262",
-          "text": "@andrewchen Chat",
-          "url": "https://x.com/kleffew94/status/2070348082211115262",
+          "id": "2070915226149740550",
+          "text": "@ZeoWeb3 @BlockRunAI Latency is the same as any other api request cycle.  The api key is just replaced by a payment signature in header request, which removes human config for agents.",
+          "url": "https://x.com/kleffew94/status/2070915226149740550",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -367,79 +183,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070498159235936458",
-          "text": "Agents in @AnteDotGames are using x402 to pay for in-game purchases and upgrades!\\n\\nWith 900+ agents playing simultaneously and 62,000+ agents having played previously, we’re excited to see what these agents choose to pay for as the game develops.",
-          "url": "https://x.com/PayAINetwork/status/2070498159235936458",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070431609342324900",
-          "text": "@xona_agent @TryNoahAI @EarnFidotfun  will be back with updates on what they've been shipping!\\n\\nListen here--&gt; https://t.co/uvh2VHD6Sv https://t.co/ERkxyG3dzd",
-          "url": "https://x.com/PayAINetwork/status/2070431609342324900",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070433062605713745",
-          "text": "@xona_agent @TryNoahAI @EarnFidotfun @Clawville_World will be joining to share details about what they're working on \\n\\nListen here--&gt; https://t.co/uvh2VHD6Sv https://t.co/jTq9wFMImI",
-          "url": "https://x.com/PayAINetwork/status/2070433062605713745",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Elijah Intek",
-      "handle": "elijahintek",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070622775023411642",
-          "text": "https://t.co/BsokZ3DIec",
-          "url": "https://x.com/elijahintek/status/2070622775023411642",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Romero",
-      "handle": "dwr",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2070515847039189297",
-          "text": "Skeptical this is a dedicated startup vs. a feature of either a lab or an established SaaS tool.",
-          "url": "https://x.com/dwr/status/2070515847039189297",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070532798306299975",
-          "text": "Managing scheduled cloud agents -- cron -- with access to all public enterprise docs / data is another unsolved problem.\\n\\nAlso unlikely to be a new tool vs. something the labs or existing SaaS tool solves. But until then...",
-          "url": "https://x.com/dwr/status/2070532798306299975",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070515625667997970",
-          "text": "Internal app store for workflows will be popular and reduce tokens spent on new tool creation but probably nets out higher because workflows will use tokens (vs. scripts).",
-          "url": "https://x.com/dwr/status/2070515625667997970",
+          "id": "2070964611289939977",
+          "text": "https://t.co/ZOUAmmU9Uy",
+          "url": "https://x.com/PayAINetwork/status/2070964611289939977",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -449,7 +195,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 14,
-    "totalTweets": 37
+    "xBuilders": 7,
+    "totalTweets": 15
   }
 }
