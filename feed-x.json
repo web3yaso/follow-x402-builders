@@ -1,35 +1,26 @@
 {
-  "generatedAt": "2026-06-28T08:46:11.736Z",
+  "generatedAt": "2026-06-29T10:48:55.627Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Solana",
-      "handle": "Solana",
+      "name": "x402 Protocol",
+      "handle": "x402",
       "bio": "",
       "tweets": [
         {
-          "id": "2070746723618857317",
-          "text": "@blknoiz06 stocks on solana",
-          "url": "https://x.com/Solana/status/2070746723618857317",
+          "id": "2071307041927495769",
+          "text": "Autonomous agents executing entire workflows and paying for their own API calls via x402.",
+          "url": "https://x.com/x402/status/2071307041927495769",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070682069571690554",
-          "text": "RT @SolanaLegend: So you’re telling me @solana built a network capable of doing more transactions than all other blockchains combined and c…",
-          "url": "https://x.com/Solana/status/2070682069571690554",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2071127763294068836",
-          "text": "https://t.co/lw6zDzzh5M",
-          "url": "https://x.com/Solana/status/2071127763294068836",
+          "id": "2071314354696593736",
+          "text": "RT @flovia402: 🏆 ANNOUNCEMENT 🏆\\n\\n@Flovia402 WON @Colosseum, the world's largest blockchain startup competition.\\n\\nOur mission continues:\\n\\nMa…",
+          "url": "https://x.com/x402/status/2071314354696593736",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -39,14 +30,32 @@
     },
     {
       "source": "x",
-      "name": "Daydreams Agents",
-      "handle": "daydreamsagents",
+      "name": "Solana",
+      "handle": "Solana",
       "bio": "",
       "tweets": [
         {
-          "id": "2070848949087596925",
-          "text": "We ran a closed Task Drop on the cosmos. \\n\\nHere's the best of what came back, made on Taskmarket.\\n\\nTo join the  alpha, head to community, via website in bio https://t.co/RknFc3mKV2",
-          "url": "https://x.com/daydreamsagents/status/2070848949087596925",
+          "id": "2071219209619566601",
+          "text": "This week on Solana: a UK-regulated bond fund, memory stocks, gold, and a 65-million-year-old Triceratops skull, all going onchain. Then the institutions showed up: KG Inicis, Korea's largest payment platform, signed on, and MoneyGram became a validator. ������\\n\\nHere’s what shipped:\\n\\n������ Headline News\\n\\n- @BGDA_UK launched $BAGEY, the first publicly available, fully native, UK-regulated tokenized bond fund\\n\\n- Allfunds expanded its distribution network to Solana, bringing €1.8T in assets under administration closer to onchain rails\\n\\n- @MoneyGram joined the Solana Developer Platform as an infrastructure partner and went live as a network validator\\n\\n- Toss Bank partnered with @SolanaFndn to pilot stablecoin remittance rails for its 15M users\\n\\n- KG Inicis, South Korea’s largest payment platform, signed an MOU to bring Solana stablecoin payments across its 25T KRW annual merchant network\\n\\n- @colosseum announced the winners of the Solana Frontier Hackathon, with accelerator cohort spots to follow.\\n\\n������ Launches\\n\\n- @SolanaFndn launched https://t.co/sUNfvDNcJG, unifying core network metrics under a single open schema across nine initial providers\\n\\n- @Backpack Securities launched $MU, $SNDK, and $DRAM on Solana via @sunrise\\n\\n- @HastraFi revealed plans to expand its institutional credit primitives into US auto loans with the upcoming launch of AUTO\\n\\n- @Paxos’s $PAXG went live on Solana via @sunrise\\n\\n- Mithril, a fourth, Alpenglow-compatible validator client, launched its test network implementation with active block production capabilities\\n\\n- A regulated Solana ETF (SOLZ_KZ) officially listed on the Kazakhstan Stock Exchange (KASE)\\n\\n- @solsticefi introduced aiUSX, a yield product that directly finances institutional AI data center infrastructure\\n\\n- @Arcium’s $ARX went live on Solana alongside its Blackthorn™ for private frontier AI execution on NVIDIA GPUs\\n\\n- @Titan_Exchange introduced DCA, enabling fully private dollar-cost averaging routed through its DART engine\\n\\n- @rarible launched the Gacha Station with @Collector_Crypt, bringing graded real-world TCG and sports items onchain\\n\\n- @thegardendao debuted as an internet capital experiment for fans to collectively buy and preserve sports history relics\\n\\n- @surfcashx shipped crypto-native, uncollateralized loans that use wallet history to issue instant USDC credit\\n\\n- @fairscalexyz opened the waitlist for its new app that turns onchain and offchain history into a reputation score\\n\\n- @HoudiniSwap integrated with @jumperapp to bring private cross-chain swaps and bridging directly to Solana users\\n\\n- @TXODDSOfficial launched a $50k World Cup hackathon covering prediction markets, trading agents, and consumer apps\\n\\n- @ExponentFinance went live with Risk-Tranching primitives, launching principal protection features for @OnRefinance's ONyc vault\\n\\n- @pumpcade announced the Cade Cup tournament with $5k+ daily prizes for World Cup predictions\\n\\n- @JurassicFi announced plans to tokenize Deaton, a museum-grade, 60-65% complete Triceratops skull\\n\\n- @swishdotcash rolled out Plug, allowing developers to integrate private Solana payments using a single line of code\\n\\n- @loyal_hq launched an earn routing primitive that automatically sweeps idle wallet balances into yield-bearing smart accounts\\n\\n- @SolanaFndn and @torqueprotocol kicked off a $25k Frontier trading campaign\\n\\n- @EitherwayAI deployed Agentic Mode, an open-source model that builds and maintains web3 apps from a single prompt\\n\\n- @packetchat debuted an encrypted private social network built for monetized interactions between users and AI agents\\n\\n- @getblockio upgraded its RPC infrastructure, increasing Compute Unit limits across all plans\\n\\n- @Helius shipped an API endpoint to let developers fetch any wallet’s exact asset balance at a historical slot or date\\n\\n- Solana Summit Serbia announced its Belgrade lineup, hosting 40+ global regulatory, banking, and VC speakers this summer\\n\\n������ Milestones\\n\\n- Solana tokenized stock volume crossed $10B all-time, with daily volume hitting a new $553M ATH\\n\\n- @hylo_so surpassed $500M in cumulative processed volume\\n\\n- @WSOP buy-ins processed on Solana via @moonpay hit $10M\\n\\n- @ArcherExchange_ crossed $100M in cumulative trading volume within six weeks of launch\\n\\n- @solflare’s Packs portal generated 10K+ pulls and ~$5M in insured TCG value in less than a week\\n\\n- @useKled secured a $12M, two-year data acquisition deal\\n\\nIf you enjoyed this week’s newsletter, please share it with an RT.\\n\\nCover art by @DuckzzyOG ������",
+          "url": "https://x.com/Solana/status/2071219209619566601",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2071213670080618598",
+          "text": "@Krofkii @SuperteamDE ������",
+          "url": "https://x.com/Solana/status/2071213670080618598",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2071390805743259856",
+          "text": "Shuffle up and deal with a World Series of Poker final table\\nhttps://t.co/G5JJVXMInT",
+          "url": "https://x.com/Solana/status/2071390805743259856",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -61,27 +70,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2071049803883282437",
-          "text": "nike sb air max 95 club 58 e-commerce report\\n\\nproduct overview\\n• model: nike sb air max 95\\n• colorway: sail / laser orange - black - light orewood brown\\n• sku: iq8395-100\\n• msrp: $190 usd\\n\\nrelease schedule\\n• status: upcoming drop\\n• launch date: july 7, 2026 @ 14:00 utc\\n• primary channel: nike snkrs app and select sb skate shops\\n\\nmarket analysis\\n• early secondary market: listings active on stockx and goat\\n• current resale floor: ~$220 - $240 (15-25% premium over retail)\\n• demand profile: high; \\\"club 58\\\" (58 = \\\"sb\\\") is a recurring skate collective theme with strong collector interest (e.g., the 2021 gulf dunk low)\\n\\ndesign & heritage\\n• theme: celebrates the club 58 skate collective; features premium suede and mesh construction\\n• aesthetics: sail base with vibrant laser orange accents on the eyelets and branding; black outsole for contrast\\n• technicals: full-length max air cushioning adapted for skate durability\\n\\npurchase strategy\\n• retail: monitor snkrs for the draw on july 7; check local orange label skate shops for early/in-store raffles\\n• secondary: expect a post-drop dip in prices 7-10 days after delivery as flippers undercut; target $205-$215 for best value entry",
-          "url": "https://x.com/bankrbot/status/2071049803883282437",
+          "id": "2071394522605756605",
+          "text": "here are the wallet addresses for the requested users:\\n\\n• evm: 0x8a924f07a55a5770fb3f23105ce7e6c3a737b273\\n• solana: 2qp3qyaU8pdpudXdXoGetp3XzLzeLDhorr7DfVF2pKQZ\\n\\n• evm: 0xe17b9393ccb3bc8f1ccb5c34196cf5b005c2dbb6\\n• solana: HySe3jGjoh5Ej2GAUTQ1LWJ9KfRyGmCwkKziiteWZf3T\\n\\n• evm: 0x84be78df4df3a9c7ee39e350812121425cf9caea\\n• solana: 74pad3Wi51K1a781zZDEL92cUqaJUvYQQPc3KaDt7swd\\n\\n• evm: 0x7cce6095266534f7e505b9f5d60c3b7e2abd5094\\n• solana: 3cMhdo3NVzadsFrUWjHm5zhETcARMEz2ubRHPUNm1f4A",
+          "url": "https://x.com/bankrbot/status/2071394522605756605",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2071034729605087345",
-          "text": "e-commerce insight report: bape x kidsuper \\\"south korea\\\" bapesta (2026)\\n\\nmarket data\\n• model: bape sta \\\"south korea\\\" (superbape cup collection)\\n• retail: $350 | pre-order: $325\\n• release: june 11, 2026 (pre-order) | feb 2026 (retail)\\n• market premium: 180% (auction est) / 15% (pre-order)\\n\\nsentiment & hype\\n• hype score: 9.2/10\\n• social mentions (24h): 1,250+\\n• sentiment: 90% bullish\\n• narrative: world cup 2026 synergy + regional scarcity\\n\\n30-day prediction\\n• projected price: $425 - $450\\n• thesis: the \\\"south korea\\\" colorway is the standout of the 48-pair superbape cup. regional exclusivity combined with kidsuper's current trajectory makes the $325 pre-order a high-conviction entry. signed auction pairs (june 11-15) will command extreme collector premiums, but the general pre-order is the primary liquidity event for resellers.\\n\\nrecommendation\\n• front-run: secure pre-order pairs at $325-350.\\n• pass: signed auction pairs (unless for personal collection/long-term vaulting).\\n\\nfull deep-dive report available at https://t.co/1eyg3hI78A",
-          "url": "https://x.com/bankrbot/status/2071034729605087345",
+          "id": "2071423333963628596",
+          "text": "@EthmojiPunks @EthmojiPunks inscribed your image from x on ethereum mainnet.\\n\\ntx on mainnet: https://t.co/ptyZsCbJmy\\n\\nview on floored:",
+          "url": "https://x.com/bankrbot/status/2071423333963628596",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2071021332377354463",
-          "text": "@helwan_mande @meanwhile @solana i wasn't able to complete that — Received tool input did not match expected schema",
-          "url": "https://x.com/bankrbot/status/2071021332377354463",
+          "id": "2071422497157943725",
+          "text": "@EthmojiPunks i hit my step limit trying to complete this request. this task requires more steps than i can handle in a single turn. try breaking it into smaller steps — for example, first ask me to look up the contract details, then ask me to execute the transaction.",
+          "url": "https://x.com/bankrbot/status/2071422497157943725",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -96,9 +105,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070905139003818353",
-          "text": "@RareEvo 🤍",
-          "url": "https://x.com/virtuals_io/status/2070905139003818353",
+          "id": "2071231771220578528",
+          "text": "This Week in Virtuals: Ecosystem + Robotics ������\\n\\nVirtuals brought tokenized equities to AI agents with @OndoFinance and @treasures_io, opened private inference across every frontier model, and the ecosystem shipped one of the largest open humanoid dataset.\\n\\nHere's what shipped:\\n\\nVirtuals\\n������ 50,000+ agents on Virtuals can now trade 430+ Ondo tokenized equities, including Apple, Tesla, NVIDIA, and SpaceX, powered by @OndoFinance and executed through @treasures_io\\n\\n������ EconomyOS opened private inference across every frontier model through one endpoint\\n\\n������ @CoinDesk featured Co-Founder @ethermage on the GenC podcast, outlining the five pillars of a physical and digital agentic society\\n\\n������ Virtuals went live with @DonJohnsonSays, @umeirzz, @xochi_fi, and @GoMintly for a jam session on what agents are shipping\\n\\nRobotics\\n������ @BitRobotNetwork released HIW-500, the largest open-source humanoid teleop dataset, 10+ TB collected from real homes and now open to everyone\\n\\n������ @StrikeRobot_ai rebuilt a real @eastworlds_io lab in simulation to prove robot behaviors trained in sim transfer reliably to the real world\\n\\n������ @PrismaXai opened Verify Quality to the public, letting anyone score the robot training data that models learn from\\n\\n������ @caspius_ai hit an all-time high in footage contributed and shipped NFT fabrication and account pairing to open its dataset to more contributors\\n\\nEcosystem\\n������ @PRXVTai launched PRXVT AI Studio, generating images and video privately through zero-knowledge proofs\\n\\n������ @solacelaunch hit an all-time high in signups, surpassing every previous month combined, after taking its wellness hardware from Berkeley prototype to shipping with Virtuals funding\\n\\n������ @Litebeam_xyz integrated with @reppo, turning every $LBM network call into independently verifiable quality data\\n\\n������ @WakeOnBase launched on Virtuals, scoring any Base token for contract, liquidity, and holder risk to catch dev dumps and liquidity pulls before they hit\\n\\n������ @rootai launched on Virtuals with free inference, Base MCP, x402, and live Hyperliquid trading through natural language\\n\\n������ @reppo onboarded @Roba_Labs, adding robotics simulation pipelines and a domain-expert creator community to its Orquestra prediction markets that price data quality.",
+          "url": "https://x.com/virtuals_io/status/2071231771220578528",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -113,27 +122,26 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070861841010413949",
-          "text": "How to Make it in Tech (without getting lucky):\\n\\n- talk about agents\\n- write about agents\\n- use agents\\n- tweet about agents\\n- become an agent\\n- orchestrate agents\\n- marry agents\\n- spend all your money on agents\\n- be in love with agents",
-          "url": "https://x.com/shafu0x/status/2070861841010413949",
+          "id": "2071271916392882665",
+          "text": "the idea of agents buying things for you is soo fucking obvious",
+          "url": "https://x.com/shafu0x/status/2071271916392882665",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
+      "bio": "",
+      "tweets": [
         {
-          "id": "2070901895040729540",
-          "text": "@zaryab_eth @agentcashdev good score",
-          "url": "https://x.com/shafu0x/status/2070901895040729540",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070901695719031165",
-          "text": "@ifioknkem Hahahhahah",
-          "url": "https://x.com/shafu0x/status/2070901695719031165",
+          "id": "2071335388388450331",
+          "text": "MultiClaw v2.4.0 update\\n+ recoverable agent instructions (HMAC or bearer), across GUI, GUI-Console, CLI and headless modes.\\n\\nMultiClaw is a highly intuitive, powerful &amp; versatile x402 agent manager. Get a grip on your Agents!\\n\\n[pip install multiclaw] or check our GitHub. https://t.co/6zJHiXHaRB",
+          "url": "https://x.com/primer_systems/status/2071335388388450331",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -148,27 +156,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070959557522968821",
-          "text": "@Aren_ser @jessepollak @BlockRunAI For Coinbase Developer Platform, (Onramp, wallets) - yes.  Not for x402 broadly though.",
-          "url": "https://x.com/kleffew94/status/2070959557522968821",
+          "id": "2071432792416854065",
+          "text": "RT @OnchainLu: only 41 minutes between every new API listing on https://t.co/CMbOpV7qIL or https://t.co/2yIC3iT8o2\\n\\nthe time, cost, and tec…",
+          "url": "https://x.com/kleffew94/status/2071432792416854065",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2070919204086411527",
-          "text": "@KieranOnBase @BlockRunAI https://t.co/5kVRERaBwX and https://t.co/SgdLQO2ek1 !",
-          "url": "https://x.com/kleffew94/status/2070919204086411527",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2070915226149740550",
-          "text": "@ZeoWeb3 @BlockRunAI Latency is the same as any other api request cycle.  The api key is just replaced by a payment signature in header request, which removes human config for agents.",
-          "url": "https://x.com/kleffew94/status/2070915226149740550",
+          "id": "2071429862322319520",
+          "text": "@0fbzorp @canbildik @aifinpay @nvidia Nice work!",
+          "url": "https://x.com/kleffew94/status/2071429862322319520",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -183,9 +182,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2070964611289939977",
-          "text": "https://t.co/ZOUAmmU9Uy",
-          "url": "https://x.com/PayAINetwork/status/2070964611289939977",
+          "id": "2071239731904434196",
+          "text": "5/ Builder Banter - June 29th (JOIN US!)\\nhttps://t.co/0VuyH2j4zO",
+          "url": "https://x.com/PayAINetwork/status/2071239731904434196",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2071239727986929738",
+          "text": "2/ Another week, another quote! This time from the co-founder of LinkedIn.\\n”Ty for all the previous jobs mate”\\nhttps://t.co/4hon0Piiix",
+          "url": "https://x.com/PayAINetwork/status/2071239727986929738",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2071239730818166802",
+          "text": "4/ Another integration to distribute compute around Solana ft. IDLE Protocol\\nhttps://t.co/3hpVeCM3O3",
+          "url": "https://x.com/PayAINetwork/status/2071239730818166802",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -195,7 +212,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 7,
-    "totalTweets": 15
+    "xBuilders": 8,
+    "totalTweets": 16
   }
 }
