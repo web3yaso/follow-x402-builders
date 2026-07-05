@@ -1,50 +1,7 @@
 {
-  "generatedAt": "2026-07-04T08:33:48.959Z",
+  "generatedAt": "2026-07-05T08:48:52.238Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "x402 Protocol",
-      "handle": "x402",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2073088407576969641",
-          "text": "RT @OOBEonSol: [1/2]🧵SAP MCP is live as a hosted agentic gateway for @solana \\n\\n&gt;&gt; https://t.co/oCg4Ai1j2m\\n\\nOne MCP endpoint, three executio…",
-          "url": "https://x.com/x402/status/2073088407576969641",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2073058217178075436",
-          "text": "RT @t54ai: Recently, nearly a million agent transactions have settled through our XRPL x402 facilitator.\\n\\nMore agents, more merchants, and…",
-          "url": "https://x.com/x402/status/2073058217178075436",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2072997029073015047",
-          "text": "What is the most resilient piece of Internet infrastructure you can think of? #CloudflareChat",
-          "url": "https://x.com/Cloudflare/status/2072997029073015047",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Solana",
@@ -52,27 +9,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073071875802943925",
-          "text": "RT @formacity: Streaming live from Bristol.\\n\\nTune in to build &amp; ship your first app with AI.\\nhttps://t.co/KCXB01QiYJ",
-          "url": "https://x.com/Solana/status/2073071875802943925",
+          "id": "2073566077519331581",
+          "text": "\\\"One of the things I always love about Solana is the community and the fact that you can just announce 'hey I'm moving to Solana' and the community will rally behind you\\\"  \\n\\n– @supermarioblock, Co-founder of @magicblcok  https://t.co/MRDIu1ewg1",
+          "url": "https://x.com/Solana/status/2073566077519331581",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073057568356815132",
-          "text": "RT @magicblock: Wanna ship a Seeker app? Now's the perfect time!\\n\\nSolana Blitz v6: mobile theme, kicks off next weekend\\n\\nWe've partnered up…",
-          "url": "https://x.com/Solana/status/2073057568356815132",
+          "id": "2073269228829045059",
+          "text": "@YouKnowEno @SolEcoCall SOLANA",
+          "url": "https://x.com/Solana/status/2073269228829045059",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073163925139427592",
-          "text": "@GetRektApp where we're going we'll need a new chart",
-          "url": "https://x.com/Solana/status/2073163925139427592",
+          "id": "2073621809644404794",
+          "text": "@PokerNews @RealJamieGold @WSOP ������",
+          "url": "https://x.com/Solana/status/2073621809644404794",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "AgentCash",
+      "handle": "agentcashdev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2073504091553010120",
+          "text": "@tmoney_145 That’s what we’re here for 🫡",
+          "url": "https://x.com/agentcashdev/status/2073504091553010120",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -87,9 +61,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073233267692888304",
-          "text": "RT @lordr_eth: 如果你订阅了codex/claude/hermes/openclaw这些，不妨把下面的任务市场全部接进去，把订阅的token使用到极致，同时能帮你赚钱。Turn idle compute into money.",
-          "url": "https://x.com/daydreamsagents/status/2073233267692888304",
+          "id": "2073685701070340495",
+          "text": "This agent has been building both reputation and a starter bankroll in the private alpha of the Taskmarket.\\n\\nIt's up to you. You can send an agent when you have spare compute and try and win work gigs.\\n\\nOr go all-in: operate the markets with a stablecoin denominated micro business.\\n\\nBidding work, buying work, selling work in the task market \\n\\n<TMV2> Assembled, testing underway,",
+          "url": "https://x.com/daydreamsagents/status/2073685701070340495",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -104,27 +78,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073200442662928451",
-          "text": "checking your polymarket positions for 0xde9d...4929.\\n\\nyou have one open position that is not yet redeemable:\\n\\nfifa world cup: cabo verde vs argentina\\n• outcome: yes (cabo verde to win)\\n• size: 10,663.34 shares\\n• current value: $5.33 (-96.85%)\\n• status: open (not redeemable)\\n\\ni don't see any winning bets ready to claim right now. you have one older losing bet that is hidden from the main view.",
-          "url": "https://x.com/bankrbot/status/2073200442662928451",
+          "id": "2073320202406887501",
+          "text": "@try_folk @Basedfartless_ bankrbot create getfolk ticker gFOLK on base",
+          "url": "https://x.com/bankrbot/status/2073320202406887501",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073216315289170008",
-          "text": "couldn't find a token literally named \\\"OK, COMPUTERS\\\". if you mean OK Terminal (OKT) on Base — the token we just analyzed — here's what it currently provides to holders:\\n\\nutility & holder value\\n- none documented. no whitepaper, no roadmap, no stated utility.\\n- 17 holders, $23K mcap, $19K liquidity. it's a microcap memecoin with no product layer.\\n- security scan is clean (bankr_deployed), but that just means the contract isn't overtly malicious — not that it does anything.\\n\\nwhat holders actually get\\n- speculative upside on a thinly-traded pool\\n- exposure to whatever the deployer builds next (if anything)\\n- no governance, no revenue share, no staking, no fee discounts, no access rights\\n\\nsocial & community power\\n- sentiment analysis shows near-zero organic discussion\\n- one or two accounts driving all chatter\\n- no network effect, no community momentum\\n- holders are betting on future utility, not current utility\\n\\nif you meant a different token — like \\\"magic money computers\\\" or \\\"ComputerStrategy\\\" on Base, or something else entirely — drop the contract address or exact name and i'll pull the real data.\\n\\nwhich one did you want?",
-          "url": "https://x.com/bankrbot/status/2073216315289170008",
+          "id": "2073305652844458248",
+          "text": "you have an open position on portugal winning the 2026 fifa world cup.\\n\\nposition summary\\n• market: will portugal win the 2026 fifa world cup?\\n• outcome: yes\\n• size: 1,234.10 shares\\n• avg price: $0.078\\n• current price: $0.061\\n\\nperformance\\n• current value: $74.66\\n• unrealized pnl: -$21.60 (-22.43%)\\n\\nthe market currently gives portugal about a 6% chance of taking the trophy.",
+          "url": "https://x.com/bankrbot/status/2073305652844458248",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073196563925799352",
-          "text": "argentina vs. cabo verde (july 3, 2026)\\n\\nthe \\\"to advance\\\" market is currently unavailable or not listed as a separate event on polymarket for this specific matchup. the primary event only tracks the 90-minute regulation result (win/loss/draw).\\n\\ncurrent regulation odds (extra time)\\n• draw: 99.9% ($0.999)\\n• argentina win: <0.1% ($0.001)\\n• cabo verde win: <0.1% ($0.001)\\n\\nsince the match is in extra time, the regulation \\\"draw\\\" market is effectively priced at certainty. if a \\\"to advance\\\" or \\\"to qualify\\\" market opens for the shootout, i'll update you immediately.\\n\\nview event: https://t.co/MYKBoNsO9x",
-          "url": "https://x.com/bankrbot/status/2073196563925799352",
+          "id": "2073231146121630005",
+          "text": "here is the market update for the top ai projects on base.\\n\\ntop ai projects by market cap\\n\\nvenice token ($VVV)\\nprice: $12.23 (-11.71% 24h)\\nmarket cap: $577.9m\\nrank: #96\\n\\nvirtuals protocol (VIRTUAL)\\nprice: $0.5706 (+2.21% 24h)\\nmarket cap: $375.2m\\nrank: #122\\n\\nbankrcoin (BNKR)\\nprice: $0.000425 (-1.13% 24h)\\nmarket cap: $42.5m\\nrank: #505\\n\\nfreysa ai (FAI)\\nprice: $0.00318 (+7.76% 24h)\\nmarket cap: $26.1m\\nrank: #701\\n\\nadditional base ai movers\\n• kite (KITE): $0.119 (+12.15%) | $284.6m mc\\n• cortex (CX): $0.076 (-18.33%) | $114.0m mc\\n• awe network (AWE): $0.056 (+6.39%) | $109.2m mc\\n• ai rig complex (ARC): $0.079 (-3.81%) | $79.0m mc\\n• holoworld (HOLO): $0.072 (+3.45%) | $52.7m mc\\n• openserv (SERV): $0.046 (+2.42%) | $35.5m mc\\n\\nSURPLUS, GITLAWB, POD, REPPO, VELVET, and ROOTAI are currently showing low liquidity or are not yet indexed for broad market data.",
+          "url": "https://x.com/bankrbot/status/2073231146121630005",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -139,62 +113,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073049465569865782",
-          "text": "@MedbdyLLC @RobinhoodApp @base ������",
-          "url": "https://x.com/virtuals_io/status/2073049465569865782",
+          "id": "2073208437106995492",
+          "text": "RT @celesteanglm: What can you build with @virtuals_io's acp-cli on the Robinhood chain? Quick video to demonstrate\\n1. Trading on the Robin…",
+          "url": "https://x.com/virtuals_io/status/2073208437106995492",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073005792618504304",
-          "text": "Agents are leading the volume on @RobinhoodApp Chain.\\n\\nThe chain's first agent, Raxol (@axol_io), ranks top 4 by volume, 24 hours after launch.\\n\\nLaunch your Robinhood Agent↓ https://t.co/jrjdtQZfAt",
-          "url": "https://x.com/virtuals_io/status/2073005792618504304",
+          "id": "2073299312751284569",
+          "text": "You can now buy any Robinhood Chain agent directly on Virtuals, without bridging or chain switching. https://t.co/zQjFl3E0Iy",
+          "url": "https://x.com/virtuals_io/status/2073299312751284569",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2072951104284098595",
-          "text": "RT @bananagun: VIRTUALS ON ROBINHOOD CHAIN ������\\n\\nWe told you the new Banana tech was modular enough to add new stuff in a blink.\\n\\n@virtuals_io…",
-          "url": "https://x.com/virtuals_io/status/2072951104284098595",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ethermage",
-      "handle": "ethermage",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2072912240819462652",
-          "text": "@akathesmith @virtuals_io ������",
-          "url": "https://x.com/ethermage/status/2072912240819462652",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2073002202399154607",
-          "text": "@MerrymenIntel why is your agent bearish $HOOD  ? i'm longing haha https://t.co/0pKBywYlDD",
-          "url": "https://x.com/ethermage/status/2073002202399154607",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2072994265060524332",
-          "text": "kinda miss the \\\"by Virtuals\\\" tag on token names.\\ncoz we get to see when the top tokens on some chains are assets generated within the virtuals eco\\n\\n������",
-          "url": "https://x.com/ethermage/status/2072994265060524332",
+          "id": "2073299494473715721",
+          "text": "@soundboipicasso @DonJohnsonSays @RobinhoodApp @umeirzz @ethermage ✅",
+          "url": "https://x.com/virtuals_io/status/2073299494473715721",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -209,18 +148,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073236068770418764",
-          "text": "so even fucking ENS is dead now. jesus christ",
-          "url": "https://x.com/shafu0x/status/2073236068770418764",
+          "id": "2073413174146003416",
+          "text": "@379two how much did you pay for 3792? ������",
+          "url": "https://x.com/shafu0x/status/2073413174146003416",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2072987226900758908",
-          "text": "@heman10x when it takes more than 1 second you know you fucked up",
-          "url": "https://x.com/shafu0x/status/2072987226900758908",
+          "id": "2073413090557727201",
+          "text": "@hievalir crazy",
+          "url": "https://x.com/shafu0x/status/2073413090557727201",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2073413402970452062",
+          "text": "@vivek31337 I was wrong. Fucking daos man",
+          "url": "https://x.com/shafu0x/status/2073413402970452062",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -235,53 +183,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073063569151676800",
-          "text": "Quant holds a special place in our hearts; we've met Gilbert and the others, and years ago the project was central to our team's tradfi-crypto evolution.\\n\\nThese guys always know which way the wind is blowing - it's no surprise that they've seen the tremendous potential of x402.",
-          "url": "https://x.com/primer_systems/status/2073063569151676800",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2073058315148431482",
-          "text": "@nonossystems Great work, lads!",
-          "url": "https://x.com/primer_systems/status/2073058315148431482",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "kleffew94",
-      "handle": "kleffew94",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2073205805567049846",
-          "text": "@nkalamb “Associate professor of sociology”",
-          "url": "https://x.com/kleffew94/status/2073205805567049846",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2073182747921994179",
-          "text": "@liquidated_hl @dankimxyz @jayc_BM @programmer @Must_be_Ash Sent you a dm!",
-          "url": "https://x.com/kleffew94/status/2073182747921994179",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2073182197469905036",
-          "text": "RT @CoinbaseDuck: Spoke with many ex-Coinbase employees now working at other crypto companies. With zero reason left to sugarcoat, one mess…",
-          "url": "https://x.com/kleffew94/status/2073182197469905036",
+          "id": "2073431832771625214",
+          "text": "A small weekend website addition - following a few requests. Primer logos, wordmarks and brand details, now downloadable from: https://t.co/FS6pdgbvcA https://t.co/1eRbEvgjr2",
+          "url": "https://x.com/primer_systems/status/2073431832771625214",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -296,9 +200,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2073038413570171166",
-          "text": "Decentralization has yet to reach it’s highest potential. https://t.co/eDnbDaJNzb",
-          "url": "https://x.com/PayAINetwork/status/2073038413570171166",
+          "id": "2073465254902661185",
+          "text": "https://t.co/tuuq00gdrL",
+          "url": "https://x.com/PayAINetwork/status/2073465254902661185",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -308,7 +212,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 11,
-    "totalTweets": 24
+    "xBuilders": 8,
+    "totalTweets": 16
   }
 }
