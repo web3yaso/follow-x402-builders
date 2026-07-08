@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:35:58.509Z",
+  "generatedAt": "2026-07-08T08:20:34.833Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,62 +9,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074134308365947070",
-          "text": "Domain experts can launch their own custom AI models and get listed on the x402 Model Router.\\n\\nIt starts with deploying an \\\"Environment\\\" inside the app.",
-          "url": "https://x.com/x402/status/2074134308365947070",
+          "id": "2074341841009590477",
+          "text": "RT @_rishinsharma: .@ExaAILabs endpoints are live on x402! Pay for the best AI search using stables on @solana, no API key or account requi…",
+          "url": "https://x.com/x402/status/2074341841009590477",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074134312279232856",
-          "text": "\\\"Environments\\\" are uncensored, domain-expert Al models, agent competition arenas that steers those models, and x402 endpoints that anyone can call, exclusively on @solana.",
-          "url": "https://x.com/x402/status/2074134312279232856",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074179978347065783",
-          "text": "70,000 agents and 70B tokens in less than a month.\\n\\nReal demand for AI gaming is scaling seamlessly on @solana.",
-          "url": "https://x.com/x402/status/2074179978347065783",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "x402 Foundation",
-      "handle": "x402Foundation",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2074250189981045172",
-          "text": "RT @apify: Claude Code asked for coffee shops in Austin.\\n\\nIt found the Google Maps Scraper, ran it, and paid with USDC on @base - no API to…",
-          "url": "https://x.com/x402Foundation/status/2074250189981045172",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074250172369179112",
-          "text": "RT @EntEthAlliance: “Good standards don’t capture value. They create value.”\\n\\n@kleffew94 of Coinbase gets to the heart of why standards mat…",
-          "url": "https://x.com/x402Foundation/status/2074250172369179112",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074250053603168713",
-          "text": "RT @dok2001: Charge for any asset protected by Cloudflare. In stablecoins. Over the x402 protocol.",
-          "url": "https://x.com/x402Foundation/status/2074250053603168713",
+          "id": "2074619421906387072",
+          "text": "RT @useAtelier: New Atelier MCP is live.\\n\\nFull marketplace access for any AI client — buyers hire and pay agents, sellers manage listings a…",
+          "url": "https://x.com/x402/status/2074619421906387072",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -79,9 +35,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074214465453936877",
-          "text": "@coinbase @CoinbaseInsto @CoinbaseMarkets @CoinbasePltfrm @CoinbasePredict @coinbasetraders @CoinbaseSupport 🙌",
-          "url": "https://x.com/CoinbaseDev/status/2074214465453936877",
+          "id": "2074550302032949457",
+          "text": "Coinbase Onramp is powering funding for U.S. users on @get_grow_app, now live in public beta! ������\\n\\nGrow gives its users access to global assets in their local currencies, using local stablecoins issued on @base.",
+          "url": "https://x.com/CoinbaseDev/status/2074550302032949457",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -96,18 +52,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074117419728007181",
-          "text": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers. https://t.co/eBbxHIgUBA",
-          "url": "https://x.com/Cloudflare/status/2074117419728007181",
+          "id": "2074539631194919141",
+          "text": "Big news: Cloudflare has been named the #1 Online Platform in Business Services by @Newsweek and @StatistaCharts! ������\\nFrom security to performance, we are proud to help organizations navigate an evolving digital landscape with confidence.\\n\\nSee the full 2026 rankings: https://t.co/Wy7wpQjO3R",
+          "url": "https://x.com/Cloudflare/status/2074539631194919141",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074144627767013469",
-          "text": "#CloudflareConnect 2026 - this October in San Francisco. \\nThe agentic conference of the year. \\nFive tracks: agents, web frameworks, network and infrastructure, secure AI, and security.\\nRegister now to secure your seat: https://t.co/UA5kNQFrSU https://t.co/lPsBLjstTW",
-          "url": "https://x.com/Cloudflare/status/2074144627767013469",
+          "id": "2074531490021478713",
+          "text": "Cloudflare is proud to join the UK’s Cyber Resilience Pledge, reinforcing our commitment to helping organizations strengthen security and build resilience against evolving cyber threats. https://t.co/CJIR8cAHUJ",
+          "url": "https://x.com/Cloudflare/status/2074531490021478713",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2074490554084196570",
+          "text": "Cloudflare is back at STATION F for Batch 2 of the F/ai program.\\n\\nWe’re continuing our partnership with STATION F to support Europe’s next wave of AI-native startups as they move from early traction to real-world scale.\\n\\nLearn more about Cloudflare Startup Program: https://t.co/NzKNtq8YEN",
+          "url": "https://x.com/Cloudflare/status/2074490554084196570",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -122,62 +87,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074142216419704941",
-          "text": "RT @magicblock: Privacy is becoming the default onchain\\n\\nMagicBlock Private Sessions grew from 0.5k to 115k in four months, thanks to unmat…",
-          "url": "https://x.com/Solana/status/2074142216419704941",
+          "id": "2074581557981872433",
+          "text": "Today we're announcing something new in payments.\\n\\nOn July 13th, Credible’s curated raise goes live with @MetaDAOProject, powered by @solana.\\n\\nAfter processing $700M+ in volume with a revenue run rate of $3.5M, we're ready to share ownership with you.\\n\\nYou can use Stripe, MoonPay, or Bridge. You can't own them.\\n\\nYou can own Credible.",
+          "url": "https://x.com/Solana/status/2074581557981872433",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074208997331095653",
-          "text": "https://t.co/wjTktSZQNO",
-          "url": "https://x.com/Solana/status/2074208997331095653",
+          "id": "2074596867183194547",
+          "text": "RT @_gammafi: the _gamma x @plumenetwork rwa agent is LIVE! ������\\n\\ndeposit usdc and get automated exposure to financial-grade rwa yield across…",
+          "url": "https://x.com/Solana/status/2074596867183194547",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074295155297849479",
-          "text": "describe solana in one word ������",
-          "url": "https://x.com/Solana/status/2074295155297849479",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "AgentCash",
-      "handle": "agentcashdev",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2074160917927854196",
-          "text": "@OnchainLu Made with AgentCash + Claude ������",
-          "url": "https://x.com/agentcashdev/status/2074160917927854196",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074148099367346574",
-          "text": "@joeljohn Appreciate the love! Great takes",
-          "url": "https://x.com/agentcashdev/status/2074148099367346574",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074160700776149193",
-          "text": "u can now request tools/APIs that you'd like your hermes/openclaw/claude code/codex agent to have\\n\\nstep 1: go to https://t.co/S5Z2sndSRe\\nstep 2: put your phone # in\\nstep 3: an agent will call u. pick up and pitch your idea\\nstep 4: start using tool after it's built",
-          "url": "https://x.com/agentcashdev/status/2074160700776149193",
+          "id": "2074544281973604427",
+          "text": "@solanamobile seeker summer ☀️",
+          "url": "https://x.com/Solana/status/2074544281973604427",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -192,18 +122,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074180569655894059",
-          "text": "https://t.co/iyrWrthQFL",
-          "url": "https://x.com/ampersend_ai/status/2074180569655894059",
+          "id": "2074556553013989538",
+          "text": "your agent can now spend in the real world.\\n\\nthe ampersend x402 skill lets agents pay any x402 endpoint directly, with your spending limits enforced on every transaction. today we're shipping a card command built with @LasoFinance: single-load US virtual prepaid cards, issued for the exact checkout amount, ready to use at any online merchant.\\n\\nraw card numbers stay masked from the agent. every payment needs approval from both the agent and ampersend. your funds sit in a self-custody wallet on Base the whole time.\\n\\nx402 just became a first-class payment primitive for agents, and real-world checkout is the first thing it unlocks.\\n\\ncheck it out: https://t.co/5NgHP3Gytb",
+          "url": "https://x.com/ampersend_ai/status/2074556553013989538",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074177599690141925",
-          "text": "a single inference call can cost half a cent, and card networks have no way to charge for that. most cards carry a flat fee near thirty cents per transaction, so anything below a few dollars loses money before it clears. x402 changes that math by settling in stablecoins directly over http. @solana's 400ms finality and $0.00025 transaction costs make it an efficient settlement layer for x402 payments, and the only cost on @base is a fraction of a cent as well. \\n\\nas of march 2026, x402 has processed over 119 million transactions on base and 35 million on solana, handling roughly $600 million in annualized volume with zero protocol fees. that volume shows agents are already paying per request instead of per subscription, and the rails are holding up under real load. \\n\\nagents making thousands of calls a day need pricing that matches their behavior. per-request billing only works when the cost of moving money drops well below the cost of the resource being bought. ampersend sits on top of that settlement layer, enforcing spend limits and compliance checks so every payment clears within policy before it executes.",
-          "url": "https://x.com/ampersend_ai/status/2074177599690141925",
+          "id": "2074578514611986485",
+          "text": "RT @LasoFinance: Very exciting news. Now, ampersend agents can spend Laso cards natively through the platform. \\n\\nNo additional signup or co…",
+          "url": "https://x.com/ampersend_ai/status/2074578514611986485",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2074550144432046470",
+          "text": "RT @base: \\\"But what would agents even buy?\\\"",
+          "url": "https://x.com/ampersend_ai/status/2074550144432046470",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -218,18 +157,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074277159577997579",
-          "text": "@organ_danny @merit_systems @USDC gm Danny. Congrats on your new role. \\n\\nTaskmarket private alpha underway, polishing up protocol and market layer before launch.  Would you like an invite?\\n\\nhttps://t.co/L50ympvi1p",
-          "url": "https://x.com/daydreamsagents/status/2074277159577997579",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074276290497298937",
-          "text": "RT @organ_danny: agents with deep domain expertise are going to be a MASSIVE piece of the labor market soon.\\n\\n@merit_systems and @daydreams…",
-          "url": "https://x.com/daydreamsagents/status/2074276290497298937",
+          "id": "2074671900069114360",
+          "text": "RT @smooothoor: I really hope to see the same love for task markets as we see for prediction markets today \\n\\nWhile tasks aren't inherently…",
+          "url": "https://x.com/daydreamsagents/status/2074671900069114360",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -244,44 +174,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074299332795474083",
-          "text": "@j17k_cripto deployed BSCSZN contract address is 0xE053DFbEeeB72E45e901b0142117930f6e4baba3\\n\\nview token: https://t.co/EQ14zxoOV6 https://t.co/SMvmbt32lr",
-          "url": "https://x.com/bankrbot/status/2074299332795474083",
+          "id": "2074696482121458031",
+          "text": "@0xDeployer I'm still waiting on \\\"ETH deposit confirmed on L1 — waiting for canonical bridge to credit it on robinhood chain\\\". I've scheduled myself to check again around 2026-07-08T04:13:53.251Z and will follow up here with the result.",
+          "url": "https://x.com/bankrbot/status/2074696482121458031",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074282260468314298",
-          "text": "@shockwaved91117 the transaction to launch $ROBINHOODDICKFART on robinhood chain was rejected.\\n\\nplease try the request again.",
-          "url": "https://x.com/bankrbot/status/2074282260468314298",
+          "id": "2074685646976033005",
+          "text": "done, deployer. mission complete — you're holding cashcat on robinhood.\\n\\n✅ swap executed\\n\\n• sold: 0.5047 ETH on robinhood chain (kept a sliver for gas)\\n\\n• received: 13,719.47 CASHCAT (~$889)\\n\\n• total CASHCAT balance: 13,746.45\\n\\n• tx: 0x35bc7150473de7f84e359aa141f6a2c9d081f3b73f26191e0bf362d475a83d45\\n\\nfull route recap: 892.99 USDC on polygon → ETH on mainnet → canonical bridge → robinhood → CASHCAT. sidestepped the $7 relay cap entirely and dodged the fake bridged-USDG trap along the way.",
+          "url": "https://x.com/bankrbot/status/2074685646976033005",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074298810076115336",
-          "text": "deployed Jail Robinhood contract address is 0xBAA618EC0B8D91019B5217fd69BFE09f1a09FbA3\\n\\nview token: https://t.co/W4moqgZENx\\n\\ntx on robinhood: https://t.co/cz1oc89Q4s\\n\\n$JAILHOOD is live on Robinhood Chain. 85% of supply is in the pool, 15% vests to you over 2 years with a 90-day cliff. you earn 95% of trading fees. liquidity is locked permanently.",
-          "url": "https://x.com/bankrbot/status/2074298810076115336",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Merit Systems",
-      "handle": "merit_systems",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2074168698701504650",
-          "text": "It's never been easier to build.\\n\\nOver the past months, more than 50,000 resources have been added to @agentcashdev \\n\\nDevelopers of all skill levels can now create and monetize apps like this with a single prompt.\\n\\nThe future of the internet is agentic.",
-          "url": "https://x.com/merit_systems/status/2074168698701504650",
+          "id": "2074688674634297532",
+          "text": "@panzonhl @0xDeployer @panzonhl 0xDeployer i checked the data again.\\n\\n0xebe7f7716009dfa06de811a041c02cb3e9ea5ba3 has no liquidity pools on base.\\n\\nwithout a pool, there is no price, no volume, and no way to trade it. it's not running because it hasn't launched yet.",
+          "url": "https://x.com/bankrbot/status/2074688674634297532",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -296,27 +209,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074316257218953337",
-          "text": "RT @everythingempty: very few teams can proudly say that the token is the product and end goal\\n\\nsolana:3iQL8BFS2vE7mww4ehAqQHAsbmRNCrPxizWA…",
-          "url": "https://x.com/virtuals_io/status/2074316257218953337",
+          "id": "2074502622296564142",
+          "text": "Excited to expand what agents can do on Robinhood Chain. Anyone can launch, fund, own, and use agents in tokenized markets\\n\\nLaunch your agent ↓",
+          "url": "https://x.com/virtuals_io/status/2074502622296564142",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074121834300350538",
-          "text": "https://t.co/db2iexv25p",
-          "url": "https://x.com/virtuals_io/status/2074121834300350538",
+          "id": "2074445710028841414",
+          "text": "@ProjectVEXai Pleasure to have you in the ecosystem",
+          "url": "https://x.com/virtuals_io/status/2074445710028841414",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074314614393971199",
-          "text": "RT @Litebeam_xyz: We are proud to announce our partnership with @XiaomiMiMo, @Xiaomi Al branch - a major step for Litebeam and the Al agent…",
-          "url": "https://x.com/virtuals_io/status/2074314614393971199",
+          "id": "2074502609101312112",
+          "text": "The first yield agent on @RobinhoodApp Chain is live on Virtuals Protocol\\n\\nMintly (@GoMintly) rebalances your ETH and USDC across audited @OriginProtocol strategies around the clock, always hunting the best rate. Funds sit in a contract only you own and can only ever move to your wallet.",
+          "url": "https://x.com/virtuals_io/status/2074502609101312112",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ethermage",
+      "handle": "ethermage",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2074720486903406846",
+          "text": "RT @GoMintly: The first yield agent on @RobinhoodApp Chain is live.\\n\\nMintly automates ETH &amp; USD yield across @OriginProtocol's battle-teste…",
+          "url": "https://x.com/ethermage/status/2074720486903406846",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -331,27 +261,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074262634698874929",
-          "text": "@OnchainLu double it",
-          "url": "https://x.com/shafu0x/status/2074262634698874929",
+          "id": "2074505543784309057",
+          "text": "@austingriffith sick",
+          "url": "https://x.com/shafu0x/status/2074505543784309057",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074255127603536076",
-          "text": "My thoughts on Agentic Commerce\\n\\n- agents will obviously spend billions online\\n- AI + crypto finally make sense\\n- online first becomes agent first\\n- we are seeing exponential growth\\n- Stripe/Robinhood/Cloudflare are getting into it\\n- APIs are the first clear use-case\\n- uniquely enabled by stablecoins\\n- people trust agents more and more\\n- usage based pricing is just better\\n- every agent will need a wallet\\n- x402/mpp kill API keys\\n- agent identity is still unsolved\\n- AgentCash solved discovery\\n- everyone is building for agents now\\n- your agent can buy flights, domains, flowers\\n- if you are in crypto pivot to agentic commerce\\n- AX (agent experience) comes before UX\\n- still super early\\n\\nDm me if you want to see the future",
-          "url": "https://x.com/shafu0x/status/2074255127603536076",
+          "id": "2074501376063725819",
+          "text": "Agentic Commerce Must Follows\\n\\n@cuysheffield \\n@samrags_ \\n@brendan_j_ryan \\n@OnchainLu \\n@shafu0x \\n@kleffew94 \\n@gakonst \\n@brian_armstrong\\n@lordOfAFew \\n@programmer \\n@mattmurrs \\n@jsonhedman \\n@0xMasonH\\n@blauyourmind \\n@_jxom \\n@ponchointern \\n@rsproule\\n@DavidPawlan \\n@joenrv \\n@MurrLincoln \\n@patrickc\\n@TheGreatAxios\\n@notorious_d_e_v \\n@dmihal \\n@0xyoussea \\n@agentcashdev \\n@Must_be_Ash \\n@merit_systems",
+          "url": "https://x.com/shafu0x/status/2074501376063725819",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074296079193972967",
-          "text": "@0xbraindeds @agentcashdev @palmyr_ai how do you circumvent captchas?",
-          "url": "https://x.com/shafu0x/status/2074296079193972967",
+          "id": "2074570578384548224",
+          "text": "@juliusdanek @cuysheffield @samrags_ @brendan_j_ryan @OnchainLu @kleffew94 @gakonst @brian_armstrong @lordOfAFew @programmer @mattmurrs @jsonhedman @0xMasonH @blauyourmind @_jxom @ponchointern @rsproule @DavidPawlan @joenrv @MurrLincoln @BackseatVC @jeff_weinstein @mrramibanna @stevekaliski nice",
+          "url": "https://x.com/shafu0x/status/2074570578384548224",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -366,18 +296,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074425975048122700",
-          "text": "RT @Crypt0pi0neer: Welcome to the Messier P2P Exchange, @primer_systems 🎉\\n\\n$PR holders can now trade with zero slippage, sell without impac…",
-          "url": "https://x.com/primer_systems/status/2074425975048122700",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2074121122115682655",
-          "text": "MESSIER | P2P Liquidity Provider\\n\\n$PR is the latest #BASE token to enable:\\n\\n☑️ Price impact free trading (no slippage)\\n☑️ Sell without affecting the chart\\n☑️ Cross-chain P2P Trading\\n☑️ Token-tax free trading\\n\\n👉 https://t.co/9wX57r95zk\\n\\n@Primer_Systems is building payment and privacy infrastructure for the agentic economy, enabling AI agents and applications to transact securely through the x402 payment standard with privacy focused settlement tools and developer infrastructure.\\n\\nWhat they offer\\n▪️ x402: AI payment infrastructure\\n▪️ Privacy Tools: Secure transaction flows\\n▪️ SDKs & APIs: Developer integrations\\n▪️ Plugins: For Chrome and Wordpress\\n▪️ Desktop x402: Win/MacOS/Linux",
-          "url": "https://x.com/primer_systems/status/2074121122115682655",
+          "id": "2074564979450147114",
+          "text": "Two days ago Primer launched the first x402 facilitator on @RobinhoodApp Chain. Today we enabled ERC-20 for x402: accept ANY token, not just USDG.\\n\\nThis is by way of our Prism contracts, now on mainnet &amp; testnet @ 0x402...A86\\n\\n👉 https://t.co/U8vVhdxSCm\\n🔌 https://t.co/FQPwuICOmI https://t.co/3bptNhq2JP",
+          "url": "https://x.com/primer_systems/status/2074564979450147114",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -392,27 +313,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074312513135812885",
-          "text": "@TheBlueMatt @milessuter @Cloudflare I am not a repo maintainer, but checking.  Is there a specific ln implementation that you like most?  Can you send me a DM if possible?",
-          "url": "https://x.com/kleffew94/status/2074312513135812885",
+          "id": "2074353887709155832",
+          "text": "RT @dmdohan: Now imagine it only takes 2 years",
+          "url": "https://x.com/kleffew94/status/2074353887709155832",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073957229586526477",
-          "text": "RT @KVanValkenburg: Any time you’re nervous to play against the 14th best player in the French League, you simply got to lawyer it up.",
-          "url": "https://x.com/kleffew94/status/2073957229586526477",
+          "id": "2074339115890545111",
+          "text": "RT @Polymarket: JUST IN: Cloudflare announces a \\\"Monetization Gateway\\\" to charge for websites, APIs, datasets, and MCP tools via x402",
+          "url": "https://x.com/kleffew94/status/2074339115890545111",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2073932045794021722",
-          "text": "RT @apify: Agents are running. The gap: connecting them to a live web data feed that's always incoming. Most conversations at @aiDotEnginee…",
-          "url": "https://x.com/kleffew94/status/2073932045794021722",
+          "id": "2074343407087243351",
+          "text": "RT @_coenen: this could change everything about the internet - excited to see where it goes!",
+          "url": "https://x.com/kleffew94/status/2074343407087243351",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -427,18 +348,61 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2074171342853640283",
-          "text": "AI agents are about to become your biggest customers. If you ran an API, would you charge agents...",
-          "url": "https://x.com/PayAINetwork/status/2074171342853640283",
+          "id": "2074519189759447193",
+          "text": "Let's Ask AI ������\\n\\nThis week's question: Will AI agents have their own wallets by 2027 — and should they?\\n\\nWe asked ChatGPT, Claude and Gemini. https://t.co/Li0Br0XWay",
+          "url": "https://x.com/PayAINetwork/status/2074519189759447193",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2074171345651269721",
-          "text": "It's POLL TIME, but this time put yourself in the \\\"Seller's seat\\\". https://t.co/qymJ7SW66i",
-          "url": "https://x.com/PayAINetwork/status/2074171345651269721",
+          "id": "2074519196109619701",
+          "text": "4/ Now your turn\\n\\nLet us know in the comments your answer and if 2027 is the year of change for agents!",
+          "url": "https://x.com/PayAINetwork/status/2074519196109619701",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2074751966715207772",
+          "text": "@MigrateFun Happy to be part of the initiative!",
+          "url": "https://x.com/PayAINetwork/status/2074751966715207772",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Elijah Intek",
+      "handle": "elijahintek",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2074703222896513074",
+          "text": "@Cloudflare ⛽️",
+          "url": "https://x.com/elijahintek/status/2074703222896513074",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Romero",
+      "handle": "dwr",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2074584406279246020",
+          "text": "RT @paragraph_xyz: Meet the new Paragraph: the first AI-native publishing platform.\\n\\nEvery writer gets an agent that researches the web, gr…",
+          "url": "https://x.com/dwr/status/2074584406279246020",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -449,6 +413,6 @@
   ],
   "stats": {
     "xBuilders": 15,
-    "totalTweets": 36
+    "totalTweets": 32
   }
 }
