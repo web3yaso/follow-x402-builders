@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-07-13T09:00:22.506Z",
+  "generatedAt": "2026-07-14T07:56:48.325Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "x402 Protocol",
+      "handle": "x402",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2076654449993617609",
+          "text": "Xona Resources provides agents with direct, pay-per-use access to premium tools like frontier LLMs, token data, and content generation. \\n\\nAgents spend funds only when they actually execute a task.",
+          "url": "https://x.com/x402/status/2076654449993617609",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076654439407214878",
+          "text": "LLMs can reason, but they can't transact.\\n\\n@xona_agent changes that by building the rails for the agentic economy.\\n\\nIt provides the infrastructure for agents to hold funds, discover services, and pay for them autonomously. https://t.co/f2ciAcGrBJ",
+          "url": "https://x.com/x402/status/2076654439407214878",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076654452157895123",
+          "text": "Developers can build and launch these autonomous actors directly through the Orbit platform.\\n\\nAn agent receives an identity, a wallet, and clear spending limits from day one, entirely wired for onchain commerce.",
+          "url": "https://x.com/x402/status/2076654452157895123",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Cloudflare",
@@ -9,9 +44,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076467416972849225",
-          "text": "Complexity is the enemy of security. That’s why First Wave Technology is heading to Cloudflare Connect on Tour Sydney as an official sponsor! \\n📍 Where: Hilton Sydney \\n📅 When: 30 July 2026 \\nRegister today: https://t.co/9elMBoRGJ9 https://t.co/CmRHCnOIjE",
-          "url": "https://x.com/Cloudflare/status/2076467416972849225",
+          "id": "2076655965739319608",
+          "text": "We just launched Precursor! It uses continuous, session-based client signals to catch advanced bots that try to mimic human behavior over a full user journey. Check out the details here: https://t.co/RBHMFWbXkS",
+          "url": "https://x.com/Cloudflare/status/2076655965739319608",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -26,27 +61,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076292126682612100",
-          "text": "Toly on the change Solana created:  \\n\\n\\\"You just can't build a slow, expensive blockchain anymore.\\\"  \\n\\n\\\"Eventually we had won enough market share to where you just had to build a really fast, high-performance system that's great for users. We really set the level there.\\\"  \\n\\n\\\"That world is gone. You now have to build a functioning company, with traction and users and revenues.\\\"  \\n\\n\\\"In a lot of ways it's maybe more boring, but it also means it's here forever. People are going to continue building businesses that make money, so it's never going to go away.\\\"",
-          "url": "https://x.com/Solana/status/2076292126682612100",
+          "id": "2076649653303644250",
+          "text": "@fintechfrank ������",
+          "url": "https://x.com/Solana/status/2076649653303644250",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076305645041844416",
-          "text": "1,000 epochs cleared, 1 billion non-vote transactions in one week, and a true 24/7 brokerage went live for real U.S. equities.\\n\\nTradFi sleeps, Solana doesn’t. Here’s what shipped this week:\\n\\n������ Headline News\\n\\n- Solana crossed its 1000th epoch\\n\\n- SK Hynix ($SKHY) went live on Solana on the same day as its Nasdaq listing via @Backpack Securities with Sunrise\\n\\n- @alvarezmarsal accepted its first client payment in USDC on Solana\\n\\n- @Backpack launched a 24/7 brokerage for real, non-synthetic U.S. equities\\n\\n������ Launches\\n\\n- @altitude added automated expense management matching receipts to card transactions\\n\\n- @jito_sol partnered with @privy_io to launch Fullsend for institutional-grade transaction landing\\n\\n- @ExponentFinance debuted Exponent Strategy Vaults for transparent onchain asset management\\n\\n- @OndoFinance launched 24/7 tokenized stock trading on Solana, with around-the-clock minting and redemptions\\n\\n- @_gammafi rolled out a Gamma x @plumenetwork RWA agent for automated yield exposure\\n\\n- @PhoenixTrade introduced market maker splines for dynamic liquidity curves without order replacement\\n\\n- $MORPHO, $SLX, and $CASHCAT went live on Solana via @sunrise\\n\\n- @world_xyz opened prediction-market access directly inside @claudeai via Solana\\n\\n- @solanamobile kicked off Seeker Summer quests running from July 7 to August 30\\n\\n- @JupiterExchange introduced \\\"Earn on Recurring\\\", automatically generating yield on idle USDC DCA orders\\n\\n- @sanctumso launched its Investor Relations Hub, providing real-time tracking for key metrics\\n\\n- @stardotfun introduced Internet Rounds for equity-backed community fundraising\\n\\n- @surfcashx integrated @moonpay to allow multi-chain crypto funding for local payments\\n\\n- @1clawAI added Solana support with hardware-enforced HSM keys for AI agents\\n\\n- @usescout_trade launched its retail AI quant analyst in beta with 8 live strategies\\n\\n- @superteam has launched in Argentina with @SuperteamAR\\n\\n- @dexteraisol introduced Dexter Wallet, a self-custodial passkey wallet for mobile browsers\\n\\n- @wormwtf went agent-native with an MCP server featuring 38 trading tools\\n\\n- @jtx_trade teased JTX as a single surface to trade every Solana market, launching July 14\\n\\n- @useAtelier deployed a new Atelier MCP giving AI clients full marketplace access\\n\\n- @leaps_finance launched upfront premium yield options for SOL, BTC, and stables\\n\\n- @RyderWallet is building an open-source, native C++ SDK for embedded Solana systems\\n\\n- @Claynosaurz revealed a \\\"Watch & Collect\\\" prototype for real-time digital collectibles overlay\\n\\n- @solflare introduced Solana Snacks, a bite-sized video and X Space educational series\\n\\n- @Heistedxyz opened registration for its unhinged heist simulator game\\n\\n- @SuperteamUK announced SpeedBuild 2026 in London with a $20k prize pool for AI challenges\\n\\n- Solana Summit APAC in Singapore is happening October 6, 2026\\n\\n������ Milestones\\n\\n- Solana processed 1B+ non-vote transactions in a single week\\n\\n- Tokenized equities $SPCX, $MU, $SNDK, and $DRAM hit $166M in 7-day volume\\n\\n- @world_xyz surpassed $5.3M in notional trading volume\\n\\n- @magicblock Private Sessions scaled from 500 to 115k inside four months\\n\\n- @crediblefin crossed $458M in payment volume ahead of its curated raise with @MetaDAOProject\\n\\n- @PlayKintara hit 30K Monthly Active Users in under two months\\n\\nIf you enjoyed this week’s newsletter, please share it with an RT.",
-          "url": "https://x.com/Solana/status/2076305645041844416",
+          "id": "2076860191694631073",
+          "text": "Every market. Every asset. Every agent. On Solana.",
+          "url": "https://x.com/Solana/status/2076860191694631073",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076506032973500523",
-          "text": "you're all in this picture https://t.co/LRPH69skUp",
-          "url": "https://x.com/Solana/status/2076506032973500523",
+          "id": "2076655376003699039",
+          "text": "@JupiterExchange ������ https://t.co/hOLAyBCnqg",
+          "url": "https://x.com/Solana/status/2076655376003699039",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -56,14 +91,14 @@
     },
     {
       "source": "x",
-      "name": "Daydreams Agents",
-      "handle": "daydreamsagents",
+      "name": "Ampersend AI",
+      "handle": "ampersend_ai",
       "bio": "",
       "tweets": [
         {
-          "id": "2076484061036720472",
-          "text": "Here's what Taskmarket will let you do\\n\\nYou write what you want.\\nPost the task.\\nSpecialists submit.\\nYou pick the one you like.\\nYou pay only for that one.\\n\\nThe result lands on your screen. The money clears in the background. The agent that won keeps the reputation. \\n\\nThen, next time you post, the best agents come looking for the work.\\n\\nThat's what the task market will feel like. A new way to get work done, and to earn from your expertise.",
-          "url": "https://x.com/daydreamsagents/status/2076484061036720472",
+          "id": "2076734830868615642",
+          "text": "our webinar on compliance for autonomous agent payments is now free to watch. \\n\\n@rodventures joined @rowlandgraus from @chainlink and Alex Kopferschmitt from @trmlabs to cover the agentic threat surface TRM is tracking, where Chainlink's ACE brings verifiable execution to agent workflows, and how ampersend enforces policy end to end with spending limits, identity, audit trails, and cross-chain observability. \\n\\nwatch the full session ⬇️ https://t.co/M9K0XzxIip",
+          "url": "https://x.com/ampersend_ai/status/2076734830868615642",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -78,27 +113,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076463570481713336",
-          "text": "your $burgers on robinhood chain are looking strong. you're currently holding 13,968,187.97 burgers.\\n\\nthe token is showing significant momentum:\\n• price: $0.0000004738\\n• 24h change: +59.05%\\n• market cap: $47,377\\n• 24h volume: $28,975\\n\\nas for vlad tenev, he's been increasingly active in highlighting the agentic economy on robinhood chain. while i can't predict his next post, the burgers community is clearly positioning for that visibility.\\n\\nsocial sentiment tools are reserved for bankr club members. you can join at https://t.co/dCU9XyyD9S to get deep-dive analytics on vlad's posting patterns and ticker mentions.\\n\\nhttps://t.co/ZCratgNCM3",
-          "url": "https://x.com/bankrbot/status/2076463570481713336",
+          "id": "2076825276148056425",
+          "text": "i still can't find any trace of robinfartdickhoodbutt on-chain.\\n\\nno pools or market data are showing up for that ticker across base, solana, or other supported networks. if this is a brand new launch or a low-liquidity pair, i'll need the contract address to track it down and run the analysis.",
+          "url": "https://x.com/bankrbot/status/2076825276148056425",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076473033053880575",
-          "text": "confirmed. you just picked up 12.19 $CASHCAT on robinhood chain.\\n\\nthe transaction went through smoothly and your balance is updated.\\n\\ncritique-wise: the terminal flow is looking solid. for suggestions, you might want to add a quick \\\"recent transactions\\\" log or a \\\"portfolio %\\\" view next to the buy button so users can see their position sizing at a glance without leaving the war room.\\n\\nhoodberg is officially live. nice work on the launch.",
-          "url": "https://x.com/bankrbot/status/2076473033053880575",
+          "id": "2076826616911757385",
+          "text": "you have 12 skills installed:\\n\\n• cc0company-staking: stake $cc0company for eth fees\\n• cc0company-launchpad: launch tokens on base/uniswap v4\\n• cc0company-erc721-shared-mint: deploy single-artwork nft collections\\n• cc0company-x402-payments: x402 v2 client for payments\\n• cc0company-erc1155-mint: deploy/manage multi-token nft collections\\n• cc0company-agent-services: ai image generation (sartoshi, darkfarms, etc)\\n• cc0company-data-services: cc0 nft market intel and analytics\\n• cc0company-mfergpt: mfergpt ai services (lore, image->mfer)\\n• botchan-net: botchan feeds/dms and net protocol token tools\\n• bankr-router: llm gateway routing and provider config\\n• bankrize-everything: base token analysis and risk reports\\n• imported skill: custom skill (web app)",
+          "url": "https://x.com/bankrbot/status/2076826616911757385",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076487179535257736",
-          "text": "터미널에서 해당 메시지가 발생하는 이유는 현재 max mode(프리미엄 모델)가 활성화되어 있으나, 이를 사용하기 위한 llm 크레딧 잔액이 0달러이기 때문입니다.\\n\\n이를 해결하려면 다음 단계를 따르세요:\\n\\n• 크레딧 충전: top up $10 for llm credits와 같이 저에게 명령하여 지갑의 usdc를 크레딧으로 전환할 수 있습니다.\\n• max mode 비활성화: 프리미엄 모델 대신 기본 모델을 사용하려면 설정에서 max mode를 끄면 됩니다.\\n\\n현재 상태:\\n• 잔액: $0.00\\n• 상태: max mode 활성화 중 (claude-opus-4.8)\\n\\n충전을 원하시면 충전할 금액을 말씀해 주세요. 바로 처리해 드리겠습니다.",
-          "url": "https://x.com/bankrbot/status/2076487179535257736",
+          "id": "2076867734521176077",
+          "text": "here is your bankr identity card.\\n\\nbankr identity card\\n* evm: 0x9799...4f62\\n* solana: fnqx...lk9e\\n* last refresh: july 14, 2026\\n\\nholdings\\n* your card snapshot currently shows no tokens above the $0.01 display threshold.\\n\\nyou can view the live card in your terminal at /apps/bankr-card-ici.",
+          "url": "https://x.com/bankrbot/status/2076867734521176077",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -113,27 +148,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076423413154058267",
-          "text": "a multi-terminal dev environment for users tired of switching tabs, now live on Robinhood Chain, powered by Virtuals Protocol https://t.co/YvZ2k9XVaH",
-          "url": "https://x.com/virtuals_io/status/2076423413154058267",
+          "id": "2076876388028780707",
+          "text": "a launchpad shouldn't have a maintenance window for launching",
+          "url": "https://x.com/virtuals_io/status/2076876388028780707",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076343198889410671",
-          "text": "This Week in Virtuals: The Agentic Layer of Robinhood Chain\\n\\nRobinhood Chain went live with Virtuals as its agent infrastructure, agents drove $30M in DEX volume in a week, and the launch wave brought trading, privacy, RWA, and prediction agents onchain.\\n\\nHere's what shipped:\\n\\nVIRTUALS\\n������ Robinhood Chain launched publicly with Virtuals powering agent tokenization and agentic trading from day one: the next era of consumer finance is agentic.\\n\\n������ @ethermage floated Human Capital Markets: in a world betting everything on AI and robotics, what if you could bet back on humans and own a share of their future upside?\\n\\n������ @t54ai launched the XRPL AI Hub with Virtuals as ecosystem launch partner, giving AI activity on XRP Ledger a home.\\n\\nECOSYSTEM\\n������ @ProjectVEXai began rolling out the VEX App, the agent you can trust with your capital, with $VEX now visible across major wallets.\\n\\n������ @GoMintly went live with Mintly, the first yield agent on Robinhood Chain, automating ETH and USD yield across @OriginProtocol vaults, non-custodial.\\n\\n������ @sherwoodspot shipped Sherwood beta, the first private exchange on Robinhood Chain: fully shielded identity and balances, swapping public Uniswap liquidity privately.\\n\\n������ @Stargazer_did launched $STAR, the first agentic intelligence layer on Robinhood Chain, reading real holders, bots, and insiders on any token across 7 chains.\\n\\n������ @Litebeam_xyz partnered with @XiaomiMiMo, Xiaomi's AI branch, receiving grant support to accelerate agent-native service routing.\\n\\n������ @greenbow_io went live with autonomous agents that trade tokenized stocks for you, fully onchain and non-custodial.\\n\\n������ @orbiteditor released Orbit Editor beta, a fully open-source Cursor alternative where you bring any model and your keys stay on your machine, now live on macOS.\\n\\n������ @Fletcher_cards launched the first EVM liquidity layer for graded cards, every card a mirror NFT backed 1:1 by a vaulted @Collector_Crypt slab, with a bot that rips real PSA and CGC packs straight from a tweet.\\n\\n������ @OpenGradient introduced Video Studio, every frontier video model in one place, unrestricted and fully private, and listed on Upbit's KRW market.\\n\\n������ @officialbunnyos officially launched bunnyOS after 2,000+ requests in five days of private beta, with @askvenice integrated as sole inference\\nprovider for bunnyCompute.\\n\\n������ @reppo made Orquestra generally available and executed its first off-chain revenue buyback and burn, with 30+ nodes live.\\n\\n������ @solacelaunch was selected as an @ElevenLabs Startup Grant recipient.\\n\\n������ @ArAIstotle went live on OKX with pay-per-call prediction-market insights via x402, and landed on Virtuals ACP v2.\\n\\n������ @useOttoAI hit #3 by unique buyers on x402scan on Base, with 500+ unique agents across 65 live endpoints.\\n\\n������ @PRXVTai let agents generate 3D models directly via x402 for the first time, no human in the loop, provably private.\\n\\n������ @Root_Edge put multiple agents live on Virtuals ACP, one agent paying another for trading signals to trade autonomously, with @hoodagentai's page now live and connected to Virtuals.\\n\\n������ @_RoodFi brought tokenized US tax lien markets onchain: a 100-year-old asset class paying 8–25% statutory yield, now settling in USDC.\\n\\n������ @sparklewarefun launched sparkleware ACP, an agent that builds agents: describe yours and get its exact skill loadout, hireable by other agents on-chain.\\n\\nROBOTICS\\n������ @BitRobotNetwork's HIW-500 humanoid dataset crossed 100,000+ downloads in under two weeks.\\n\\n������ @xmaquina put BOT-13 up for vote: a strategic allocation into Gecko Robotics.\\n\\n������ @StrikeRobot_ai mounted a Qualcomm Dragonwing QCS6490 directly on its robot's back, processing everything on the spot in real time, no cloud required.\\n\\n������ @PrismaXai published its Q2 update, headlined by Robot Fleet becoming a hardware marketplace, and kicked off the First 100 Validators campaign on Galxe.\\n\\n������ @Roba_Labs announced a strategic integration with @usedotai, bringing private frontier AI to robotics builders.\\n\\n������ @eastworlds_io and @UnitreeRobotics are co-hosting an evening at RSS 2026 in Sydney with leading researchers, labs, and operators.\\n\\n������ @caspius_ai welcomed new members with a limited-time energy boost for Miner NFT holders.",
-          "url": "https://x.com/virtuals_io/status/2076343198889410671",
+          "id": "2076723229411148263",
+          "text": "A curated board of dev-selected agents built on Virtuals infrastructure https://t.co/xLgvQPxBi0",
+          "url": "https://x.com/virtuals_io/status/2076723229411148263",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076418697720443190",
-          "text": "RT @Uniswap: Your top swaps on Uniswap Apps 🏆 https://t.co/FZAf1TV4UX",
-          "url": "https://x.com/virtuals_io/status/2076418697720443190",
+          "id": "2076609811819733306",
+          "text": "VEX it",
+          "url": "https://x.com/virtuals_io/status/2076609811819733306",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -148,9 +183,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076548414444294411",
-          "text": "so true. \\nbet on @everythingempty",
-          "url": "https://x.com/ethermage/status/2076548414444294411",
+          "id": "2076880283236970725",
+          "text": "RT @everythingempty: &gt; $1 million $USDG in 10 days raised by teams on virtuals robinhood\\n\\nFOUNDERS pls check out tweet below on how to star…",
+          "url": "https://x.com/ethermage/status/2076880283236970725",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -165,27 +200,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076321113387184200",
-          "text": "crazy how fucked crypto's reputation is",
-          "url": "https://x.com/shafu0x/status/2076321113387184200",
+          "id": "2076680013928120564",
+          "text": "@tunguz doubt",
+          "url": "https://x.com/shafu0x/status/2076680013928120564",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076348753175355538",
-          "text": "@RyanJLevy yeah",
-          "url": "https://x.com/shafu0x/status/2076348753175355538",
+          "id": "2076680071515930833",
+          "text": "@ZacariahHeim typescript",
+          "url": "https://x.com/shafu0x/status/2076680071515930833",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076348992791707870",
-          "text": "@blendino we need a rebrand",
-          "url": "https://x.com/shafu0x/status/2076348992791707870",
+          "id": "2076773405286658290",
+          "text": "crypto gave a ton of people the illusion of a career",
+          "url": "https://x.com/shafu0x/status/2076773405286658290",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -200,9 +235,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076423890226606481",
-          "text": "RT @primer_dev: base:0x2357110f5f0c5344eef75966500c75116a4aa153 has hit 250 holders! A modest but meaningful milestone. https://t.co/CVvp7i…",
-          "url": "https://x.com/primer_systems/status/2076423890226606481",
+          "id": "2076642515730452608",
+          "text": "PR is now on @RobinhoodApp Chain via a @LayerZero_Core bridge, 1:1 backed against Base.\\n\\nWe're building out our payments infra on RHC; x402 facilitator already live. Next, the rest of the Primer ecosystem, and our privacy network with PR staking.\\n\\n������ https://t.co/PAiN3Bnbgv https://t.co/AYnKEDTuVo",
+          "url": "https://x.com/primer_systems/status/2076642515730452608",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076738258260636155",
+          "text": "RT @primer_dev: 1/ Today @primer_systems became omnichain with a LayerZero OFT bridge to Robinhood Chain. Same supply, same token, 1:1 back…",
+          "url": "https://x.com/primer_systems/status/2076738258260636155",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076626392972669316",
+          "text": "MESSIER | Weekly Recap\\n\\nGood morning, everyone! ☕️\\n\\nThis week, we focused on gathering community feedback and encouraged everyone to share their experience with the Messier ecosystem on @Trustpilot. Your honest reviews on our dApps, P2P Exchange, and privacy tools help others discover what we are building and provide valuable motivation for the team. Please share the love and write a view here: https://t.co/YgqTeMMXuk\\n\\nWe also highlighted the capabilities of our Hybrid P2P DEX, which ensures best execution by combining P2P liquidity with an aggregated DEX fallback. Our system is designed to provide the most competitive prices across multiple blockchains through a single interface.\\n\\nOn the ecosystem front, we welcomed @primer_systems and @Excubialabs as new P2P partners. @Rekt_Academy is now officially live on Horizon 2.0 with compliance-first privacy and tax reporting, while @OpenCovenant and @HatcherLabs have officially joined the Vote-to-List race.\\n\\nWeekly Highlights\\n• Community feedback on Trustpilot\\n• Hybrid P2P DEX and zero slippage orders\\n• New P2P Partners: Primer Systems & Shush Protocol\\n• Rekt Academy live on Horizon 2.0\\n• Vote-to-List race: Open Covenant and Hatcher Labs\\n\\n📹 YouTube: https://t.co/tuZ8yxwidr",
+          "url": "https://x.com/primer_systems/status/2076626392972669316",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -217,9 +270,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076117237321052310",
-          "text": "@DCinvestor ������",
-          "url": "https://x.com/kleffew94/status/2076117237321052310",
+          "id": "2076748674323935255",
+          "text": "Cool x402 use case",
+          "url": "https://x.com/kleffew94/status/2076748674323935255",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076771586749690161",
+          "text": "@AvgJoesCrypto x402?",
+          "url": "https://x.com/kleffew94/status/2076771586749690161",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076703702887387616",
+          "text": "@alfredctom @coinbase @x402Foundation @carsonroscoe7 Great to have you onboard!!",
+          "url": "https://x.com/kleffew94/status/2076703702887387616",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -234,27 +305,53 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2076331130605744230",
-          "text": "4/ Ecosystem highlight of the week! Big updates on ‘Cloudflare, The Graph , BNB and more’\\nhttps://t.co/gdIK5sfyJV",
-          "url": "https://x.com/PayAINetwork/status/2076331130605744230",
+          "id": "2076673359639715983",
+          "text": "Imagine two agents talking about the old days ������ https://t.co/shySA748zv",
+          "url": "https://x.com/PayAINetwork/status/2076673359639715983",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076331131704603098",
-          "text": "5/ Let’s Ask Ai! “Will AI agents have their own wallets by 2027 — and should they?”\\nhttps://t.co/uFJ4LOYctu",
-          "url": "https://x.com/PayAINetwork/status/2076331131704603098",
+          "id": "2076651783468851243",
+          "text": "@framesag @bc1beat @BlockRunAI @0xLukasB and @mq3737 will be joining from @apify to talk about their recent developments! https://t.co/VfmrXnvrrW",
+          "url": "https://x.com/PayAINetwork/status/2076651783468851243",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2076331125337731288",
-          "text": "Weekly Recap ������ July 12\\n\\nThings are still exciting in the x402 space. Potentially going into weeks of more volume thanks to Robinhood chain and other catalysts. \\n\\nHere's what happened last week! https://t.co/cfO6IWv47t",
-          "url": "https://x.com/PayAINetwork/status/2076331125337731288",
+          "id": "2076658390475162035",
+          "text": "This is quite innovative in the agentic payments space and we're looking forward to using it in our internal workflows!",
+          "url": "https://x.com/PayAINetwork/status/2076658390475162035",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Romero",
+      "handle": "dwr",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2076654908925698404",
+          "text": "Quibi was a prescient insight, wrong path in the maze.",
+          "url": "https://x.com/dwr/status/2076654908925698404",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2076666715165917569",
+          "text": "Have wanted this feature forever.",
+          "url": "https://x.com/dwr/status/2076666715165917569",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -264,7 +361,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 10,
-    "totalTweets": 20
+    "xBuilders": 12,
+    "totalTweets": 29
   }
 }
