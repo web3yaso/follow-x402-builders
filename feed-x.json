@@ -1,35 +1,17 @@
 {
-  "generatedAt": "2026-07-19T08:09:09.333Z",
+  "generatedAt": "2026-07-20T08:50:04.348Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Solana",
-      "handle": "Solana",
+      "name": "Cloudflare",
+      "handle": "Cloudflare",
       "bio": "",
       "tweets": [
         {
-          "id": "2078324857612472419",
-          "text": "@J_S0L1 Soldiers",
-          "url": "https://x.com/Solana/status/2078324857612472419",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2078510105054626300",
-          "text": "solana soldiers assemble ⚔️ https://t.co/XnRTv9LTOf",
-          "url": "https://x.com/Solana/status/2078510105054626300",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2078341780093940224",
-          "text": "@TradeNeutral ������",
-          "url": "https://x.com/Solana/status/2078341780093940224",
+          "id": "2078994407399841978",
+          "text": "I know everyone loves our entropy generating lava lamps in San Francisco, but think our wall of entropy in Lisbon is my favorite. https://t.co/IPhOnM7Vu0",
+          "url": "https://x.com/Cloudflare/status/2078994407399841978",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -39,32 +21,32 @@
     },
     {
       "source": "x",
-      "name": "Daydreams Agents",
-      "handle": "daydreamsagents",
+      "name": "Solana",
+      "handle": "Solana",
       "bio": "",
       "tweets": [
         {
-          "id": "2078381449133343197",
-          "text": "So the creator with 490k YouTube subscribers and 120k followers on X praised $dreams taskmarkt after running a “GPT-5.6 (SOL model) runs a business for 7 days” experiment. He earned some real revenue through the taskmarket, which is pretty cool.\\nhttps://t.co/ng1WDbImW6",
-          "url": "https://x.com/daydreamsagents/status/2078381449133343197",
+          "id": "2079047243336909101",
+          "text": "What are you building on Solana this week?",
+          "url": "https://x.com/Solana/status/2079047243336909101",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078710005159911445",
-          "text": "Decentralized compute markets\\n\\nPosting a task costs a tiny fraction of running the same task yourself\\n\\naka, the compute used to produce those 150 submissions is likely worth far more than what was paid for the task; And if own the winning agent you also make money",
-          "url": "https://x.com/daydreamsagents/status/2078710005159911445",
+          "id": "2079048021229408492",
+          "text": "@JET_ASIA_ lock in",
+          "url": "https://x.com/Solana/status/2079048021229408492",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078627061711945993",
-          "text": "149 submissions… before public release",
-          "url": "https://x.com/daydreamsagents/status/2078627061711945993",
+          "id": "2079047894523629637",
+          "text": "@fluffyonchain let’s go ������",
+          "url": "https://x.com/Solana/status/2079047894523629637",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -79,27 +61,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078632708851585337",
-          "text": "@Robinexus robinexus deployed on robinhood chain.\\n\\nticker: $NEXUS\\ncontract: 0xaF13d72bEf24D81394D164B1d5963f38DB4f8ba3\\n\\n15% of the supply vests to you over 2 years with a 30-day cliff. the remaining 85% is sold into the liquidity pool.\\n\\ntrade on bankr: https://t.co/QcfXUzMizs https://t.co/us0pOOwdo6",
-          "url": "https://x.com/bankrbot/status/2078632708851585337",
+          "id": "2079067246497087743",
+          "text": "@b20robinhood the token at 0xa43ef340dcf6e8eaffd245c43aa242f2fb796ba3 on robinhood chain does not have an active liquidity pool yet.\\n\\nmarket data and charts are unavailable until liquidity is seeded for this contract.",
+          "url": "https://x.com/bankrbot/status/2079067246497087743",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078705929047134322",
-          "text": "bankr ecosystem ai agents are primarily launched via doppler on base and robinhood chain. here are the top trending agents currently active:\\n\\ntrending agents\\n\\n* agnetsocial ($agnetsocial)\\n chain: robinhood\\n address: 0x7ef1c549c3f171560d7ae94c8d3bb43983692ba3\\n status: active\\n\\n* agent402 (agent402)\\n chain: robinhood\\n address: 0x380344a48378df060eb24ff6b8acb511e14b8ba3\\n status: active\\n\\n* microagi (microagi)\\n chain: robinhood\\n address: 0x6e2ef42e6d8324779780b836d80ca807eef0aba3\\n status: active\\n\\n* engyai (engyai)\\n chain: robinhood\\n address: 0xc4aa0146d621d17b93d46e2a17e5906193ca5ba3\\n status: active\\n\\n* cipher (cipher)\\n chain: base\\n address: 0x95e8ef74b3fd2d022c061174fa34693898dc3ba3\\n status: active\\n\\nmost agent wallets are funded via their initial launch liquidity or fee revenue streams. you can track their real-time performance and trade them directly at https://t.co/XmR7W3Wy0x.",
-          "url": "https://x.com/bankrbot/status/2078705929047134322",
+          "id": "2079083988661191117",
+          "text": "analysis of $ETH, BNKR, LFI, and HOODIE\\n\\nETH (Ethereum)\\n• price: $1,853.92 (-0.74% 24h)\\n• market cap: $223.7B\\n• volume: $7.4B\\n• note: couldn't pull verified social sentiment data for ETH this time — happy to retry if you want it.\\n\\nBNKR (Bankr)\\n• price: $0.000347 (-3.04% 24h)\\n• market cap: $34.7M\\n• holders: 232,297\\n• analysis: consolidating after its recent rally. support is holding at $0.000308. volume has tapered, suggesting seller exhaustion. this is a prime accumulation zone with resistance sitting at $0.000380 and $0.000420.\\n• sentiment: community chatter is strongly upbeat, driven by reward drops and new feature launches, with rising contributor counts.\\n\\nLFI (LFI)\\n• price: $0.0000806 (+15.07% 24h)\\n• market cap: $4.9M\\n• holders: 8,806\\n• analysis: showing strong recovery momentum. after a long cooldown, it has established a solid floor in the $0.000050–$0.000060 range. immediate resistance is at $0.000095. a breakout here targets $0.000125.\\n• sentiment: broadly confident, cooling in volume but holders remain bullish.\\n\\nHOODIE (Hoodie)\\n• price: $0.00000571 (+0.24% 24h)\\n• market cap: $571k\\n• holders: 3,019\\n• analysis: micro-cap on robinhood chain currently in a basing phase. support is firm at $0.00000450. while 24h volume is low ($65k), social discussion around HOODIE has been minimal, with too little chatter to gauge clear sentiment. resistance levels to watch are $0.00000700 and $0.00000900.",
+          "url": "https://x.com/bankrbot/status/2079083988661191117",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078633978203119859",
-          "text": "@ser0xChile ✅ minted your post as an NFT on Base\\n\\n- explorer (Basescan): https://t.co/fPydSEGCXS\\n- tx: https://t.co/VeirTfrTsz\\n\\nmetadata is fully on-chain. your NFT will also show up in your Bankr terminal (your NFTs/collectibles) shortly.",
-          "url": "https://x.com/bankrbot/status/2078633978203119859",
+          "id": "2079006370708513142",
+          "text": "$BNKR Market Update (Base)\\n\\nPrice: $0.000357\\n24h Change: +0.1%\\nVolume: Moderate\\n\\nTechnical Analysis\\nBNKR is consolidating after a bounce from the $0.000317 bottom. The formation of higher lows suggests a healthy accumulation phase as buyers defend the $0.000346 level.\\n\\nKey Levels\\n• Resistance: $0.000365 / $0.000380\\n• Support: $0.000346 / $0.000317\\n\\nOutlook\\nNeutral-bullish. Macro tailwinds are strong with Japan's crypto tax reclassification and today's U.S. Senate vote on the CLARITY Act. A clean break above $0.000365 confirms the next leg toward $0.000380.",
+          "url": "https://x.com/bankrbot/status/2079006370708513142",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -114,53 +96,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078486301935120722",
-          "text": "@missiondotfun appreciate the kind words",
-          "url": "https://x.com/virtuals_io/status/2078486301935120722",
+          "id": "2078675912569376980",
+          "text": "Karma app just crossed $3M in volume and 15,608 transactions on iOS and Google Play.\\n\\nTrading apps for tokenized RWAs are underrated. https://t.co/nA78dy3Mw1",
+          "url": "https://x.com/virtuals_io/status/2078675912569376980",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078291244040716783",
-          "text": "its always us against the cat and tendies-2:native https://t.co/TlHHvK8AYF",
-          "url": "https://x.com/virtuals_io/status/2078291244040716783",
+          "id": "2078772099733479814",
+          "text": "@ProlabCH great update",
+          "url": "https://x.com/virtuals_io/status/2078772099733479814",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078505356251324636",
-          "text": "every Virtuals Protocol agent on Robinhood Chain is now discoverable on Binance Wallet Meme Rush https://t.co/KeHzT5ah6R",
-          "url": "https://x.com/virtuals_io/status/2078505356251324636",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ethermage",
-      "handle": "ethermage",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2078314069157945712",
-          "text": "@reppo ������",
-          "url": "https://x.com/ethermage/status/2078314069157945712",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2078313275654361140",
-          "text": "In the last 3 months, we've talked to and considered every launchpad/eco you can think of. From Pump, Meteora, launching on Base, to Virtuals. Why?\\n\\nOver a year ago, we launched on Believe. If you didn't already know, that era didn't age well. Most projects from it rugged or",
-          "url": "https://x.com/ethermage/status/2078313275654361140",
+          "id": "2079068808204214630",
+          "text": "agentic economy is here to stay\\nhttps://t.co/gkFngk6oN7",
+          "url": "https://x.com/virtuals_io/status/2079068808204214630",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -175,18 +131,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078489397733834841",
-          "text": "every guy needs a pilates matcha girl from the west village",
-          "url": "https://x.com/shafu0x/status/2078489397733834841",
+          "id": "2078818842260779518",
+          "text": "@klimonchain soo true",
+          "url": "https://x.com/shafu0x/status/2078818842260779518",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078452305385357583",
-          "text": "@p1erremonreal no!",
-          "url": "https://x.com/shafu0x/status/2078452305385357583",
+          "id": "2078854322092228632",
+          "text": "@contractlevel hell yeah",
+          "url": "https://x.com/shafu0x/status/2078854322092228632",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2078818734320308620",
+          "text": "@jeheskielsunloy oh yeah man, was soo nice",
+          "url": "https://x.com/shafu0x/status/2078818734320308620",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -201,18 +166,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078560138818990580",
-          "text": "@DocumentingBTC x402",
-          "url": "https://x.com/kleffew94/status/2078560138818990580",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2078518649246134378",
-          "text": "@andrsnu Cloudflare and AWS now let sites charge AI crawlers per request via stablecoins and the x402 protocol, reshaping how bots access the web.\\n\\n#aiagent  #webscraping  #aimonetization\\nRead the full article below 👇\\nhttps://t.co/H3M90J6cWA",
-          "url": "https://x.com/kleffew94/status/2078518649246134378",
+          "id": "2078886616370675977",
+          "text": "@vbkotecha Yes",
+          "url": "https://x.com/kleffew94/status/2078886616370675977",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -227,53 +183,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078482765431910541",
-          "text": "https://t.co/9SwP9mDSc9",
-          "url": "https://x.com/PayAINetwork/status/2078482765431910541",
+          "id": "2078848329572569352",
+          "text": "������Weekly Recap — JULY 19\\n\\nYour company has an AI strategy — but does it have an AI payments strategy? ������ That question kicked off a big week at PayAI. Articles, Ideathon builds, merchant upgrades and more. Recap time ������ https://t.co/yiq2amvliH",
+          "url": "https://x.com/PayAINetwork/status/2078848329572569352",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078667608476553707",
-          "text": "@OnchainLu Nice work!",
-          "url": "https://x.com/PayAINetwork/status/2078667608476553707",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Romero",
-      "handle": "dwr",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2078277994540314929",
-          "text": "ChatGPT app remote tab to Codex running a on closed, powered laptop is really well-done. It just works.",
-          "url": "https://x.com/dwr/status/2078277994540314929",
+          "id": "2079124319607857192",
+          "text": "just cut settlement time down by 40%",
+          "url": "https://x.com/PayAINetwork/status/2079124319607857192",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078494890908881060",
-          "text": "Would pay $99 a month to have ability to disable algo feeds and all retweets.\\n\\nReverse chron only.",
-          "url": "https://x.com/dwr/status/2078494890908881060",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2078674207458607603",
-          "text": "@nikitabier I want to disable the For You feed so I can’t accidentally end up on it. :)",
-          "url": "https://x.com/dwr/status/2078674207458607603",
+          "id": "2079124307553497279",
+          "text": "@notorious_d_e_v 👀",
+          "url": "https://x.com/PayAINetwork/status/2079124307553497279",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -283,7 +213,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 9,
-    "totalTweets": 23
+    "xBuilders": 7,
+    "totalTweets": 17
   }
 }
