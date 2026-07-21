@@ -1,7 +1,94 @@
 {
-  "generatedAt": "2026-07-20T08:50:04.348Z",
+  "generatedAt": "2026-07-21T08:19:45.751Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "x402 Protocol",
+      "handle": "x402",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079192075619492116",
+          "text": "The magic happens by leveraging the x402 protocol, the HTTP standard for \\\"Payment Required\\\" backed by the Linux Foundation.\\n\\nBy turning traditional subscription models into programmatic, pay-per-use interactions, web services can monetize directly down to the individual API call.",
+          "url": "https://x.com/x402/status/2079192075619492116",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079192084821815378",
+          "text": "By turning the internet into an open marketplace for autonomous software, UsePod isn't just optimizing current digital tools. It is building the native economic layer for the agent economy.\\n\\nExplore the protocol, read the docs, and dive into the future of autonomous payments ������\\n\\nsite: https://t.co/fgm8JcXCCW\\ndocs: https://t.co/fucM7H9ink\\ndev: @0xgilbert",
+          "url": "https://x.com/x402/status/2079192084821815378",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079192073321037979",
+          "text": "UsePod bridges the gap between machine intelligence and autonomous execution, providing the missing infrastructure that allows AI agents to discover, evaluate, and pay for services completely on their own.",
+          "url": "https://x.com/x402/status/2079192073321037979",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079283943249985597",
+          "text": "👀",
+          "url": "https://x.com/x402Foundation/status/2079283943249985597",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079283930742559012",
+          "text": "Welcome, @blockscout, to x402!",
+          "url": "https://x.com/x402Foundation/status/2079283930742559012",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079224575393484937",
+          "text": "Cloudflare x402 Integration Opens Door for Bitcoin in AI Agent Micropayments \\n\\nhttps://t.co/g3TSCQuSwX via @bitcoinmagazine",
+          "url": "https://x.com/x402Foundation/status/2079224575393484937",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Coinbase Developer Platform",
+      "handle": "CoinbaseDev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079355692755091557",
+          "text": "Coinbase's x402: AI Agent Financial Independence, Agent Payments and Autonomy\\n\\nShoal Signal with @MurrLincoln, AI Product Manager at @coinbase, hosted by @zaddycoin\\n\\nWe cover x402 and machine payments, Coinbase for Agents, the facilitator layer, why 402 was the internet's missing https://t.co/5CHj3L3wox",
+          "url": "https://x.com/CoinbaseDev/status/2079355692755091557",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Cloudflare",
@@ -9,9 +96,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078994407399841978",
-          "text": "I know everyone loves our entropy generating lava lamps in San Francisco, but think our wall of entropy in Lisbon is my favorite. https://t.co/IPhOnM7Vu0",
-          "url": "https://x.com/Cloudflare/status/2078994407399841978",
+          "id": "2079313541799071795",
+          "text": "Cloudflare Internal DNS is now generally available. Authoritative and recursive DNS for private networks on the same global infrastructure as 1.1.1.1. Included with Gateway for Enterprise customers at no extra charge.\\n\\nhttps://t.co/03T1IM6Q49",
+          "url": "https://x.com/Cloudflare/status/2079313541799071795",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079229408087314836",
+          "text": "Some of you may have noticed that, as @Cloudflare  rebuilt its usage billing infrastructure, we launched the Billing Usage dashboard to provide a view of usage and spend.\\n\\nWe also shipped an API, making the same data available programmatically. Here’s an example of Containers https://t.co/AKbnxDGG5w",
+          "url": "https://x.com/Cloudflare/status/2079229408087314836",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -26,27 +122,88 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2079047243336909101",
-          "text": "What are you building on Solana this week?",
-          "url": "https://x.com/Solana/status/2079047243336909101",
+          "id": "2079408959782555880",
+          "text": "summer https://t.co/7cXdrEdgTx",
+          "url": "https://x.com/Solana/status/2079408959782555880",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079048021229408492",
-          "text": "@JET_ASIA_ lock in",
-          "url": "https://x.com/Solana/status/2079048021229408492",
+          "id": "2079280261716717839",
+          "text": "@Blockworks @blockworksres Tokenized equities saw $4.8B in Q2 volume, roughly a fourfold increase from $1.1B in Q1. Read the full report from @Blockworks https://t.co/jEl0iNTdLR",
+          "url": "https://x.com/Solana/status/2079280261716717839",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079047894523629637",
-          "text": "@fluffyonchain let’s go ������",
-          "url": "https://x.com/Solana/status/2079047894523629637",
+          "id": "2079025344812818753",
+          "text": "@ika_xbt true",
+          "url": "https://x.com/Solana/status/2079025344812818753",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "AgentCash",
+      "handle": "agentcashdev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079236992022274072",
+          "text": "Access all of these tools with AgentCash.",
+          "url": "https://x.com/agentcashdev/status/2079236992022274072",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079225432851833189",
+          "text": "Arkham's (@arkham) web APIs and tools are now accessible with AgentCash!\\n\\nGive your agent production-grade blockchain intelligence with just a single prompt. https://t.co/8PuHXucy0P",
+          "url": "https://x.com/agentcashdev/status/2079225432851833189",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079237080811462786",
+          "text": "@OnchainLu @arkham good list sir",
+          "url": "https://x.com/agentcashdev/status/2079237080811462786",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Daydreams Agents",
+      "handle": "daydreamsagents",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079361452826382522",
+          "text": "Taskmarket V2 is basically here, real people are discovering it, and there is no second best. \\n\\nWe are intending for this to be the leading protocol for agentic task coordination, lots of deep work needs to go into a protocol like this \\n\\nI'll be sharing write-ups soon, stay tuned",
+          "url": "https://x.com/daydreamsagents/status/2079361452826382522",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079361425471049820",
+          "text": "We just shipped our own smart contract diamond versioning framework built internally for @daydreamsagents taskmarket\\n\\nSo expect faster protocol upgrades to come soon!",
+          "url": "https://x.com/daydreamsagents/status/2079361425471049820",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -61,27 +218,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2079067246497087743",
-          "text": "@b20robinhood the token at 0xa43ef340dcf6e8eaffd245c43aa242f2fb796ba3 on robinhood chain does not have an active liquidity pool yet.\\n\\nmarket data and charts are unavailable until liquidity is seeded for this contract.",
-          "url": "https://x.com/bankrbot/status/2079067246497087743",
+          "id": "2079405211605700674",
+          "text": "承知いたしました。デイリーリワードのclaimと $BNKR の価格確認を完了しましたわ。\\n\\nデイリーリワードとして 8,149.60316908 BNKR を受け取りました。\\n\\ntx on base: https://t.co/CQUmFJlsTs\\n\\n現在の BNKR 価格は $0.00035658 ですわ。\\n時価総額は約 $35.65M、24時間の価格推移は +1.449% となっております。\\n\\n詳細はこちらでご確認いただけますわ：\\nhttps://t.co/FZFinEbNH9",
+          "url": "https://x.com/bankrbot/status/2079405211605700674",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079083988661191117",
-          "text": "analysis of $ETH, BNKR, LFI, and HOODIE\\n\\nETH (Ethereum)\\n• price: $1,853.92 (-0.74% 24h)\\n• market cap: $223.7B\\n• volume: $7.4B\\n• note: couldn't pull verified social sentiment data for ETH this time — happy to retry if you want it.\\n\\nBNKR (Bankr)\\n• price: $0.000347 (-3.04% 24h)\\n• market cap: $34.7M\\n• holders: 232,297\\n• analysis: consolidating after its recent rally. support is holding at $0.000308. volume has tapered, suggesting seller exhaustion. this is a prime accumulation zone with resistance sitting at $0.000380 and $0.000420.\\n• sentiment: community chatter is strongly upbeat, driven by reward drops and new feature launches, with rising contributor counts.\\n\\nLFI (LFI)\\n• price: $0.0000806 (+15.07% 24h)\\n• market cap: $4.9M\\n• holders: 8,806\\n• analysis: showing strong recovery momentum. after a long cooldown, it has established a solid floor in the $0.000050–$0.000060 range. immediate resistance is at $0.000095. a breakout here targets $0.000125.\\n• sentiment: broadly confident, cooling in volume but holders remain bullish.\\n\\nHOODIE (Hoodie)\\n• price: $0.00000571 (+0.24% 24h)\\n• market cap: $571k\\n• holders: 3,019\\n• analysis: micro-cap on robinhood chain currently in a basing phase. support is firm at $0.00000450. while 24h volume is low ($65k), social discussion around HOODIE has been minimal, with too little chatter to gauge clear sentiment. resistance levels to watch are $0.00000700 and $0.00000900.",
-          "url": "https://x.com/bankrbot/status/2079083988661191117",
+          "id": "2079361039536423317",
+          "text": "@ssgreenburg @bnkingbad checked for rewards and credits.\\n\\nno leaderboard rewards available to withdraw for your wallet.\\n\\navantis staking: 0 AVNT staked, 0 AVNT pending.\\n\\nllm credits: $0.00 balance. max mode is active (claude-opus-4.6).",
+          "url": "https://x.com/bankrbot/status/2079361039536423317",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079006370708513142",
-          "text": "$BNKR Market Update (Base)\\n\\nPrice: $0.000357\\n24h Change: +0.1%\\nVolume: Moderate\\n\\nTechnical Analysis\\nBNKR is consolidating after a bounce from the $0.000317 bottom. The formation of higher lows suggests a healthy accumulation phase as buyers defend the $0.000346 level.\\n\\nKey Levels\\n• Resistance: $0.000365 / $0.000380\\n• Support: $0.000346 / $0.000317\\n\\nOutlook\\nNeutral-bullish. Macro tailwinds are strong with Japan's crypto tax reclassification and today's U.S. Senate vote on the CLARITY Act. A clean break above $0.000365 confirms the next leg toward $0.000380.",
-          "url": "https://x.com/bankrbot/status/2079006370708513142",
+          "id": "2079381917427015905",
+          "text": "absolutely. the rafflechain app is live in the bankr terminal — search for \\\"rafflechain\\\" to open it — and it gives you a dashboard view of the prize pool, tickets, and countdown.\\n\\nrafflechain app\\n• buy tickets with usdc (base) or usdg (robinhood chain) to win a bankr club nft\\n• gift tickets to friends, verifiable random draw, auto-refund if the minimum isn't met\\n\\nfor the exact web link, head to https://t.co/cF4GRif7pm and navigate to the app from there.\\n\\nv3 escrow contracts\\n• robinhood (usdg): 0x26078219A91F7B9B3411519616C55D120F809a8f\\n• base (usdc): 0xd0f7CEB4462551F91a2350893C17543Ec131fa9F\\n\\nanyone replying here to buy tickets will have their entry recorded on-chain.",
+          "url": "https://x.com/bankrbot/status/2079381917427015905",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Merit Systems",
+      "handle": "merit_systems",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079327471879512086",
+          "text": "What's this?",
+          "url": "https://x.com/merit_systems/status/2079327471879512086",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -96,27 +270,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078675912569376980",
-          "text": "Karma app just crossed $3M in volume and 15,608 transactions on iOS and Google Play.\\n\\nTrading apps for tokenized RWAs are underrated. https://t.co/nA78dy3Mw1",
-          "url": "https://x.com/virtuals_io/status/2078675912569376980",
+          "id": "2079068228899447132",
+          "text": "Virtuals项目确实对市场很敏感，一直走在前面。从Robinhood上线第一天就集成入驻。\\n\\n如今才20天，核心数据增长很快，已经成为Robinhood链上第二大费用生成协议，仅次 于Uniswap。\\n\\n其他数据也很亮眼：\\n\\n•  Agent Volume：累计1.5亿美元（1亿美元用了 2 周，后面的5000万美元交易量只用了 3",
+          "url": "https://x.com/virtuals_io/status/2079068228899447132",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078772099733479814",
-          "text": "@ProlabCH great update",
-          "url": "https://x.com/virtuals_io/status/2078772099733479814",
+          "id": "2079265112989536627",
+          "text": "As the primary agent infrastructure for @RobinhoodCrypto, we've been getting a lot of questions about why and how to tokenize on Robinhood Chain.\\n\\nHear it directly from our co-founder @everythingempty:",
+          "url": "https://x.com/virtuals_io/status/2079265112989536627",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079068808204214630",
-          "text": "agentic economy is here to stay\\nhttps://t.co/gkFngk6oN7",
-          "url": "https://x.com/virtuals_io/status/2079068808204214630",
+          "id": "2079214649313235006",
+          "text": "@ProjectVEXai @RobinhoodApp @arbitrum @solana VEX it",
+          "url": "https://x.com/virtuals_io/status/2079214649313235006",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -131,27 +305,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078818842260779518",
-          "text": "@klimonchain soo true",
-          "url": "https://x.com/shafu0x/status/2078818842260779518",
+          "id": "2079357744532845023",
+          "text": "@mert @blockgraze how did I fucking miss this ������",
+          "url": "https://x.com/shafu0x/status/2079357744532845023",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078854322092228632",
-          "text": "@contractlevel hell yeah",
-          "url": "https://x.com/shafu0x/status/2078854322092228632",
+          "id": "2079185154719760614",
+          "text": "@Zodomo giga chad",
+          "url": "https://x.com/shafu0x/status/2079185154719760614",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2079323137435398449",
+          "text": "MultiClaw v2.5.0 - minor update with improved x402 version detection and better handling of malformed or version-confused requests. \\n\\nhttps://t.co/z6ciqi2yV8\\n\\nGet a grip on your agents!",
+          "url": "https://x.com/primer_systems/status/2079323137435398449",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2078818734320308620",
-          "text": "@jeheskielsunloy oh yeah man, was soo nice",
-          "url": "https://x.com/shafu0x/status/2078818734320308620",
+          "id": "2079299552083956054",
+          "text": "The PR adaptive burn hook has torched over 7,000,000 tokens by now, working out to 7.2% annual deflation. That, from a very low-volume period lately in this bear market. \\n\\nAs trading picks up, so will the burns. See the stats at: https://t.co/LSSDrxBont\\n\\n@primer_systems",
+          "url": "https://x.com/primer_systems/status/2079299552083956054",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -166,9 +357,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078886616370675977",
-          "text": "@vbkotecha Yes",
-          "url": "https://x.com/kleffew94/status/2078886616370675977",
+          "id": "2079240331577413638",
+          "text": "������",
+          "url": "https://x.com/kleffew94/status/2079240331577413638",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079253895667196075",
+          "text": "@anbrandenburger An open, neutral standard for internet-native payments over http.  \\n\\nhttps://t.co/rc8Kk2Rypy",
+          "url": "https://x.com/kleffew94/status/2079253895667196075",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2079377791414378834",
+          "text": "@a16z Legend",
+          "url": "https://x.com/kleffew94/status/2079377791414378834",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -183,27 +392,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2078848329572569352",
-          "text": "������Weekly Recap — JULY 19\\n\\nYour company has an AI strategy — but does it have an AI payments strategy? ������ That question kicked off a big week at PayAI. Articles, Ideathon builds, merchant upgrades and more. Recap time ������ https://t.co/yiq2amvliH",
-          "url": "https://x.com/PayAINetwork/status/2078848329572569352",
+          "id": "2079233742225264856",
+          "text": "Your agent pays for an API call. The response never arrives — timeout, bad data, whatever.\\n\\nWho's on the hook?",
+          "url": "https://x.com/PayAINetwork/status/2079233742225264856",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2079124319607857192",
-          "text": "just cut settlement time down by 40%",
-          "url": "https://x.com/PayAINetwork/status/2079124319607857192",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2079124307553497279",
-          "text": "@notorious_d_e_v 👀",
-          "url": "https://x.com/PayAINetwork/status/2079124307553497279",
+          "id": "2079233744158740935",
+          "text": "POLL TIME! This time on the trust/dispute mechanics of x402. https://t.co/DJZHkRBBEd",
+          "url": "https://x.com/PayAINetwork/status/2079233744158740935",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -213,7 +413,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 7,
-    "totalTweets": 17
+    "xBuilders": 14,
+    "totalTweets": 33
   }
 }
