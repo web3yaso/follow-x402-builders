@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-07-23T08:23:28.581Z",
+  "generatedAt": "2026-07-24T08:18:48.722Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Robinhood CEO: &#34;Gen Z Is the Most Retirement-Savvy Generation Ever&#34; | Vlad Tenev",
-      "guid": "046bff50-44aa-4627-bf24-a72dedde58ab",
+      "title": "Venice is Here to Win: How a Private AI Company Plans to Take On OpenAI and Anthropic",
+      "guid": "flightcast:01KTK869EDNMY8R7JY3KQK5QW6",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-03-16T10:36:00.000Z",
-      "description": "The next great battle in finance may not be over stocks, crypto, or even payments. It may be over where the $90 trillion great wealth transfer actually lands. In this episode, Robinhood founder and CEO Vlad Tenev returns to Bankless for a fast-moving conversation on how Robinhood wants to position itself for that generational handoff, why he believes 24/7 markets and tokenization are inevitable, and why the popular narrative around Gen Z as financially reckless misses what he’s seeing on-platform. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🪐GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/galaxy-podcast 🏅BITGET TRADFI | TRADE GOLD WITH USDT https://bankless.cc/bitget 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 🐇MEGAETH | 1ST REAL-TIME BLOCKCHAIN https://bankless.cc/megaeth --- TIMESTAMPS 0:00 The $70–90T Wealth Transfer and Robinhood&#39;s Strategy 4:01 Finance in 2040: 24/7 Markets Everywhere 6:06 Tokenized Stocks, Robinhood Chain, and the U.S. Rollout Question 11:22 Robinhood&#39;s Full-Stack DeFi Vision 14:31 Prediction Markets as “Truth Machines” 17:06 Robinhood Social, Sherwood Media, and the Content Layer 21:44 Why “Entertainment Finance” Might Be Overstated 25:03 Gen Z Is More Retirement-Savvy Than You Think 30:54 Trump Accounts and Investing From Birth 36:21 The Financial Super App Race 39:30 Why Robinhood Is Not Prioritizing Peer-to-Peer Payments 42:22 Stablecoins, Bank Charters, and Consumer Reality 49:30 The Clarity Act, Stablecoin Yield, and Tokenized Assets 55:16 Perps Could Come Onshore Fast 57:12 Retail Access to Private Markets 1:00:52 Robinhood&#39;s Third Act: Social, AI, and Agentic Finance --- RESOURCES Vlad Tenev https://x.com/vladtenev --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-06-08T10:40:00.000Z",
+      "description": "AI is quickly becoming the interface through which people think, work, and make decisions—but most users have no idea how much personal data they&#39;re handing over in the process. Jon and Jesse from Venice join David to make the case for privacy-first AI, explain why Venice is aiming to become a mainstream consumer AI brand, and explore how $VVV and DIEM transform inference into a crypto-economic primitive. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 1:12 Why Private AI Matters 3:01 The AI Data Honeypot 6:07 Venice’s Consumer AI Ambition 8:01 Beating the Big AI Labs 10:19 Model Aggregation and Agentic Chat 12:29 Open Source, Closed Source, and Private Grok 17:14 Who Actually Needs Private AI? 21:58 Venice’s User Base 23:53 What Drove Venice’s Recent Growth 27:21 $VVV, DIEM, and Tokenized Inference 29:00 Where Venice Gets Its Compute 32:17 Bonding Curves and DIEM Monetary Policy 39:14 Real Tokenomics, Not Just a Pie Chart 45:46 AI Agents Need Inference to Exist 52:54 ShapeShift DNA Inside Venice 55:53 Regulation, AI, and Individual Rights --- RESOURCES Jon ShapeShift https://x.com/JonShapeShift Jesse Proudman https://x.com/jesseproudman --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+    },
+    {
+      "source": "podcast",
+      "name": "Tokenized",
+      "title": "Why Ramp Is All in on Stablecoins",
+      "guid": "a90d3bb0-e828-406e-9fcf-4ccc51826bb1",
+      "url": "https://tokenized.simplecast.com/episodes/why-ramp-is-all-in-on-stablecoins-idQwBXJw",
+      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
+      "publishedAt": "2026-07-23T15:00:00.000Z",
+      "description": "On Ep. 8 of Stablecoin Stories, Simon Taylor, Head of Market Development @ Tempo and Ran Goldi, SVP Payments, Fireblocks are joined by Alex Bazhenov, Senior Staff Software Engineer @ Ramp and Andrew Chapello, Product Lead @ Ramp to discuss customer demand for faster, cheaper global business payments driving stablecoin adoption strategy, integrating blockchain payments with legacy fiat ledger infrastructure and more! Timestamps: 00:00 Introduction 5:00 Customer demand for faster, cheaper global business payments drives stablecoin adoption strategy 10:09 How Ramp’s spend management, bill pay, banking, and stablecoin products connect 15:10 Customer adoption, product feedback, and making stablecoin accounts invisible to users 17:36 Engineering challenges integrating blockchain payments with legacy fiat ledger infrastructure 23:25 Ramp’s long-term monetization strategy and eliminating on-ramp, off-ramp, and gas fees 33:17 How AI agents automate finance operations and increase productivity across Ramp teams 47:37 Why Ramp believes stablecoins will become bigger than Swift for global payments Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Fireblocks With over $100 billion in monthly stablecoin volume, Fireblocks powers stablecoin strategies at scale with infrastructure that enables PSPs, fintechs, remitters and banks to issue, move, hold, and manage stablecoins. And it’s all done securely, at scale, and with built-in compliance. Learn more at fireblocks.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! Music by Henry McLean"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
