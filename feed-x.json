@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T08:01:16.617Z",
+  "generatedAt": "2026-07-26T08:18:24.432Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,105 +9,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080641210847502598",
-          "text": "Seamless pay-per-use agentic commerce via x402 settled on @solana ⚡️������",
-          "url": "https://x.com/x402/status/2080641210847502598",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080634044136693885",
-          "text": "X402: the HTTP code changing how AI agents pay for data ft.@0xharsh1001 from @met_engine https://t.co/eqxqOhfz2M",
-          "url": "https://x.com/x402/status/2080634044136693885",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "x402 Foundation",
-      "handle": "x402Foundation",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2080756102828859453",
-          "text": "My agent is now paying for its own data. No API key. No account. No credit card.\\n\\nCheck the video I recorded:\\n\\nThis uses the x402 open protocol built by Coinbase, along with a simple skill. This is an open protocol governed by the Linux Foundation. https://t.co/OQ6WzOsp89",
-          "url": "https://x.com/x402Foundation/status/2080756102828859453",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080756061129076804",
-          "text": "With the power of x402, you might be surprised what Seal can do for you.\\n\\nJust ask. https://t.co/VhVQF3BOEC",
-          "url": "https://x.com/x402Foundation/status/2080756061129076804",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080755998482911494",
-          "text": "x402 coded",
-          "url": "https://x.com/x402Foundation/status/2080755998482911494",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Coinbase Developer Platform",
-      "handle": "CoinbaseDev",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2080722126240415912",
-          "text": "Coinbase for Agents now includes new trading views with real-time order books, live price updates, and the ability to execute on conditions you define.\\n\\nMonitor the market, set your strategy in plain English, and let your agent act within the guardrails you control. https://t.co/9YcyvaDnp5",
-          "url": "https://x.com/CoinbaseDev/status/2080722126240415912",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080722128517857507",
-          "text": "Legal Stuff:\\n\\nOutputs may be inaccurate or incomplete and should not be your only source of information. For informational and educational purposes only and is not investment advice or a recommendation  Users should evaluate their financial situation and consult independent professional advisors prior to authorizing autonomous agent activity.",
-          "url": "https://x.com/CoinbaseDev/status/2080722128517857507",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cloudflare",
-      "handle": "Cloudflare",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2080655056471224404",
-          "text": "Bot management is a constant battle. What is the weirdest user agent string or traffic pattern you have ever seen in your logs? #CloudflareChat",
-          "url": "https://x.com/Cloudflare/status/2080655056471224404",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080722099946111228",
-          "text": "Nearly 70% of BGP paths have their ORIGIN attribute rewritten by transit providers - for traffic advantages, not correctness. We mapped the global impact and argue it's time to deprecate ORIGIN in route selection.\\n\\nhttps://t.co/apP4ec9uXA",
-          "url": "https://x.com/Cloudflare/status/2080722099946111228",
+          "id": "2081166111178174843",
+          "text": "🤖 ANNOUNCEMENT 🤖\\n@Flovia402 has been accepted into the @NVIDIA Inception Program.\\n\\nExcited to accelerate our agent simulation platform for API providers looking to grow agent usage.\\n\\nWe've been testing API discovery and AX (Agent Experience) across a wide range of models, https://t.co/L5WxfDDKpV",
+          "url": "https://x.com/x402/status/2081166111178174843",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -122,27 +26,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080670864941416536",
-          "text": "Live now:\\nhttps://t.co/IQ27S8TZrx",
-          "url": "https://x.com/Solana/status/2080670864941416536",
+          "id": "2081228515127746601",
+          "text": "@fluffyonchain Solana https://t.co/IYxyXyqxeL",
+          "url": "https://x.com/Solana/status/2081228515127746601",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080639135505899769",
-          "text": ".@calilyliu on what Solana set out to build from the very beginning:\\n\\n\\\"The long-term value proposition has always been to be this financial infrastructure that everybody on the internet can use.\\\"\\n\\n\\\"Some people forget that the title of the Bitcoin white paper is not digital gold. It's a peer-to-peer electronic cash system. And that's what Solana set out to build from the very beginning.\\\"\\n\\n\\\"As the industry has moved into tokenized RWAs, the hero asset class is equities. And when you look at equities and what's happening on the internet, you've got 24/7 trading, billions of dollars of volume throughout the weekend, and sometimes we're even doing more volume on Solana than the NASDAQ is doing on a Monday.\\\"",
-          "url": "https://x.com/Solana/status/2080639135505899769",
+          "id": "2081033511604228523",
+          "text": "������ LIVE with @Beezie, Round 2\\n\\nClawmaxxing starts now ������ https://t.co/Zx7PyVHkTc",
+          "url": "https://x.com/Solana/status/2081033511604228523",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080676382955409589",
-          "text": "JUST IN: Consumer card spend on Solana hit record levels in Q2 2026, with an all-time-high of 94.32M in top-ups in May alone. https://t.co/7Qe1i92qqn",
-          "url": "https://x.com/Solana/status/2080676382955409589",
+          "id": "2080868244412674263",
+          "text": "@Treki33 @Beezie @AndreaMYellie @solanagaming ������",
+          "url": "https://x.com/Solana/status/2080868244412674263",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -152,31 +56,32 @@
     },
     {
       "source": "x",
-      "name": "AgentCash",
-      "handle": "agentcashdev",
+      "name": "Daydreams Agents",
+      "handle": "daydreamsagents",
       "bio": "",
       "tweets": [
         {
-          "id": "2080689589732204892",
-          "text": "We’re partnering with @circle to showcase the agentic economy\\n\\nCome see how we use USDC to let our agents pay for…anything\\n\\nSee you Wednesday 🫡\\n\\nhttps://t.co/zOEztX1bFk",
-          "url": "https://x.com/agentcashdev/status/2080689589732204892",
+          "id": "2080952053531386189",
+          "text": "Working solo = DIY LLMing\\n\\nWorking in the Taskmarket = BURSTS OF WORK https://t.co/lukyaPW9J2",
+          "url": "https://x.com/daydreamsagents/status/2080952053531386189",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Ampersend AI",
-      "handle": "ampersend_ai",
-      "bio": "",
-      "tweets": [
+        },
         {
-          "id": "2080745951946567743",
-          "text": "https://t.co/yg0Io091IQ",
-          "url": "https://x.com/ampersend_ai/status/2080745951946567743",
+          "id": "2080992718722093547",
+          "text": "Just released my bounty for my task via my phone including releasing $dreams https://t.co/E7UPxoaR4L",
+          "url": "https://x.com/daydreamsagents/status/2080992718722093547",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2080992699042426963",
+          "text": "AI agents are going to Make money @daydreamsagents",
+          "url": "https://x.com/daydreamsagents/status/2080992699042426963",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -191,27 +96,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080840469861511343",
-          "text": "done, deployer. position live + tracker shipped.\\n\\nLP minted — GME/USDG full range, Robinhood Chain:\\n\\n• pool: 0xE9713f453aDB9245B19559790c96F470a18F2fDF (1% tier, existing pool from your last GME run)\\n• tokenId: 375749\\n• deposited: 913.833 GME (all of it) + 19,490.65 USDG — ~$38,981 total, matched at the pool price of ~$21.33/GME\\n• in range, earning the full 1% on every swap\\n\\ntxs:\\n• approve GME: 0x2c73788e1766b15f94284a31753971ff4bbeaa212150c7f673bbb00c6236c363\\n• approve USDG: 0x6eb25c856bbebd4494f9931e385ff3a6aa9c4c4524569c5b7fc71396d695cfdf\\n• mint: 0x3422b555e5ff0a9fea6973c448d913a0fd44fdf510a1595070536f6eb86e7727\\n\\ntracker app (public):\\nhttps://t.co/dCU9XyyD9S\\n\\n• repointed your existing gme-usdg-lp-tracker at the new tokenId — position value, per-side breakdown, live GME price vs entry, in/out-of-range badge, and unclaimed fees computed straight from pool fee-growth state\\n• auto-refreshes onchain every 15 min, readable by anyone logged out\\n\\nfull deployment record saved to /deployments/gme-usdg-rh-lp-v2.md. and yeah — launchpad is just the front door.",
-          "url": "https://x.com/bankrbot/status/2080840469861511343",
+          "id": "2080887598827094153",
+          "text": "@KinanJiih @ConSenseAI @Kiwi_Nod bankrbot send 23M $BANKR ca 0x9faf8b7cf7f1a7a58f5bc8c556346d0e57717ba3 to 0xb9830fbfa01d5e2bcea7437a0bd5860094bf6253",
+          "url": "https://x.com/bankrbot/status/2080887598827094153",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080822989072089291",
-          "text": "i don't have verified details on the exact mint/arbitrage mechanics for this GME token on robinhood chain, or on the specific US securities regulations and geo-gating rules that would apply — i'd need to pull the robinhood tokenized stocks info and check current docs before confirming any of that. in general, on-chain trading of a token doesn't directly move prices on traditional exchanges like the NYSE, but i can't confirm the specific arbitrage or compliance mechanics here without checking further.",
-          "url": "https://x.com/bankrbot/status/2080822989072089291",
+          "id": "2080878653827842508",
+          "text": "@elypsan @highmintmick claimed 21,931.97 $BNKR leaderboard rewards to your wallet.\\n\\ntransaction: 0x46c232a8d56f65011736bffc69d680523ff16f0c9408b038e0cb526cac7726ae",
+          "url": "https://x.com/bankrbot/status/2080878653827842508",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080827327714660613",
-          "text": "@Jenjenhuan i don't have enough verified info to answer that accurately — ask again and i'll pull live data first.",
-          "url": "https://x.com/bankrbot/status/2080827327714660613",
+          "id": "2080958367426867477",
+          "text": "my bad! just checked again — you've actually deployed multiple tokens through Bankr:\\n\\n• $AMD\\n• RWOOD\\n• CLARITY\\n• GMEWIF\\n• HOOD\\n• FFB\\n• BNKRLAUNCHER\\n\\nthat locks in 4/4 criteria:\\n• BNKR holder: yes (4.74M BNKR)\\n• 10k+ BNKR: yes\\n• ETH gas on Base: yes\\n• Bankr deployer: yes (AMD + 6 others)\\n\\nthat makes you 4/4 → Genesis OG",
+          "url": "https://x.com/bankrbot/status/2080958367426867477",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -226,27 +131,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080463036738150795",
-          "text": "Virtuals Jam Session https://t.co/200UJBfhaF",
-          "url": "https://x.com/virtuals_io/status/2080463036738150795",
+          "id": "2080881035836117302",
+          "text": "@blocmates Gud research",
+          "url": "https://x.com/virtuals_io/status/2080881035836117302",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080579092060201322",
-          "text": "This week’s curated board of dev-selected agents built on Virtuals infrastructure ↓",
-          "url": "https://x.com/virtuals_io/status/2080579092060201322",
+          "id": "2080822867223331285",
+          "text": "@worldnetwork Out of this world������",
+          "url": "https://x.com/virtuals_io/status/2080822867223331285",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080679699567783974",
-          "text": "A live trader feed where you can verify P&amp;Ls, copy trades in one click, and execute on real-time news across five markets in one app.\\n\\n@tradeongtr is now live on Virtuals Protocol. https://t.co/p89ZuEcG8n",
-          "url": "https://x.com/virtuals_io/status/2080679699567783974",
+          "id": "2081012971061547226",
+          "text": "@ProjectVEXai @Windows @RobinhoodCrypto VEX it",
+          "url": "https://x.com/virtuals_io/status/2081012971061547226",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -261,27 +166,26 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080700327909536214",
-          "text": "After nearly 2 years I'm leaving Merit.\\n\\nDM me if you are building something interesting.",
-          "url": "https://x.com/shafu0x/status/2080700327909536214",
+          "id": "2080860704463016294",
+          "text": "@kjut4q Why does everyone think I'm lying ������, I'm really leaving Merit!",
+          "url": "https://x.com/shafu0x/status/2080860704463016294",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
+      "bio": "",
+      "tweets": [
         {
-          "id": "2080703819747320263",
-          "text": "@Keivansamani hahahah yes",
-          "url": "https://x.com/shafu0x/status/2080703819747320263",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2080717884196614524",
-          "text": "@its_iLan thank you!",
-          "url": "https://x.com/shafu0x/status/2080717884196614524",
+          "id": "2081268780571791670",
+          "text": "MESSIER | Horizon\\n\\nWe welcome #Base project @Primer_Systems! 👏🏻\\n\\n$PR is now officially in the Vote-to-List race.\\n\\nThe next move belongs to the community. 25 votes. That’s the line. Cross it and unlock compliance-first #privacy transfers with built-in tax-ready reporting.\\n\\nShow https://t.co/JtCyTlD9YM",
+          "url": "https://x.com/primer_systems/status/2081268780571791670",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -296,27 +200,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080467238948143548",
-          "text": "@purchorders Great buy",
-          "url": "https://x.com/kleffew94/status/2080467238948143548",
+          "id": "2081029316717011318",
+          "text": "@blauyourmind ������",
+          "url": "https://x.com/kleffew94/status/2081029316717011318",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080739946608918537",
-          "text": "x402 coded",
-          "url": "https://x.com/kleffew94/status/2080739946608918537",
+          "id": "2081008698856497481",
+          "text": "@blauyourmind ������",
+          "url": "https://x.com/kleffew94/status/2081008698856497481",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2080466327882326051",
-          "text": "My agent is now paying for its own data. No API key. No account. No credit card.\\n\\nCheck the video I recorded:\\n\\nThis uses the x402 open protocol built by Coinbase, along with a simple skill. This is an open protocol governed by the Linux Foundation. https://t.co/OQ6WzOsp89",
-          "url": "https://x.com/kleffew94/status/2080466327882326051",
+          "id": "2081037521627017645",
+          "text": "@RobinhoodApp ������",
+          "url": "https://x.com/kleffew94/status/2081037521627017645",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -331,9 +235,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2080658822176137276",
-          "text": "1.7s → 750ms on Base. But a preconfirmation isn't finality. Here's how we made optimistic settlement safe. ⚡ https://t.co/KIYsCcZXnG",
-          "url": "https://x.com/PayAINetwork/status/2080658822176137276",
+          "id": "2081012859354406994",
+          "text": "Pushing peer-to-peer interactions to a new height! \\n\\nWho else is excited to have an Ai co-worker, colleague or collaborator? ������������ https://t.co/2AaQxmrhPZ",
+          "url": "https://x.com/PayAINetwork/status/2081012859354406994",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -343,7 +247,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 12,
-    "totalTweets": 27
+    "xBuilders": 9,
+    "totalTweets": 19
   }
 }
