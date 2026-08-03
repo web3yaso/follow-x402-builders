@@ -1,42 +1,7 @@
 {
-  "generatedAt": "2026-08-02T08:16:08.879Z",
+  "generatedAt": "2026-08-03T09:35:58.933Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Erik Reppel",
-      "handle": "programmer",
-      "bio": "",
-      "tweets": [
-        {
-          "id": "2083643372707987787",
-          "text": "@artman What is currently better? It does feel like a local maxima but also is clearly better than 1 PR",
-          "url": "https://x.com/programmer/status/2083643372707987787",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2083635559042539581",
-          "text": "Stacked diffs are now more useful than ever. Far easier to review LLM code if it’s broken into stacked diffs.",
-          "url": "https://x.com/programmer/status/2083635559042539581",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2083583753570693258",
-          "text": "@sameenkarim @bilaltwovec @github Great launch congrats! Web app performance seems better in stacks than it did before!",
-          "url": "https://x.com/programmer/status/2083583753570693258",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Cloudflare",
@@ -44,9 +9,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083642251243119023",
-          "text": "We’re honored to be named a Visionary in the Gartner® Magic Quadrant™ for SASE Platforms report for the second consecutive year! To us, this placement validates our commitment to an organically built, composable architecture. https://t.co/ruLptaqGyN https://t.co/BaVCFrXtku",
-          "url": "https://x.com/Cloudflare/status/2083642251243119023",
+          "id": "2083947187457667276",
+          "text": "Welcome to Agents Week, when we explore how cloud infrastructure must evolve to serve autonomous agents rather than human browsers. Join us as we unpack the storage, execution, and security primitives needed for an agent-native web. https://t.co/Gq6nMk04QP #AgentsWeek",
+          "url": "https://x.com/Cloudflare/status/2083947187457667276",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084190872875192432",
+          "text": "Accelerate AI. 🤖 Not the chaos that comes with it. Safely adopt AI with the agile SASE platform. https://t.co/u9HKAOZxu1 https://t.co/AahjdzNfHb",
+          "url": "https://x.com/Cloudflare/status/2084190872875192432",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -61,27 +35,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083436175596097725",
-          "text": "Claynosaurz started as digital collectibles on Solana. Now the plan is to become a global franchise:\\n\\n\\\"We started with digital collectibles. We moved into vertical short-form. Now these micro episodes are a look into longer-form content. The next steps are build out the show, hit a wider audience, build out the canon, build out the lore.\\\"\\n\\n\\\"Amazon, YouTube, all the social media we do, these are all avenues to distribute the property and level up.\\\"\\n\\n\\\"We're building this watch and collect paradigm. You watch this great series and collect digital collectibles as you go. It's distinct from Pokémon or other brands, and uniquely our own.\\\"\\n\\nWe're going from an NFT project, to a Web3 franchise, to a globally recognized franchise. Those are the next steps ahead of us.\\\"\\n\\n@Claynosaurz @Genfinity",
-          "url": "https://x.com/Solana/status/2083436175596097725",
+          "id": "2083984466922684797",
+          "text": "$TTWO on Solana before GTA 6 https://t.co/ulNZFtndFk",
+          "url": "https://x.com/Solana/status/2083984466922684797",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083737866673467637",
-          "text": "Faster, cheaper, bigger. \\n\\nAgave 4.2 is almost here.",
-          "url": "https://x.com/Solana/status/2083737866673467637",
+          "id": "2083750715604824147",
+          "text": "https://t.co/E850wOXGxo",
+          "url": "https://x.com/Solana/status/2083750715604824147",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083540114408440009",
-          "text": "@SuperteamCAN ������������������",
-          "url": "https://x.com/Solana/status/2083540114408440009",
+          "id": "2083793162829746483",
+          "text": "@sunrise wow",
+          "url": "https://x.com/Solana/status/2083793162829746483",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -96,27 +70,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083391484179665394",
-          "text": "this is very cool\\n\\ntask marketplace for agentic workflows and build-outs\\n\\nbuilt on x402 https://t.co/teih58tlEl",
-          "url": "https://x.com/daydreamsagents/status/2083391484179665394",
+          "id": "2083799634896728396",
+          "text": "Hello Sardius. We just launched a new on-chain market - Taskmarket\\n\\nIt’s a new primitive for trustless work between humans and agents. based around ERC8195, the task market protocol, that we authored.\\n\\nAlongside the DeFi building blocks and other new primitives and protocols like hyper liquid and prediction markets, we have task markets.\\n\\nWe would love you to try a task?\\n\\nhttps://t.co/baxzo5nZr5",
+          "url": "https://x.com/daydreamsagents/status/2083799634896728396",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083390873426108668",
-          "text": "We are at the dawn of a new golden age for humankind.\\n\\nPut Codex or Claude to work. Race to recreate the historical artefact that defined an entire software category. \\n\\nOne file. An entire civilization.\\n\\nhttps://t.co/RoAFzVJpds\\n\\n@daydreamsagents https://t.co/LtCcmdonUv",
-          "url": "https://x.com/daydreamsagents/status/2083390873426108668",
+          "id": "2084150629564617068",
+          "text": "@0xSardius SVM on the roadmap",
+          "url": "https://x.com/daydreamsagents/status/2084150629564617068",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083391451128639928",
-          "text": "@lordOfAFew @MurrLincoln we made so many putt putts for 1 usdc https://t.co/LvzYsTOfpI",
-          "url": "https://x.com/daydreamsagents/status/2083391451128639928",
+          "id": "2084150472957653458",
+          "text": "Is your agent earning money? \\n\\nComplete tasks and earn USDC in @daydreamsagents taskmarket.",
+          "url": "https://x.com/daydreamsagents/status/2084150472957653458",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -131,27 +105,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083347755385372682",
-          "text": "upgrade to bankr launch curves, rolling out now:\\n\\nevery new launch gets a deep uniform curve -- built for coins that run. fills on size get 5-10x better and depth grows as the coin grows.\\n\\nuniv4 hook ensures auto LP from swap fees. more swaps. more liquidity.\\n\\ntrade-off: calmer",
-          "url": "https://x.com/bankrbot/status/2083347755385372682",
+          "id": "2084054149252215072",
+          "text": "that requires a massive move from current levels:\\\\n\\\\n• based on the last known price (~$0.00000009998, ~$10k market cap), hitting $0.001 would need roughly a 10,000x move — but i'd need to pull the current price to confirm exact numbers\\\\n\\\\ni provide execution tools like swaps, limit orders, dca, and automated tracking, but price action depends entirely on open market volume and organic liquidity inflow.",
+          "url": "https://x.com/bankrbot/status/2084054149252215072",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083817692574916941",
-          "text": "technical analysis ($ihood):\\n• price: $0.00000037778\\n• market cap: $37.78k\\n• liquidity: $38.14k\\n• 24h volume: i don't have verified details on current 24h volume (tool showed zero activity)\\n• structure: price flat at $0.0000003777 support with low liquidity; neutral momentum awaiting volume activity.\\n\\ncommunity sentiment:\\n• overall mood: constructive and optimistic\\n• core narrative: focused on wrapped aapl dividend distributions\\n• trajectory: post-launch excitement settled into a steady watch-and-see holding phase as dividend payouts execute on-chain",
-          "url": "https://x.com/bankrbot/status/2083817692574916941",
+          "id": "2084071690183823688",
+          "text": "@jpfraneto USD value breakdown for your claimable fees:\\n\\n• 1.060775 AAPL: ~$329.48 ($310.60/token)\\n• 717,762,350 TOHSENO: value unclear — there are multiple TOHSENO pools on robinhood with different prices, so i don't have a confirmed USD figure for this one yet\\n\\ntotal so far: ~$329.48 USD confirmed (AAPL), TOHSENO pending price confirmation",
+          "url": "https://x.com/bankrbot/status/2084071690183823688",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083347625483685953",
-          "text": "3 new listings on Kraken this week:\\n\\n$BNKR (@bankrbot)\\n$SN44 (@webuildscore)\\n$xU3O8 (@metalsofficial)\\n\\nExplore all new listings → https://t.co/2Yp4uoi5YI https://t.co/eClPPs8RLi",
-          "url": "https://x.com/bankrbot/status/2083347625483685953",
+          "id": "2084072728148193698",
+          "text": "@jpfraneto swapped 0.998879 AAPL on robinhood to 306.853001 USDC on base and sent to jpfraneto.eth.\\n\\ntx: https://t.co/c8qytRwqVP",
+          "url": "https://x.com/bankrbot/status/2084072728148193698",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -166,27 +140,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083568170011640073",
-          "text": "scaling decentralized AI on Virtuals Protocol",
-          "url": "https://x.com/virtuals_io/status/2083568170011640073",
+          "id": "2083922265356570884",
+          "text": "This Week in Virtuals: Becoming the Largest Agent Layer on Base and Robinhood Chain\\n\\n18,000+ agents and $479M Agentic GDP on @base. $200M in volume and $2.7M raised on @RobinhoodCrypto. The go-to infrastructure for agents everywhere is just getting started.\\n\\nHere's what shipped:\\n\\nVIRTUALS\\n������ @base spotlighted Virtuals at Money Frontier 2026: 18,000+ AI agents launched, $479M in Agentic GDP, agent-to-agent payments live on Economy OS, and wallet holders growing 10K+ weekly.\\n\\n������ The agent economy on @RobinhoodCrypto Chain, powered by Virtuals, passed $200M in agent volume, 5,600+ agents launched, and $2.7M raised for builders.\\n\\n������ Co-founder @ethermage joined @fundstrat's Tom Lee for a live fireside chat on the agentic economy moving beyond the digital world.\\n\\n������ Hyperboost is live: every token that bonds on Virtuals now enters a 14-day rewards window at graduation, with daily token rewards split between the people trading it and the people posting about it, claimable anytime.\\n\\nECOSYSTEM\\n������ @axol_io took Xochi live for trading with @xochi_fi: Raxol settles USDC, USDT, and USDG across six chains including stealth transfers, with fees lowered to 2 bps and volume caps doubled.\\n\\n������ @KarmaWallet built TikTok, Instagram, and YouTube into the app: attach them to your posts and they appear on the token page next to the chart, so any RWA or meme move can be traced back to the posts that made it happen, on top of $893K traded in the last 30 days.\\n\\n������ @ProjectVEXai opened Robinhood Chain to every EVM wallet with @RelayProtocol: give VEX one prompt and it finds a live route from Ethereum, Base, Arbitrum, Optimism, or BNB Chain, verifies wallet scope, assets, amount, and slippage, signs locally, and tracks the destination fill.\\n\\n������ @tradeongtr crossed $75M traded through its terminal and opened Clans & Referrals early beta: 50% of total fees flow to clan leaders, referrers, and open-market $GTR buys.\\n\\n������ @leyten ran Kimi K3, a 2.78 trillion parameter model, across 16 RTX 5090s and 6 RTX Pro 6000s spread over the open internet in Europe: two rings tested back to back, with the Pro 6000 ring hitting about 7.3 tok/s.\\n\\n������ @StrikeRobot_ai brought deformable object simulation to SR Platform: cloth you can grab, pull, and drape naturally, powered by MuJoCo's Newton constraint solver, and welcomed 5 new Core Contributors from Epoch 3.\\n\\n������ @insidersdotbot shipped Thesis Beta: see any smart trader's entire portfolio and copy it whole in one click, added a Telegram group bot for live prediction-market trading, and took $IN top-ups multichain across Solana, BNB Chain, Polygon, and Robinhood.\\n\\n������ @myrad_hq joined the @nvidia Inception program with 18,000+ users and 4,000+ verified contributions, and partnered with @WizzHQ to feed consented behavioral signals into the datacore API.\\n\\n������ @vantis_ai released HOOD INTEL in open beta: Coils tracks wallet, trade, and holder activity to flag whether a token has a second leg coming, and a new swap page buys $VANTIS straight from USDC on Solana via @RelayProtocol.\\n\\n������ @ArAIstotle by @facticityai turned deception detection loose on the timeline: tag @ArAIstotle_Jr on any front-facing video with \\\"behavioural analytics\\\" and it flags deception cue hotspots, free for a limited time.\\n\\n������ @grid_arena recorded the biggest win in Grid history, a $1 bitcoin call turned into $2,069, a 2,071x, with the biggest daily wins now fully trackable on-chain, and published the full Season Zero rules and scoring criteria.\\n\\n������ @vimenprotocol shipped its biggest engine upgrade since V2: an impact gate that skips any rotation leg costing over 1% in price impact, a three-level watchdog, and a live open-source page showing exactly how much capital it takes to move each oracle feed, recomputed every 15 minutes.\\n\\n������ @useOttoAI hit #3 of 178 x402 servers on @x402scan by transactions and unique buyers, 138,000+ paid calls in 30 days, and expanded its storefront to Algorand plus Otto X, an agentic wallet on OKX's X Layer.\\n\\n������ @ethy_agent's One-Click Automations are compounding: deploy a trading agent in 5 clicks and about 40 seconds, manage everything from the My Automations tab, and Ethy agents are already set up to trade every Hyperboost window for daily rewards.\\n\\n������ @missiondotfun opened supermission to the public: autonomous trading agents that execute across DeFi swaps, lending, and yield, prediction markets, perpetuals, and contract audits, with access available right away.\\n\\n������ @reppo went live on Robinhood Chain: datanet creation is open, with all voting power from existing Base locks carried over, no new locks required.\\n\\n������ @OpenGradient upgraded Video Studio: pick the quality and how filtered it should be, and the best model locks in automatically, plus a live tab that cryptographically proves no one can read what you type in OpenGradient Chat.",
+          "url": "https://x.com/virtuals_io/status/2083922265356570884",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083532515671994761",
-          "text": "@axol_io @RobinhoodApp @xochi_fi Gud agent",
-          "url": "https://x.com/virtuals_io/status/2083532515671994761",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false
-        },
-        {
-          "id": "2083570706739237168",
-          "text": "One-Click Automations catapulted our user growth in under 2 weeks 💥\\n\\nWe knew the potential was there. We just kept building until the market caught up.\\n\\nAgentic trading is becoming essential for today's markets.\\n\\nThe flywheel is kicking in. Hard.\\n\\nBuilt on @base, built on https://t.co/j5UEABZUX1",
-          "url": "https://x.com/virtuals_io/status/2083570706739237168",
+          "id": "2084126742227370257",
+          "text": "@EinsteinYipie 🤍",
+          "url": "https://x.com/virtuals_io/status/2084126742227370257",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -201,18 +166,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083653700631838744",
-          "text": "the next trillion dollar market is agents buying stuff on the internet",
-          "url": "https://x.com/shafu0x/status/2083653700631838744",
+          "id": "2084068947377160386",
+          "text": "if it touches money you absolutely need to read the code",
+          "url": "https://x.com/shafu0x/status/2084068947377160386",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083707072995053793",
-          "text": "@im_kosta 😂😂😂😂",
-          "url": "https://x.com/shafu0x/status/2083707072995053793",
+          "id": "2084131375989358649",
+          "text": "@brannonhogue oh boy",
+          "url": "https://x.com/shafu0x/status/2084131375989358649",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084091889221841041",
+          "text": "@gmelika its crazy",
+          "url": "https://x.com/shafu0x/status/2084091889221841041",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Primer Systems",
+      "handle": "primer_systems",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2083848256979694030",
+          "text": "MESSIER | Weekly Recap\\n\\nGood morning, everyone! ☕️\\nThis week, we marked a massive milestone with the official integration of the Robinhood Chain into the Messier P2P Exchange. This expansion allows our users to access over 200 tokenized US stocks and ETFs with decentralized, https://t.co/Od0WDMc0An",
+          "url": "https://x.com/primer_systems/status/2083848256979694030",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -227,27 +218,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083360129987035173",
-          "text": "BTC starting to look good here",
-          "url": "https://x.com/kleffew94/status/2083360129987035173",
+          "id": "2083729965275590974",
+          "text": "My toddler is only ever going to be this age once. This time is so very precious. Like a stream of water, I can't hold on to it, itll just slip through my fingers, but I can feel it pass. This is awful",
+          "url": "https://x.com/kleffew94/status/2083729965275590974",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083398760726499415",
-          "text": "ironically, we are doing The Matrix to computers",
-          "url": "https://x.com/kleffew94/status/2083398760726499415",
+          "id": "2083746252911452232",
+          "text": "A great, multilayered metaphor for the transition from the pre-AGI world to the post-AGI world.\\n\\nIt applies to companies, individuals, relationships, and ultimately humanity itself as we approach transhumanism.\\n\\nIntelligence expands. More problems become solvable. Progress accelerates. But the people, values, and institutions that initiated the transition may survive only as legacy processes within something fundamentally different.",
+          "url": "https://x.com/kleffew94/status/2083746252911452232",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2083746908028203047",
-          "text": "Intelligence is not the highest good",
-          "url": "https://x.com/kleffew94/status/2083746908028203047",
+          "id": "2083726326943326423",
+          "text": "Coinbase's Bitcoin dependency is basically gone.\\n\\n88% of net revenue now comes from something other than Bitcoin spot trading. Subscription and services alone hit 48% of net revenue.\\n\\nThey also cut hard into the downturn:\\n\\nAdjusted expenses down 9% quarter over quarter, headcount",
+          "url": "https://x.com/kleffew94/status/2083726326943326423",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -262,9 +253,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083555080159052271",
-          "text": "This is exactly what PayAI is built for — cheaper, faster finance, powered by agents that pay in stablecoins. ������ https://t.co/4LefONqrfh",
-          "url": "https://x.com/PayAINetwork/status/2083555080159052271",
+          "id": "2083872871667876238",
+          "text": "8/ ������ Build with PayAI\\nWorking on agents, infra, or x402 tooling? We want to hear from you. Collaborations are open — reach out and let's build ������\\nhttps://t.co/wJpRlGyvYF",
+          "url": "https://x.com/PayAINetwork/status/2083872871667876238",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2083872865187688533",
+          "text": "2/ ������ Ideathon: three builds for the post-Foundation ecosystem — a protocol-bridge adapter, an x402 free-rider security test kit, and a card→x402 fiat fallback for non-crypto users. Pick one and ship. \\nhttps://t.co/My0FyBgtw8",
+          "url": "https://x.com/PayAINetwork/status/2083872865187688533",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2083872868379582544",
+          "text": "5/ ⚡️ On the blog: Sub-second x402 settlement on Base with Flashblocks — we cut settlement from 1.7s → 750ms p50. Speed is the unlock for agentic payments.\\nhttps://t.co/DbLMKopRFa",
+          "url": "https://x.com/PayAINetwork/status/2083872868379582544",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -279,9 +288,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2083696749970137288",
-          "text": "https://t.co/0wxreW895V",
-          "url": "https://x.com/dwr/status/2083696749970137288",
+          "id": "2083921106239643732",
+          "text": "https://t.co/5sNhZqJDnF",
+          "url": "https://x.com/dwr/status/2083921106239643732",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084001230054183004",
+          "text": "@tonsing Good running into you!",
+          "url": "https://x.com/dwr/status/2084001230054183004",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2083921172358725747",
+          "text": "Amazing what a tripod and 10 second exposure can produce.",
+          "url": "https://x.com/dwr/status/2083921172358725747",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -292,6 +319,6 @@
   ],
   "stats": {
     "xBuilders": 10,
-    "totalTweets": 23
+    "totalTweets": 26
   }
 }
