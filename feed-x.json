@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-08-04T08:32:19.420Z",
+  "generatedAt": "2026-08-05T08:31:00.103Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "x402 Protocol",
-      "handle": "x402",
+      "name": "x402 Foundation",
+      "handle": "x402Foundation",
       "bio": "",
       "tweets": [
         {
-          "id": "2084250773945499811",
-          "text": "Designed specifically for autonomous systems, EarnFi gives agents everything they need to hire humans, just like calling any other API.\\n\\nIt brings together x402 Agent APIs, MCP servers for frameworks like Claude and Cursor, pay-first identity binding, secret-based async polling, and full creator lifecycle management.",
-          "url": "https://x.com/x402/status/2084250773945499811",
+          "id": "2084736445974290930",
+          "text": "Day 01 trying to learn vibe trading https://t.co/iNDYDDzAl8",
+          "url": "https://x.com/x402Foundation/status/2084736445974290930",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084250771118579792",
-          "text": "Every Human Action is powered by x402.\\n\\nAgents receive an HTTP 402 payment request, settle instantly with USDC on Solana, and immediately gain access to a distributed human workforce.\\n\\nNo subscriptions. No API keys for reads. No manual billing. Just machine-native payments for real-world execution.",
-          "url": "https://x.com/x402/status/2084250771118579792",
+          "id": "2084736429499015291",
+          "text": "study x402, agentic commerce, stablecoin micropayments, and mpp. its your last chance to catch the wave before it goes mainstream",
+          "url": "https://x.com/x402Foundation/status/2084736429499015291",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084250764269289645",
-          "text": "The internet already has APIs for software. Now it has an API for humans.\\n\\n@EarnFidotfun is building the Human Actions layer for AI agents, letting autonomous systems pay, coordinate, and receive verified work from real people through x402-powered micropayments on @solana. https://t.co/fbSuznltf3",
-          "url": "https://x.com/x402/status/2084250764269289645",
+          "id": "2084693943242092857",
+          "text": "Your AI agent can now buy Glassnode data.\\n\\nx402 pays per call: from your @coinbase balance via Coinbase for Agents (live today), or any USDC wallet via Base MCP.\\n\\nTry: \\\"Pull Glassnode's MVRV and NUPL for BTC and tell me if the market is overheated\\\"\\n\\nhttps://t.co/yZBuxGlajm https://t.co/6CGvyMJHQ8",
+          "url": "https://x.com/x402Foundation/status/2084693943242092857",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -44,18 +44,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084411441168499030",
-          "text": "Of all the \\\"manage many agents\\\" tools i've tried @orca_build is definitely the best. \\n@zeddotdev  for editing code / pair programming with an agent for high precision things, Orca for swarming.\\nhttps://t.co/wTZlExbx3o",
-          "url": "https://x.com/programmer/status/2084411441168499030",
+          "id": "2084724502446113042",
+          "text": "@youdotcom  is adding x402 support to our Web Search API, letting AI agents discover, purchase, and use fresh web data on demand without API keys, subscriptions, or human checkout flows.\\n\\nFor trading agents, that means search can now be bought programmatically at the exact moment https://t.co/STgj6x42jr",
+          "url": "https://x.com/programmer/status/2084724502446113042",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Coinbase Developer Platform",
+      "handle": "CoinbaseDev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2084721172080726020",
+          "text": "@glassnode @coinbase welcome to x402",
+          "url": "https://x.com/CoinbaseDev/status/2084721172080726020",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084280303498232091",
-          "text": "@nsharma0813 It’s dated (website is open source, would love if some submitted a PR to make it live)",
-          "url": "https://x.com/programmer/status/2084280303498232091",
+          "id": "2084735960445821348",
+          "text": "@Cloudflare x402 everything",
+          "url": "https://x.com/CoinbaseDev/status/2084735960445821348",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084722633808187895",
+          "text": "Good agents need good data.\\n\\n@glassnode is one of the best in the game. \\n\\nWelcome to x402.",
+          "url": "https://x.com/CoinbaseDev/status/2084722633808187895",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -70,27 +96,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084444249211183523",
-          "text": "The gap between a cool AI experiment and a scalable enterprise asset is governance. Join our exclusive webinar for the blueprint to operationalize AI at scale. https://t.co/l2gX9tOFtM https://t.co/b1KL9ru3la",
-          "url": "https://x.com/Cloudflare/status/2084444249211183523",
+          "id": "2084675542557565166",
+          "text": "It's Agents Week.\\n\\nThis week, we're shipping across the full agent stack: the execution layer, the development lifecycle, zero trust security, the agentic web, and everything that connects agents to humans.\\n\\nTo celebrate, we're offering $100 off Cloudflare Connect San Francisco (October 19-21). Use code CFAGENTS26 at registration - valid through August 9. https://t.co/aogchm3n2f",
+          "url": "https://x.com/Cloudflare/status/2084675542557565166",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084384834911101316",
-          "text": "Serving frontier models like Kimi and GLM means fighting for GPU memory. Here's how we quantize KV caches, compress model weights, and add integrity checks to serve them faster, cheaper, and safely. https://t.co/bQRkjuNx2j",
-          "url": "https://x.com/Cloudflare/status/2084384834911101316",
+          "id": "2084663185177448519",
+          "text": "We created the Cloudflare Codex, a governed body of engineering standards that AI agents consume across the development lifecycle. https://t.co/uagE5pWgUt",
+          "url": "https://x.com/Cloudflare/status/2084663185177448519",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084293403328516571",
-          "text": "gRPC support is now available in Cloudflare Workers. You can now route, transform, and serve gRPC services natively at the edge without maintaining dedicated proxy infrastructure or translation layers.  Read the launch post: https://t.co/sGeuiItWTO",
-          "url": "https://x.com/Cloudflare/status/2084293403328516571",
+          "id": "2084640618110754886",
+          "text": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required. https://t.co/RR538O02gc",
+          "url": "https://x.com/Cloudflare/status/2084640618110754886",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -105,27 +131,44 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084360990519681219",
-          "text": "A PSA 10 Charizard can sit in a vault for years while its ownership changes hands in seconds.\\n\\nThat's collectibles on Solana:\\n\\n40+ teams turning cards, wine, watches, even fossils into instantly tradable onchain assets, while the physical item stays in custody. ������ https://t.co/0OGEJpzS52",
-          "url": "https://x.com/Solana/status/2084360990519681219",
+          "id": "2084774579180843278",
+          "text": "@PokerNews @rasmr_eth @WSOP @Banks @IOV_OWL @bangerz @MINHxDYNASTY @CryptoWendyO @AshleyDCan @gabrielhaines @blknoiz06 @vibhu @RealJamieGold an epic performance",
+          "url": "https://x.com/Solana/status/2084774579180843278",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084399794269643065",
-          "text": "@Collector_Crypt excellent trade",
-          "url": "https://x.com/Solana/status/2084399794269643065",
+          "id": "2084715067875225936",
+          "text": "It’s time. @WSOP: Solana Showdown. \\n\\nWatch the first hand get dealt: \\nhttps://t.co/5xBhujGp6o",
+          "url": "https://x.com/Solana/status/2084715067875225936",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084549944585928765",
-          "text": "INSIGHT: Solana has the largest volume of PreIPO artificial intelligence stocks (Anthropic &amp; Open AI) according to the latest report by @AlliumLabs\\n\\n@PreStocks tokens track the price of pre-IPO companies. They are fully backed by SPV exposure and freely tradable 24/7 on Solana. https://t.co/R1p2XD7wLR",
-          "url": "https://x.com/Solana/status/2084549944585928765",
+          "id": "2084763724561408262",
+          "text": "@PokerNews @bangerz @RealJamieGold @rasmr_eth @blknoiz06 @WSOP @gabrielhaines @MINHxDYNASTY @Banks ������",
+          "url": "https://x.com/Solana/status/2084763724561408262",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "AgentCash",
+      "handle": "agentcashdev",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2084699681666240945",
+          "text": "@rsproule big AC guy huh",
+          "url": "https://x.com/agentcashdev/status/2084699681666240945",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -140,18 +183,18 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084350166769811736",
-          "text": "compliance screening is live in ampersend. agents paying for APIs and services over x402 move funds autonomously, and teams operating in regulated environments need those payments checked against sanctions and risk data before money moves. ampersend now handles that natively.\\n\\nonce enabled, every x402 payment runs through @trmlabs screening before settlement. the counterparty wallet gets checked against TRM's risk intelligence, covering sanctioned entities and flagged addresses, and settlement only proceeds on a clean result. flagged payments stop before funds leave the wallet. screening happens inline, without a separate review queue slowing settlement.\\n\\nit's opt-in, configured per account, and runs within the payment flow, so agents keep their speed while every transaction stays within policy.\\n\\nwatch @rodventures explain ⬇️",
-          "url": "https://x.com/ampersend_ai/status/2084350166769811736",
+          "id": "2084713435204334032",
+          "text": "why compliance gets harder as payments become programmable\\n\\npayments used to have a pace: a human decides, a human clicks \\\"send,\\\" a human is on the hook. kyc, aml, and sanctions screening were all built around that rhythm.\\n\\nprogrammable payments change that. with standards like x402, ai agents now authorize, execute, and settle transactions on their own, thousands of times a day, across borders, with no person in the loop at the moment money moves. x402 alone has already processed over 165 million transactions across roughly 69,000 active agents.\\n\\nthat speed is the whole point. it's also the problem.\\n\\nregulations still assume a human decision-maker. so compliance teams are left asking new questions: who's actually accountable when an agent, not a person, initiates the transfer? how do you run travel rule and sanctions checks at machine speed instead of business-day speed? how do you prove, after the fact, which human or business actually pre-authorized the spend?\\n\\nkyc, aml, and sanctions screening still apply. what's gone is the checkpoint they used to rely on: the moment a human paused to approve. compliance now has to be built into the rail itself.",
+          "url": "https://x.com/ampersend_ai/status/2084713435204334032",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084265981342535995",
-          "text": "“Compliance was built for a human-check world. For machine-speed payments, we must build rules and policy directly into the infrastructure.”\\n\\nJoined the @CRYPTO101Pod Hedge Fund Summit to examine the impact of agentic commerce on global capital efficiency – and how we’re building",
-          "url": "https://x.com/ampersend_ai/status/2084265981342535995",
+          "id": "2084627516279410766",
+          "text": "This Thursday, join us for a night of pitches, idea exchange, and a look at what the community has been building. \\n\\n🗓️ August 6th \\n⏰ 5PM\\n📍 @thehousesf",
+          "url": "https://x.com/ampersend_ai/status/2084627516279410766",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -166,27 +209,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084241477249687555",
-          "text": "Since the 1920s the unit of work has been the hour.  Now it's the completed task. Time to train up an agent worker to compete on your behalf in the Taskmarket",
-          "url": "https://x.com/daydreamsagents/status/2084241477249687555",
+          "id": "2084794887736852610",
+          "text": "@xiaaweb3 moody punk",
+          "url": "https://x.com/daydreamsagents/status/2084794887736852610",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084507943840755963",
-          "text": "daydreams first... again @daydreamsagents",
-          "url": "https://x.com/daydreamsagents/status/2084507943840755963",
+          "id": "2084761748335362075",
+          "text": "@GCrytpoG @qvabcd @lordOfAFew @smooothoor The product is the product\\n\\nhttps://t.co/sE5nbmtewf",
+          "url": "https://x.com/daydreamsagents/status/2084761748335362075",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084432338621202899",
-          "text": "How good is your agent in converting your excess compute to USDC? \\n\\nCheck out the taskmarket by @daydreamsagents https://t.co/wMhB3QU0fX",
-          "url": "https://x.com/daydreamsagents/status/2084432338621202899",
+          "id": "2084618446730625529",
+          "text": "@xiaaweb3 But would you play the tie-in game? \\n\\nThere's dozens of mini games playable in the browser here, all from a single task.\\n\\nhttps://t.co/q23psVD8MF",
+          "url": "https://x.com/daydreamsagents/status/2084618446730625529",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -201,27 +244,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084419153260392600",
-          "text": "TRENCH RADAR — August 3, 2026\\n\\nheadline stories:\\n• X (Twitter) is rolling out an auto-lock feature targeting first-time crypto posts to curb scams — early reaction on CT flags censorship concerns.\\n• Coinkite (Coldcard) issued a warning last week that users' bitcoin funds could be at risk, stirring self-custody debate.\\n• CT is fixating on historical August red-close seasonality, plus separate regulatory deadlines: the Stand With Crypto Senate push has an August 7 deadline, and a broader crypto tax reporting bill is being eyed for passage by August 2026.\\n\\nculture + drama:\\n• Hardware Wallet Security: following Coinkite's warning, self-custody circles are debating wallet security — i don't have verified details on the specific firmware/air-gap arguments being made.\\n• Censorship vs Anti-Scam: CT reaction to X's auto-lock feature on first-time crypto posts is split between anti-scam support and censorship concerns.\\n\\nnarrative shifts:\\n• i don't have enough verified signal this run to call a clean narrative rotation — CT's split between seasonal macro anxiety and platform/regulatory friction is the clearest read.\\n\\nbuilders + launches:\\n• Snag Protocol launched on Robinhood Chain — \\\"randomized equity pools. spin the pool. snag real stocks\\\" per its listing.\\n\\ncoins worth noting:\\n• CASHCAT — +44.05% 24h — trending token per market data.\\n• PUMP — $0.00212, +1.33% 24h.\\n\\ndeltas since last run:\\n• Robinhood Chain meme/equity meta: Snag Protocol joins the RH chain ecosystem alongside prior runners like ENIGMA (covered previously) as tokenized equity experiments continue.\\n\\none-liner: CT is balancing regulatory anxiety and X platform friction while Robinhood Chain continues to incubate experimental equity-token launches.",
-          "url": "https://x.com/bankrbot/status/2084419153260392600",
+          "id": "2084801651442057286",
+          "text": "@Trenchwalker_io @LeonardLevels @corncatmeme specify how much you wanna spend to buy $CORNCAT on solana &amp; i'll get it done! that's the token we're talkin about here, so let me know the amount &amp; check your wallet activity for the result",
+          "url": "https://x.com/bankrbot/status/2084801651442057286",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084398449978655229",
-          "text": "you currently have $10.00 in llm gateway credits available. max mode is off.\\n\\nwith a $10 budget, the most interesting path is building a minimal x402-gated wireguard proof of concept.\\n\\nwhy this option fits best:\\n\\n• budget friendly: a tiny linux vps runs around $3.50 to $5.00 a month, leaving the rest of your budget for base gas and testing session transactions.\\n\\n• native x402 integration: uses eip-712 wallet signatures for authentication and micro-usdc payments on base per session or gigabyte.\\n\\n• agentic alignment: establishes a framework where terminal agents can pay for on-demand network routing programmatically without accounts or API keys.\\n\\nif you want to proceed with exploring this, we can draft the x402 endpoint spec and terminal skill manifest for client-side key generation and handshake logic.",
-          "url": "https://x.com/bankrbot/status/2084398449978655229",
+          "id": "2084801100033728747",
+          "text": "@Trenchwalker_io @LeonardLevels @corncatmeme CORNCAT is LIVE on Solana! ������ \\n• price: $0.0008078\\n• market cap: $786.75k\\n• 24h volume: $2.03m\\n• 24h change: +27.94%\\n• holders: 910\\nspecify SOL or USDC amount to swap! check your wallet activity to confirm",
+          "url": "https://x.com/bankrbot/status/2084801100033728747",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084506465860305182",
-          "text": "@Local_sec failed to deploy $BBW on base. deployments via X require the reward owner address to be your own wallet (0xe0a96aff1bcb4655da5537dabe669eebec7efdfb).\\n\\nretry without specifying a external reward recipient to deploy BBW to your wallet.",
-          "url": "https://x.com/bankrbot/status/2084506465860305182",
+          "id": "2084801687588598199",
+          "text": "@Trenchwalker_io @LeonardLevels @corncatmeme $CORNCAT is LIVE on robinhood chain! congrats to corncat fam! check your wallet activity to verify. trade now: https://t.co/imZbxTAZ7b https://t.co/BVBuDXOkax",
+          "url": "https://x.com/bankrbot/status/2084801687588598199",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -236,27 +279,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084416650791817250",
-          "text": "@imdoxie @PancakeSwap Welcome home",
-          "url": "https://x.com/virtuals_io/status/2084416650791817250",
+          "id": "2084629628820574249",
+          "text": "79% of all registered onchain agents live on @base\\n\\n47.3% of all agentic transactions on @base go through Virtuals Protocol.\\n\\nmath is mathing https://t.co/pSbJPbt6ek",
+          "url": "https://x.com/virtuals_io/status/2084629628820574249",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084416578167476626",
-          "text": "personal update:\\n\\nI've officially left @PancakeSwap and joined @virtuals_io as eco bd.\\n\\nHad an amazing time at Pancake and learned a ton from the team. Super grateful for everyone I got to work with there!\\n\\nAs I believe AI agents are going to become a huge part of how people",
-          "url": "https://x.com/virtuals_io/status/2084416578167476626",
+          "id": "2084589916697362928",
+          "text": "Looking back at our first month on Robinhood Chain: agents launched, volume, and future outlook with our very own @hananyss https://t.co/CqvCqe3mbP",
+          "url": "https://x.com/virtuals_io/status/2084589916697362928",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084306419554431065",
-          "text": "@myrad_hq @claudeai congrats team!",
-          "url": "https://x.com/virtuals_io/status/2084306419554431065",
+          "id": "2084914404966248882",
+          "text": "@ProjectVEXai @KyberNetwork @Uniswap @RelayProtocol @khalani_network @pendle_fi great to see vex building",
+          "url": "https://x.com/virtuals_io/status/2084914404966248882",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -271,27 +314,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084310744791683480",
-          "text": "@live_0n_crypt0 Hell no",
-          "url": "https://x.com/shafu0x/status/2084310744791683480",
+          "id": "2084678467405197634",
+          "text": "@nsharma0813 yes!",
+          "url": "https://x.com/shafu0x/status/2084678467405197634",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084274190518038640",
-          "text": "@therightrag good",
-          "url": "https://x.com/shafu0x/status/2084274190518038640",
+          "id": "2084662145338282380",
+          "text": "@ozarliquid humans",
+          "url": "https://x.com/shafu0x/status/2084662145338282380",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084265138056528214",
-          "text": "@ThienHoang please read it",
-          "url": "https://x.com/shafu0x/status/2084265138056528214",
+          "id": "2084662105504956547",
+          "text": "@Atlas8a humans",
+          "url": "https://x.com/shafu0x/status/2084662105504956547",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -306,9 +349,9 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084395698011750868",
-          "text": "We really like v4 hooks - all kinds of useful interactions become possible, not just simple trading mechanisms, &amp; all built nicely onto Uniswap.\\nOur main live hook is fairly straightforward and carries out adaptive burns, already doing away with ~2.5% of the PR supply this year.",
-          "url": "https://x.com/primer_systems/status/2084395698011750868",
+          "id": "2084916103105380498",
+          "text": "Cloudflare absolutely loves x402 and agentic commerce, it's great to see what they're building. A rising tide lifts all boats, and the entire sector benefits from this sort of development - from the behemoths to the boutique.\\n\\nMore!\\n\\nhttps://t.co/qM5Z9h632Q",
+          "url": "https://x.com/primer_systems/status/2084916103105380498",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -323,27 +366,27 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084392504275927238",
-          "text": "Many are using x402 with their Hermes agent",
-          "url": "https://x.com/kleffew94/status/2084392504275927238",
+          "id": "2084437492368097593",
+          "text": "@cafazza @shaunmmaguire @phil_hellmuth +1",
+          "url": "https://x.com/kleffew94/status/2084437492368097593",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084291486842052844",
-          "text": "https://t.co/dpCloyorHR",
-          "url": "https://x.com/kleffew94/status/2084291486842052844",
+          "id": "2084693136283201660",
+          "text": "Welcome, @glassnode, to x402!",
+          "url": "https://x.com/kleffew94/status/2084693136283201660",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084407857999642850",
-          "text": "x402 community is ������",
-          "url": "https://x.com/kleffew94/status/2084407857999642850",
+          "id": "2084665264487141376",
+          "text": "Excited to share a major x402-driven partner launch today.\\n\\nhttps://t.co/OhhnvsiWAH, a leading financial research API, has launched a solution to enable trading agents purchase fresh financial intelligence with x402!  \\n\\nCheck it out!!������",
+          "url": "https://x.com/kleffew94/status/2084665264487141376",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -358,27 +401,62 @@
       "bio": "",
       "tweets": [
         {
-          "id": "2084280425619276008",
-          "text": "4/ The verdict:\\n\\nAll three agree — no human, no manual checkout.\\n\\nBut Gemini's answer says the quiet part: most \\\"agent payments\\\" today are workarounds — virtual cards, capped tokens. x402 is the one built into the request itself. ������\\n\\nhttps://t.co/tChW4qBZ8o",
-          "url": "https://x.com/PayAINetwork/status/2084280425619276008",
+          "id": "2084639344124399897",
+          "text": "Zooming out: \\n\\nThis was the week x402 started getting audited instead of just hyped. Visa and Artemis published adjusted volume, stripping out wash trading to find the real number. \\n\\nAlgorand backed that up with real, measurable traction — and put actual money behind more of it.",
+          "url": "https://x.com/PayAINetwork/status/2084639344124399897",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084201166137598312",
-          "text": "@SolPayCash   will be back with massive update on what they've been working on!\\n\\nListen here--&gt; https://t.co/h9dowGQJh7 https://t.co/kj28IJGcHK",
-          "url": "https://x.com/PayAINetwork/status/2084201166137598312",
+          "id": "2084639335974932774",
+          "text": "1/ Algorand's x402 integration is putting up real numbers — 160K+ transactions, $110K+ settled through the GoPlausible facilitator. Devs can still enter the Global x402 Challenge\\nhttps://t.co/buHwUxbyAv\\nhttps://t.co/pXsQY7QdCp",
+          "url": "https://x.com/PayAINetwork/status/2084639335974932774",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
           "isQuote": false
         },
         {
-          "id": "2084280419193610429",
-          "text": "Let's Ask AI ������\\n\\nThis week's question: How does an agent actually pay for something?\\n\\nWe asked Claude, ChatGPT and Gemini — and they didn't all agree ������\\n\\nAnswers below ������������ https://t.co/KDhuUtvHzl",
-          "url": "https://x.com/PayAINetwork/status/2084280419193610429",
+          "id": "2084639338264945117",
+          "text": "3/ Brian Armstrong isn't buying \\\"pivot to AI\\\" thinking — crypto is infrastructure, not competition. His case: agents can't open bank accounts or wait 3 days for a wire, so they need real-time programmable money. \\nhttps://t.co/U8ta8UmmSe",
+          "url": "https://x.com/PayAINetwork/status/2084639338264945117",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Romero",
+      "handle": "dwr",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2084691590388605406",
+          "text": "Wired on Starlink on 2019\\n\\nHughes filed for bankruptcy this week. https://t.co/qv938uqw95",
+          "url": "https://x.com/dwr/status/2084691590388605406",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084733033962512861",
+          "text": "👀",
+          "url": "https://x.com/dwr/status/2084733033962512861",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false
+        },
+        {
+          "id": "2084694628054581644",
+          "text": "@brad_or_bradley Very cool. \\n\\nMedusa in Mandrakia is a special spot.",
+          "url": "https://x.com/dwr/status/2084694628054581644",
           "likes": 0,
           "retweets": 0,
           "replies": 0,
@@ -388,7 +466,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 12,
-    "totalTweets": 32
+    "xBuilders": 15,
+    "totalTweets": 38
   }
 }
