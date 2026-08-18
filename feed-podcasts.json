@@ -1,19 +1,39 @@
 {
-  "generatedAt": "2026-08-17T06:42:05.786Z",
+  "generatedAt": "2026-08-18T06:33:16.507Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "NEAR’s AI Money Thesis: Intents, Privacy, and Tokenomics | Sal Ternullo",
-      "guid": "flightcast:01KSMCYDT2WJDH9YFCCNA07PDN",
+      "title": "EtherFi’s Next Act: Stocks, Loans, and Global Banking | Mike Silagadze",
+      "guid": "flightcast:01KZZMDT2P0T93WGBRHWPJHNBF",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-05-27T10:30:00.000Z",
-      "description": "NEAR keeps showing up in strange places: cross-chain wallets, privacy apps, AI infrastructure, and now the emerging agent economy. Sal Ternullo, CEO of SVRN, joins us to explain why he thinks this is not another NEAR pivot, but the original thesis finally coming into focus. They dig into NEAR Intents, AI money, tokenomics, privacy, fee capture, agentic commerce, and why SVRN is trying to commercialize the NEAR ecosystem rather than simply hold the asset. --- 🧭OKX | 120M+ USERS WORLDWIDE https://bankless.cc/OKXapp --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🟦 COINBASE ONE | MEMBER MONTH https://bankless.cc/coinbase-one 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 2:23 Why NEAR Keeps Showing Up 3:58 Pivot or Return to Roots? 7:41 The “AI Money” Thesis 9:54 Intents, Zashi, and Real Product Market Fit 11:38 Tokenomics, Buybacks, and Value Accrual 14:45 NEAR’s Different Approach From Ethereum 18:00 Fees, Scaling, and First-Party Apps 23:04 Cross-Chain Liquidity as NEAR’s Moat 28:27 The Contrarian Investor Case for NEAR 31:43 Privacy, Enterprises, and AI Agents 39:38 What SVRN Is Building for NEAR 46:00 Investor Sentiment and Final Thoughts --- RESOURCES Sal Ternullo https://x.com/sal_ternullo SVRN https://x.com/svrn_ai --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-08-14T10:30:00.000Z",
+      "description": "EtherFi is expanding from a crypto-native neobank into a broader financial account built around DeFi. Mike Silagadze joins David to break down the next version of the product, including tokenized stocks and metals, Aave V4-powered credit, yield-bearing balances, global fiat rails, and a much more normie-friendly experience. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near-pod 🔑BITKEY | GET 10% OFF USE CODE: BANKLESS | #bitkeypartner https://bankless.cc/bitkey ✈️COINBASE ONE CARD | EARN 5% BACK IN BITCOIN https://bankless.cc/coinbase-one-card 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 EtherFi’s Next Act 4:20 Stocks, Yield, and Credit 9:48 Building Beyond the Crypto Casino 16:05 Tokenized Assets and Aave V4 22:03 How EtherFi’s Lending Market Works 26:32 EtherFi Summer and What Comes Next 30:05 From Fiat Rails to Crypto Payments 37:05 ETHFI Buybacks, Privacy, and the Endgame --- RESOURCES Mike Silagadze https://x.com/MikeSilagadze --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+    },
+    {
+      "source": "podcast",
+      "name": "Tokenized",
+      "title": "Deel Goes Live With Stablecoin Earn in 80 Markets",
+      "guid": "92584bc1-7a20-44b0-954d-fbd98ef5caae",
+      "url": "https://tokenized.simplecast.com/episodes/deel-goes-live-with-stablecoin-earn-in-80-markets-SahUBUVr",
+      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
+      "publishedAt": "2026-08-17T15:00:00.000Z",
+      "description": "On Ep. 96 of Tokenized, Simon Taylor, Head of Market Development @ Tempo and Cuy Sheffield, Head of Crypto @ Visa, are joined by Luca Prosperi, Co-Founder & CEO @ M0 and Ryan Bozarth, Co-founder & CEO @ Dakota to discuss Rain acquiring Ansa to put branded wallets on stablecoin rails, stablecoin linked cards, onchain credit and more! Timestamps: 00:00 Introduction 1:10 Rain acquires Ansa to put branded wallets on stablecoin rails 2:44 Tokenized loyalty points become liquid, interoperable and convertible with stablecoins 6:55 Stablecoin linked cards become table stakes for neobanks 11:20 Global co-brand cards could combine loyalty with onchain credit 14:45 Brazil imposes 24-hour holds on large stablecoin transfers 18:45 Brazil rules may push stablecoin flows toward self-custodial wallets 25:37 Deel expands stablecoin payroll and earn products across 80 markets 30:54 Vault products raise questions around collateral, risk and scalability 45:04 Nasdaq acquires Level Markets to advance 24/7 capital markets 48:50 Stablecoins connect capital markets, payments and corporate treasury management Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is presented by Bridge, a Stripe company. Just like the internet made information global, stablecoins are making money global. And Bridge, a Stripe company, is the infrastructure powering that shift. Built for speed, scale, and simplicity, Bridge helps businesses send, store, convert, and spend stablecoins instantly, all without borders or having to navigate the complexities of crypto. Learn more at bridge.xyz Tokenized is also presented by Fireblocks With over $100 billion in monthly stablecoin volume, Fireblocks powers stablecoin strategies at scale with infrastructure that enables PSPs, fintechs, remitters and banks to issue, move, hold, and manage stablecoins. And it’s all done securely, at scale, and with built-in compliance. Learn more at fireblocks.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! Music by Henry McLean"
+    },
+    {
+      "source": "podcast",
+      "name": "Tech Snippets Today with Joseph Raczynski",
+      "title": "We Have Godlike Tech, But Our Brains Are Still in the Stone Age with Steven Kotler",
+      "guid": "Buzzsprout-19500705",
+      "url": "https://www.youtube.com/@JosephRaczynski",
+      "podcastUrl": "https://www.youtube.com/@JosephRaczynski",
+      "publishedAt": "2026-08-17T13:00:00.000Z",
+      "description": "Now, if you’ve been following this channel for a while, you know I’ve been screaming into the digital ether about the exponential technology curve since 2015. Back then, I was basically a proud, card-carrying disciple of Dr. Peter Diamandis, looking at the early days of AI, blockchain, and tech-convergence and telling everyone who would listen: ‘The future is coming faster than you think.’ Well, guess what? It’s here. We are officially living in it. But as we race toward a world of absolute, unadulterated abundance, we’ve bumped into a massive, slightly awkward paradox. Technology has quietly handed ordinary human beings godlike powers. We are rewriting DNA, building synthetic minds, and reshaping reality at a scale our ancestors would have called a biblical miracle. But while our external tech tools are expanding exponentially, our internal software—our Stone Age brains—are still trying to avoid getting eaten by saber-toothed tigers. So the question isn&apos;t whether we can play god. It’s whether we can do it without accidentally tripping over the cord and unplugging humanity. Joining me today is a man who needs no introduction if you care about the bleeding edge of human capability. He is a New York Times bestselling author, and a peak performance expert. He has teamed up once again with Peter Diamandis to drop the ultimate psychological and tactical playbook for our current era: We Are as Gods: A Survival Guide for the Age of Abundance . Send us Fan Mail Many more amazing technology episodes to come! Subscribe and prepare for the new world. If you would like to join the show, please reach out. For more information, please visit the following: Website: https://www.josephraczynski.com/ Blog: https://JTConsultingMedia.com/ Podcast: https://techsnippetstoday.buzzsprout.com LinkedIn: https://www.linkedin.com/in/joerazz/ X: https://x.com/joerazz"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 3
   }
 }
