@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-08-28T18:06:22.884Z",
+  "generatedAt": "2026-08-29T12:08:34.932Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Tempo Mainnet: The Race to Agentic Commerce",
-      "guid": "de98f51c-5c0e-4d65-ba82-1b986b8c8730",
+      "title": "Venice is Here to Win: How a Private AI Company Plans to Take On OpenAI and Anthropic",
+      "guid": "flightcast:01KTK869EDNMY8R7JY3KQK5QW6",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-03-19T10:30:00.000Z",
-      "description": "Tempo Mainnet is live, but this episode isn’t really about just another chain launch. It’s about a bigger claim: that AI agents are about to need native money, and that the internet may need a new payment layer to support them. Georgios Konstantopoulos and Brendan Ryan join Bankless to unpack why Tempo launched with agentic payments front and center, what MPP actually is, how it compares to x402, and why they think machine-to-machine commerce could reshape everything from paid APIs to the business model of the web itself. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🪐GALAXY | INSTITUTIONAL DIGITAL FINANCE https://bankless.cc/galaxy-podcast 🏅BITGET TRADFI | TRADE GOLD WITH USDT https://bankless.cc/bitget 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 🐇MEGAETH | 1ST REAL-TIME BLOCKCHAIN https://bankless.cc/megaeth --- TIMESTAMPS 0:00 Tempo Mainnet goes live 1:18 Why the launch is focused on agents 3:58 What MPP actually is 6:30 MPP vs x402 15:28 Why agentic commerce matters 20:08 The “original sin” of the internet 26:04 MCP, NLWeb, and the emerging agent stack 34:07 The onboarding flow: wallets for agents 37:11 How Tempo’s wallet security works 40:11 Tempo chain design and specs 51:13 Why build an L1 instead of an Ethereum L2? 56:10 The Ethereum tension 1:05:01 Agent identity, reputation, and ERC-8004 1:06:53 TIP20, stablecoins, and what can be built on Tempo 1:12:36 Builder opportunity in the agentic web --- RESOURCES Georgios Konstantopoulos https://x.com/gakonst Brendan Ryan https://brendanjryan.com --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-06-08T10:40:00.000Z",
+      "description": "AI is quickly becoming the interface through which people think, work, and make decisions—but most users have no idea how much personal data they&#39;re handing over in the process. Jon and Jesse from Venice join David to make the case for privacy-first AI, explain why Venice is aiming to become a mainstream consumer AI brand, and explore how $VVV and DIEM transform inference into a crypto-economic primitive. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 1:12 Why Private AI Matters 3:01 The AI Data Honeypot 6:07 Venice’s Consumer AI Ambition 8:01 Beating the Big AI Labs 10:19 Model Aggregation and Agentic Chat 12:29 Open Source, Closed Source, and Private Grok 17:14 Who Actually Needs Private AI? 21:58 Venice’s User Base 23:53 What Drove Venice’s Recent Growth 27:21 $VVV, DIEM, and Tokenized Inference 29:00 Where Venice Gets Its Compute 32:17 Bonding Curves and DIEM Monetary Policy 39:14 Real Tokenomics, Not Just a Pie Chart 45:46 AI Agents Need Inference to Exist 52:54 ShapeShift DNA Inside Venice 55:53 Regulation, AI, and Individual Rights --- RESOURCES Jon ShapeShift https://x.com/JonShapeShift Jesse Proudman https://x.com/jesseproudman --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+    },
+    {
+      "source": "podcast",
+      "name": "Tokenized",
+      "title": "Why Thunes Chose Stablecoins for Cross Border",
+      "guid": "785c940d-e51a-4e1b-976f-f591a745828a",
+      "url": "https://tokenized.simplecast.com/episodes/why-thunes-chose-stablecoins-for-cross-border-9Zd1nF_S",
+      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "description": "On Ep. 10 of Stablecoin Stories, Simon Taylor, Head of Market Development @ Tempo and Ran Goldi, SVP Payments, Fireblocks are joined by Pritpal Shokar, Head of Product, Digital Assets @ Thunes to discuss Thunes stablecoin pre-funding and global payout capabilities, rising stablecoin demand across emerging markets and more! Timestamps: 00:00 Introduction 3:34 Real-time settlement versus traditional financial messaging infrastructure 5:22 Stablecoins shifting from speculation toward real-world payment utility 10:25 Thunes stablecoin pre-funding and global payout capabilities 14:04 Rising stablecoin demand across emerging markets and crypto-native customers 16:44 Stablecoin value comes from liquidity, speed and reach 19:47 Compliance challenges bridging traditional finance and crypto infrastructure 26:26 Tokenized assets, agentic payments and continued fiat demand 31:36 Onchain FX and stablecoin liquidity optimization across corridors 33:16 Stablecoins, tokenized money and future machine-to-machine payments Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Fireblocks With over $100 billion in monthly stablecoin volume, Fireblocks powers stablecoin strategies at scale with infrastructure that enables PSPs, fintechs, remitters and banks to issue, move, hold, and manage stablecoins. And it’s all done securely, at scale, and with built-in compliance. Learn more at fireblocks.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! Music by Henry McLean"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
