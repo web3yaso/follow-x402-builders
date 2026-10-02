@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-01T12:16:31.460Z",
+  "generatedAt": "2026-10-02T11:45:20.883Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "How Robinhood is using the SEC&#39;s New Innovation Exemption | Johann Kerbrat",
-      "guid": "flightcast:01M31NN7M7AFMPFJSG8VBD53Z0",
+      "title": "Venice is Here to Win: How a Private AI Company Plans to Take On OpenAI and Anthropic",
+      "guid": "flightcast:01KTK869EDNMY8R7JY3KQK5QW6",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-09-21T10:30:00.000Z",
-      "description": "Robinhood is trying to erase the line between crypto markets and traditional finance. David sits down with Johann from Robinhood to unpack the rise of tokenized stocks, why so much activity is already happening outside normal trading hours, and what changes when equities become programmable, composable and available across DeFi. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 👑BANKLESS CONTENT MCP https://www.bankless.com/premium --- TIMESTAMPS 0:00 Bringing Tokenization to the U.S. 2:17 How Robinhood Stock Tokens Actually Work 5:19 TradFi Pushback and Demand for Tokenized Stocks 7:59 Voting Rights, Redemption and DeFi Utility 10:29 What Happens When Stocks Trade on Weekends 13:42 Will Blockchain Become the Primary Market? 18:46 Robinhood Chain’s Early Traction 21:22 Beyond Stocks: Real Estate, Gold and More 24:22 How Robinhood Chooses What to Build 26:36 What U.S. Users Still Can’t Access 29:49 Combining Tokenized Stocks With Perps 32:51 Why Robinhood Chose Ethereum 35:32 AI Agents and the Next Robinhood Products --- RESOURCES Johann Kerbrat https://x.com/JohannKerbrat --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-06-08T10:40:00.000Z",
+      "description": "AI is quickly becoming the interface through which people think, work, and make decisions—but most users have no idea how much personal data they&#39;re handing over in the process. Jon and Jesse from Venice join David to make the case for privacy-first AI, explain why Venice is aiming to become a mainstream consumer AI brand, and explore how $VVV and DIEM transform inference into a crypto-economic primitive. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 1:12 Why Private AI Matters 3:01 The AI Data Honeypot 6:07 Venice’s Consumer AI Ambition 8:01 Beating the Big AI Labs 10:19 Model Aggregation and Agentic Chat 12:29 Open Source, Closed Source, and Private Grok 17:14 Who Actually Needs Private AI? 21:58 Venice’s User Base 23:53 What Drove Venice’s Recent Growth 27:21 $VVV, DIEM, and Tokenized Inference 29:00 Where Venice Gets Its Compute 32:17 Bonding Curves and DIEM Monetary Policy 39:14 Real Tokenomics, Not Just a Pie Chart 45:46 AI Agents Need Inference to Exist 52:54 ShapeShift DNA Inside Venice 55:53 Regulation, AI, and Individual Rights --- RESOURCES Jon ShapeShift https://x.com/JonShapeShift Jesse Proudman https://x.com/jesseproudman --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
