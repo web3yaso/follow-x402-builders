@@ -1,29 +1,19 @@
 {
-  "generatedAt": "2026-10-30T11:59:36.943Z",
+  "generatedAt": "2026-10-31T11:34:43.158Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Cloudflare Needs 100M TPS from Crypto to Fix the Internet | CEO Matthew Prince",
-      "guid": "flightcast:01KSF4B1T5XP8SWHWYSMJB7TS4",
+      "title": "Why the Near $NRR ETF is Different | Hunter Horsley and Sal Ternullo",
+      "guid": "flightcast:01M45T54NA9NW8SN77V54AVCDT",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-05-25T10:30:00.000Z",
-      "description": "The internet is about to be flooded by machines, and Matthew Prince thinks the old business model is not ready. The Cloudflare co-founder and CEO joins Bankless to explain why AI agent traffic could overtake human traffic by 2027, how crawlers are changing the economics of content, why ads and subscriptions may not survive in their current form, and how x402, stablecoins, and pay-per-crawl could create a new payment layer for the web. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🟦 COINBASE ONE | MEMBER MONTH https://bankless.cc/coinbase-one 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 1:18 When AI Bot Traffic Overtakes Humans 4:19 What Cloudflare Actually Does 10:40 Life on the Internet’s “Ice Wall” 13:33 The Internet’s Business Model Problem 17:43 Google, Traffic, and the Attention Economy 24:56 AI Agents and the End of Ads 28:47 Why Faster Answers Can Still Hurt Creators 33:26 AI Companies as the Next YouTube or Netflix 38:18 Creating Scarcity for Content Markets 41:52 Content Independence Day 45:24 Should AI Agents Count as Human Users? 51:37 The Risks of Subscription-Only AI 57:24 A Golden Age of Content Creation? 1:01:46 Pay-Per-Crawl and x402 1:04:34 Why Stablecoins Matter 1:07:56 The Cloudflare Stablecoin Question 1:14:18 The Final Form of the Internet 1:17:40 The Park Record and Local Journalism 1:22:16 The Centralization Risk 1:27:12 Advice for Content Creators --- RESOURCES Matthew Prince https://x.com/eastdakota --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
-    },
-    {
-      "source": "podcast",
-      "name": "Tokenized",
-      "title": "Payment Networks Are Identity Networks",
-      "guid": "262da251-fa02-4022-aba0-d7c755e50416",
-      "url": "https://tokenized.simplecast.com/episodes/payment-networks-are-identity-networks-DxmH_kwl",
-      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "description": "On Ep. 13 of Agentic Commerce, Simon Taylor, Founder @ Brainfood &amp; Market Dev @ Tempo and Bam Azizi, CEO &amp; Founder @ Mesh are joined by Pete Cooling, Founder &amp; CEO @ Atum to discuss building Visa's stablecoin settlement infrastructure, founding Atum, how Atum connects fragmented payment apps, rails and currencies and more! Timestamps: 00:00 Introduction 02:39 Building Visa's stablecoin settlement infrastructure and founding Atum 05:53 How Atum connects fragmented payment apps, rails and currencies 08:43 Stablecoin payments, fiat settlement operators and future lending opportunities 10:34 Bringing authorisation, fraud prevention and chargebacks to stablecoin payments 12:18 Digital identity, verifiable credentials and tokenization for secure payments 18:00 How Atum's settlement operators compete to deliver lower-cost payments 20:58 X402 and MPP support amid limited agentic payment adoption 23:47 Why stablecoin micropayments could outperform traditional card networks 27:16 High frequency streaming payments and the rise of automated transactions 30:49 AI agent hyper negotiation and real time contractor payment arrangements Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Mesh As the first global crypto payments network, Mesh makes it possible for anyone — or any agent — to pay or get paid instantly, from any wallet, on any chain, anywhere in the world. Learn more at meshpay.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! &nbsp; Music by Henry McLean"
+      "publishedAt": "2026-10-05T11:00:00.000Z",
+      "description": "NEAR just got a new institutional gateway, but the ETF may only be the beginning of the story. Bitwise CEO Hunter Horsley and Sovereign’s Sal Ternullo join David to unpack why investors are starting to view NEAR through the lens of AI, how NEAR Intents has already processed more than $32 billion in volume, what staking and token buybacks mean for the asset, and why a future filled with many AI models, chains, agents, and stablecoins could play directly into NEAR’s strengths. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 👑BANKLESS CONTENT MCP https://www.bankless.com/premium --- TIMESTAMPS 0:00 NEAR’s New ETF 2:15 Bitwise and NEAR 8:49 Selling NEAR to Investors 12:18 Intents and Buybacks 20:23 Staking and ETF Demand 26:34 The AI Opportunity 33:11 Many Models, Many Chains 38:37 AI Privacy 42:48 Closing Thoughts --- RESOURCES Sal Ternullo https://x.com/sal_ternullo Hunter Horsley https://x.com/HHorsley --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
