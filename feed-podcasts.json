@@ -1,29 +1,19 @@
 {
-  "generatedAt": "2026-11-11T13:25:43.813Z",
+  "generatedAt": "2026-11-12T14:29:57.833Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Tokenizing Latin America: Six Currencies, One Financial System | Sebastian Serrano",
-      "guid": "flightcast:01M6YBC0SAZBN9KHM3AN7CZ2P1",
+      "title": "Wall Street, Regulation, and the Future of Money | J. Christopher Giancarlo",
+      "guid": "flightcast:01M5YACEJGQTGWMRJ2ZKHR6GVR",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-11-09T11:30:00.000Z",
-      "description": "What if the next stablecoin boom isn&#39;t in dollars? Ripio co-founder and CEO Sebastian Serrano joins David Hoffman to unpack how Latin America is bringing six local currencies onchain, why self-custody wallet deposits are still so expensive, and how stablecoins could improve cross-border payments. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY2 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🌍 RIPIO | LOCAL CURRENCIES, ONCHAIN https://bankless.cc/ripio 🛡️VIZOR | THE WALLET ZCASH DEVS USE https://bankless.cc/vizor 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Crypto adoption in Latin America 5:38 Local currencies, FX and the carry trade 8:19 Inside Ripio: crypto infrastructure for LatAm 16:29 Fixing on-ramps with local stablecoins 28:26 Wrapped fiat: business model and cross-border payments 35:29 Distribution and which blockchains 42:14 Regulators, banks and market growth --- RESOURCES Sebastián Serrano https://x.com/sserrano44 --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
-    },
-    {
-      "source": "podcast",
-      "name": "Tokenized",
-      "title": "Wall Street Bets Big on 24/7 Perpetual Futures",
-      "guid": "866f97c1-011d-4436-b04c-a81cab8ff43b",
-      "url": "https://tokenized.simplecast.com/episodes/wall-street-bets-big-on-24-7-perpetual-futures-ZlHBbf0e",
-      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
-      "publishedAt": "2026-11-02T16:22:07.000Z",
-      "description": "On Ep. 107 of Tokenized, Simon Taylor, Founder @ Brainfood &amp; Market Dev @ Tempo and Pet Berisha, MD Media @ Brainfood are joined by Charlie You, Co-Founder &amp; CTO @ RWA.xyz and Chuk Okpalugo, Author @ Stablecoin Blueprint to discuss ICE and Trade[XYZ] bringing regulated perpetual futures to Hyperliquid, why 24/7 perpetual futures trading appeals to Wall Street and more! Timestamps: 00:00 Introduction 03:53 ICE and Trade[XYZ] bring regulated perpetual futures to Hyperliquid 06:07 Why 24/7 perpetual futures trading appeals to Wall Street 10:04 Hyperliquid’s JELLYJELLY incident and readiness for institutional markets 12:57 Google Cloud plans institutional crypto custody using multiparty computation 18:05 Bank procurement, cybersecurity and cloud outages influence custody decisions 26:39 SoFi launches tokenized deposits offering 4.4% yield and stablecoin conversion 31:01 How SoFi could drive mainstream consumer adoption of stablecoins 37:55 HSBC launches Hong Kong dollar stablecoin Redcoin for PayMe users 46:22 When businesses should issue their own stablecoin or use existing alternatives 50:35 Solving interoperability between closed loop stablecoins and open payment networks Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is presented by Tempo. Payments may look simple, but fraud, chargebacks, compliance and reconciliation create thousands of hidden challenges. Stablecoins help, but don’t solve them all. Tempo tackles these pain points with native account abstraction, block and allow lists, plus fast, predictable fees. Learn more at tempo.xyz Tokenized is supported by Modern Treasury Modern Treasury offers one API for fiat and stablecoins, helping teams launch payment products in days, enter new markets, and serve more customers. Trusted by companies like Procore, Navan, and Morse, and backed by over $600 billion in payments, learn how to adapt to changing payment rails and scale with confidence at moderntreasury.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! &nbsp; Music by Henry McLean"
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "description": "Is crypto building a freer financial system, or giving Wall Street and Washington new ways to control it? Former CFTC Chairman Chris Giancarlo returns to Bankless to unpack crypto&#39;s political battles, why he believes Wall Street will move onto digital rails by 2040, and what the 2008 financial crisis taught him about the limitations of traditional finance. Plus, the evolution of Bitcoin futures and perpetuals, the debate over stablecoins and CBDCs, and why financial privacy may matter more than the technology itself. His new book, The New Adventures of CryptoDad, brings these questions into focus. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🌍 RIPIO | LOCAL CURRENCIES, ONCHAIN https://bankless.cc/ripio 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 👑BANKLESS CONTENT MCP https://www.bankless.com/premium --- TIMESTAMPS 00:00 CryptoDad&#39;s New Mission 04:36 How Crypto Became Political 12:16 Why the SEC Crackdown Failed 17:09 Bitcoin Futures, Perps, and Regulation 27:54 Passing the CFTC Baton 33:52 Who Controls Digital Finance? 39:40 The 2008 Banking Blind Spot 45:31 Wall Street Moves Onchain 50:52 Privacy and the Digital Dollar --- RESOURCES Christopher Giancarlo https://x.com/giancarloMKTS The New Adventures of CryptoDad https://www.amazon.com/New-Adventures-CryptoDad-Digital-Century/dp/1394431228 --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
