@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-11-19T15:05:18.773Z",
+  "generatedAt": "2026-11-20T14:46:09.196Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "NEAR’s AI Money Thesis: Intents, Privacy, and Tokenomics | Sal Ternullo",
-      "guid": "flightcast:01KSMCYDT2WJDH9YFCCNA07PDN",
+      "title": "Democrats Are Back. Is Crypto in Trouble? | Justin Slaughter",
+      "guid": "flightcast:01M7HW23CT9YXMJ4CWNW07T6DB",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-05-27T10:30:00.000Z",
-      "description": "NEAR keeps showing up in strange places: cross-chain wallets, privacy apps, AI infrastructure, and now the emerging agent economy. Sal Ternullo, CEO of SVRN, joins us to explain why he thinks this is not another NEAR pivot, but the original thesis finally coming into focus. They dig into NEAR Intents, AI money, tokenomics, privacy, fee capture, agentic commerce, and why SVRN is trying to commercialize the NEAR ecosystem rather than simply hold the asset. --- 🧭OKX | 120M+ USERS WORLDWIDE https://bankless.cc/OKXapp --- BANKLESS SPONSOR TOOLS: 🔮POLYMARKET | #1 PREDICTION MARKET https://bankless.cc/polymarket-podcast 🟦 COINBASE ONE | MEMBER MONTH https://bankless.cc/coinbase-one 🧭OKX | TRADE, EARN, PAY to OKX | 120M+ USERS WORLDWIDE https://app.okx.com/join/USBANKLESS 🦊 METAMASK | DOWNLOAD NOW https://go.metamask.io/BL-Pod-Download 🌐BRIX | EMERGING MARKET YIELD https://bankless.cc/brix 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 2:23 Why NEAR Keeps Showing Up 3:58 Pivot or Return to Roots? 7:41 The “AI Money” Thesis 9:54 Intents, Zashi, and Real Product Market Fit 11:38 Tokenomics, Buybacks, and Value Accrual 14:45 NEAR’s Different Approach From Ethereum 18:00 Fees, Scaling, and First-Party Apps 23:04 Cross-Chain Liquidity as NEAR’s Moat 28:27 The Contrarian Investor Case for NEAR 31:43 Privacy, Enterprises, and AI Agents 39:38 What SVRN Is Building for NEAR 46:00 Investor Sentiment and Final Thoughts --- RESOURCES Sal Ternullo https://x.com/sal_ternullo SVRN https://x.com/svrn_ai --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-11-16T11:30:00.000Z",
+      "description": "Democrats are back in power. Is crypto headed for another crackdown? Paradigm senior advisor Justin Slaughter joins David Hoffman to unpack Elizabeth Warren&#39;s renewed influence, the future of CLARITY, and why banks could get another shot at stablecoin yield. They explore the surprising upside of a larger Democratic majority, how Hyperliquid is changing skeptics&#39; minds, and the political battles that could define crypto&#39;s next two years. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🌍 RIPIO | LOCAL CURRENCIES, ONCHAIN https://bankless.cc/ripio 🛡️VIZOR | THE WALLET ZCASH DEVS USE https://bankless.cc/vizor 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 02:57 Is Crypto Facing Another Oversight Fight? 15:54 Crypto Voters, Super PACs, and Elizabeth Warren 23:39 Congress and the Crypto Rulemaking Agenda 30:53 The Surprising Upside—and Crypto Use Cases 37:33 Making Crypto’s Case to Washington 45:41 Why Democrats Are Angry at Corporate America 52:30 Credit-Card Caps and the Legacy of 2008 1:03:45 What to Watch Next—and Crypto’s Long Game 1:10:38 End screen --- RESOURCES Justin Slaughter https://x.com/JBSDC --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+    },
+    {
+      "source": "podcast",
+      "name": "Tokenized",
+      "title": "Giving Agents an Identity So They Can Pay",
+      "guid": "a3c8012c-4baf-457a-84e7-965d77e7121f",
+      "url": "https://tokenized.simplecast.com/episodes/giving-agents-an-identity-so-they-can-pay-4e4bXqbg",
+      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "description": "On Ep. 15 of Agentic Commerce, Simon Taylor, Founder @ Brainfood &#38; Market Dev @ Tempo and Bam Azizi, CEO &#38; Founder @ Mesh are joined by Pat Kinsel, Founder &#38; CEO @ Proof to discuss why KYA and KYC alone cannot establish legal authorization, comparing Google, Shopify, Visa and Mastercard's agentic commerce protocols, how x401 uses verifiable credentials to authorize agent transactions and more! Timestamps: 00:00 Introduction 04:00 Deepfakes, cybersecurity threats and identity challenges in agentic commerce 04:59 Why KYA and KYC alone cannot establish legal authorization 06:23 Comparing Google, Shopify, Visa and Mastercard's agentic commerce protocols 10:44 How x401 uses verifiable credentials to authorize agent transactions 15:07 Why financial institutions block AI agents and need secure access 17:06 Intent mandates, step-up authentication and legally enforceable transaction evidence 19:39 Stablecoin micropayments and combining identity with payment authorization 23:36 FinCEN guidance, trusted credential issuers and identity verification liability 28:09 Delegating agent spending authority through signed mandates and revocable credentials 30:16 Implementing x401 through Cloudflare and transaction-specific authorization policies Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Mesh As the first global crypto payments network, Mesh makes it possible for anyone — or any agent — to pay or get paid instantly, from any wallet, on any chain, anywhere in the world. Learn more at meshpay.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! &#160; Music by Henry McLean"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }

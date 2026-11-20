@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-19T15:05:19.502Z",
+  "generatedAt": "2026-11-20T14:46:10.255Z",
   "lookbackHours": 72,
   "blogs": [],
   "stats": {
     "blogPosts": 0
-  }
+  },
+  "errors": [
+    "Blog: Error fetching x402 Report: fetch failed"
+  ]
 }
