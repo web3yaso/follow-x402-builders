@@ -1,19 +1,29 @@
 {
-  "generatedAt": "2026-11-27T15:58:48.695Z",
+  "generatedAt": "2026-11-28T14:55:50.442Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Bankless",
-      "title": "Wall Street, Regulation, and the Future of Money | J. Christopher Giancarlo",
-      "guid": "flightcast:01M5YACEJGQTGWMRJ2ZKHR6GVR",
+      "title": "Democrats Are Back. Is Crypto in Trouble? | Justin Slaughter",
+      "guid": "flightcast:01M7HW23CT9YXMJ4CWNW07T6DB",
       "url": "https://www.youtube.com/@Bankless",
       "podcastUrl": "https://www.youtube.com/@Bankless",
-      "publishedAt": "2026-10-27T11:00:00.000Z",
-      "description": "Is crypto building a freer financial system, or giving Wall Street and Washington new ways to control it? Former CFTC Chairman Chris Giancarlo returns to Bankless to unpack crypto&#39;s political battles, why he believes Wall Street will move onto digital rails by 2040, and what the 2008 financial crisis taught him about the limitations of traditional finance. Plus, the evolution of Bitcoin futures and perpetuals, the debate over stablecoins and CBDCs, and why financial privacy may matter more than the technology itself. His new book, The New Adventures of CryptoDad, brings these questions into focus. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🌍 RIPIO | LOCAL CURRENCIES, ONCHAIN https://bankless.cc/ripio 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless 👑BANKLESS CONTENT MCP https://www.bankless.com/premium --- TIMESTAMPS 00:00 CryptoDad&#39;s New Mission 04:36 How Crypto Became Political 12:16 Why the SEC Crackdown Failed 17:09 Bitcoin Futures, Perps, and Regulation 27:54 Passing the CFTC Baton 33:52 Who Controls Digital Finance? 39:40 The 2008 Banking Blind Spot 45:31 Wall Street Moves Onchain 50:52 Privacy and the Digital Dollar --- RESOURCES Christopher Giancarlo https://x.com/giancarloMKTS The New Adventures of CryptoDad https://www.amazon.com/New-Adventures-CryptoDad-Digital-Century/dp/1394431228 --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+      "publishedAt": "2026-11-16T11:30:00.000Z",
+      "description": "Democrats are back in power. Is crypto headed for another crackdown? Paradigm senior advisor Justin Slaughter joins David Hoffman to unpack Elizabeth Warren&#39;s renewed influence, the future of CLARITY, and why banks could get another shot at stablecoin yield. They explore the surprising upside of a larger Democratic majority, how Hyperliquid is changing skeptics&#39; minds, and the political battles that could define crypto&#39;s next two years. --- 📣SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- BANKLESS SPONSOR TOOLS: 🔓NEAR | TRADE CONFIDENTIALLY, GET 20% BACK https://bankless.cc/near2026 🌍 RIPIO | LOCAL CURRENCIES, ONCHAIN https://bankless.cc/ripio 🛡️VIZOR | THE WALLET ZCASH DEVS USE https://bankless.cc/vizor 🎯THE DEFI REPORT | ONCHAIN INSIGHTS https://thedefireport.io/bankless --- TIMESTAMPS 0:00 Intro 02:57 Is Crypto Facing Another Oversight Fight? 15:54 Crypto Voters, Super PACs, and Elizabeth Warren 23:39 Congress and the Crypto Rulemaking Agenda 30:53 The Surprising Upside—and Crypto Use Cases 37:33 Making Crypto’s Case to Washington 45:41 Why Democrats Are Angry at Corporate America 52:30 Credit-Card Caps and the Legacy of 2008 1:03:45 What to Watch Next—and Crypto’s Long Game 1:10:38 End screen --- RESOURCES Justin Slaughter https://x.com/JBSDC --- Not financial or tax advice. See our investment disclosures here: https://www.bankless.com/disclosures"
+    },
+    {
+      "source": "podcast",
+      "name": "Tokenized",
+      "title": "Giving Agents an Identity So They Can Pay",
+      "guid": "a3c8012c-4baf-457a-84e7-965d77e7121f",
+      "url": "https://tokenized.simplecast.com/episodes/giving-agents-an-identity-so-they-can-pay-4e4bXqbg",
+      "podcastUrl": "https://www.youtube.com/@TokenizedPodcast",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "description": "On Ep. 15 of Agentic Commerce, Simon Taylor, Founder @ Brainfood &#38; Market Dev @ Tempo and Bam Azizi, CEO &#38; Founder @ Mesh are joined by Pat Kinsel, Founder &#38; CEO @ Proof to discuss why KYA and KYC alone cannot establish legal authorization, comparing Google, Shopify, Visa and Mastercard's agentic commerce protocols, how x401 uses verifiable credentials to authorize agent transactions and more! Timestamps: 00:00 Introduction 04:00 Deepfakes, cybersecurity threats and identity challenges in agentic commerce 04:59 Why KYA and KYC alone cannot establish legal authorization 06:23 Comparing Google, Shopify, Visa and Mastercard's agentic commerce protocols 10:44 How x401 uses verifiable credentials to authorize agent transactions 15:07 Why financial institutions block AI agents and need secure access 17:06 Intent mandates, step-up authentication and legally enforceable transaction evidence 19:39 Stablecoin micropayments and combining identity with payment authorization 23:36 FinCEN guidance, trusted credential issuers and identity verification liability 28:09 Delegating agent spending authority through signed mandates and revocable credentials 30:16 Implementing x401 through Cloudflare and transaction-specific authorization policies Tokenized is sponsored by Visa A world leader in digital payments, Visa is bridging the gap between traditional financial institutions and innovative blockchain networks, helping players in the payments ecosystem navigate the ever-evolving world of tokenized fiat currencies with confidence and ease. Learn more at visa.com/crypto . Tokenized is also presented by Mesh As the first global crypto payments network, Mesh makes it possible for anyone — or any agent — to pay or get paid instantly, from any wallet, on any chain, anywhere in the world. Learn more at meshpay.com *** We’d also like to remind you that the views or opinions of our contributors today are their own and do not necessarily reflect those of the companies they are representing. Nothing we say should be taken as tax, financial, investment or legal advice, do your own research! &#160; Music by Henry McLean"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
